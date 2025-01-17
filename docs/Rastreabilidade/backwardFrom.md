@@ -6,7 +6,7 @@ A técnica **Backward-From** é uma abordagem utilizada na rastreabilidade de re
 
 Por meio do Backward-From, é possível identificar claramente de onde cada requisito se originou. Essa prática contribui para a gestão eficaz de mudanças, evitando a perda de rastreabilidade e garantindo que as funcionalidades desenvolvidas atendam às expectativas e necessidades iniciais. Além disso, o Backward-From permite uma análise crítica de como os requisitos estão alinhados com os objetivos do projeto.
 
-# Metodologia
+## Metodologia
 
 A rastreabilidade de requisitos é fundamental para o sucesso no desenvolvimento de software, pois permite garantir que todas as fases do projeto estejam alinhadas com as necessidades e os objetivos iniciais. No caso do aplicativo Threads, adotamos a técnica **Backward-From** para rastrear os requisitos de maneira estruturada, garantindo a consistência e o alinhamento das decisões ao longo do desenvolvimento.
 
