@@ -46,22 +46,63 @@ Este seguimento é destinado para a elaboração da tabela de rastreamento de re
 
 ### Legendas
 
-- **BCF:** Requisitos do Backward-From  
-- **BF:** Requisito Funcional do Brainstorm  
-- **GF:** Requisito do Grupo de Foco  
-- **IT:** Requisito da Introspecção  
-- **GLO:** Requisito do Glossário  
+- **BF:** Requisitos do Backward-From  
+- **BRS:** Requisito Funcional do Brainstorming  
+- **ENT:** Requisito da Entrevista  
+- **INT:** Requisito da Introspecção  
+- **QST:** Requisito do Questionário  
 - **RF:** Requisito Funcional  
 
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Requisitos funcionais elicitados</p></font>
 
 
-| **ID** | **Requisito e Versão** | **Descrição**              | **Implementado** | **Rastreabilidade** |
-|--------|------------------------|----------------------------|------------------|---------------------|
-| RF1    | Versão 1.0            | Criar postagens no Threads| Sim              | BCF, BF             |
-| RF2    | Versão 1.0            | Curtir postagens           | Não              | GF, IT              |
-| RF3    | Versão 1.1            | Gerenciar privacidade      | Sim              | GLO, BCF            |
+| **ID** | **Requisito e Versão**                      | **Descrição**                                                                                      | **Implementado** | **Rastreabilidade** | **Elo**  |
+|--------|--------------------------------------------|--------------------------------------------------------------------------------------------------|------------------|---------------------|----------|
+| BF01   | RF01 / 1.0                                 | O usuário deve poder configurar a visibilidade da conta.                                         | Sim              | ENT                 | ELO01    |
+| BF02   | RF02 / 1.0                                 | O usuário deve poder gravar e enviar mensagens de voz.                                           | Sim              | ENT                 | ELO02    |
+| BF03   | RF03 / 1.0                                 | O sistema deve exibir Trend Topics para visualização dos tópicos populares.                     | Não              | ENT                 | ELO03    |
+| BF04   | RF04 / 1.0                                 | O usuário deve poder definir o tema escuro ou claro no aplicativo.                              | Sim              | ENT                 | ELO04    |
+| BF05   | RF05 / 1.0                                 | O sistema deve oferecer uma área de mensagens privadas para interações.                         | Não              | ENT                 | ELO05    |
+| BF06   | RF06 / 1.0                                 | O sistema deve verificar contas com número de telefone e email cadastrados.                     | Sim              | ENT                 | ELO06    |
+| BF07   | RF07 / 1.0                                 | O sistema deve permitir a tradução automática de publicações.                                   | Não              | ENT                 | ELO07    |
+| BF08   | RF08 / 1.0                                 | O sistema deve reduzir a exibição de anúncios intrusivos.                                       | Não              | ENT                 | ELO08    |
+| BF09   | RF09 / 1.0                                 | O sistema deve implementar moderação para reduzir bots e publicações irrelevantes.             | Não              | ENT                 | ELO09    |
+| BF10   | RF10 / 1.0                                 | O sistema deve permitir o upload de vídeos em alta definição.                                   | Sim              | ENT                 | ELO10    |
+| BF11   | RF11 / 1.0                                 | O sistema deve exibir uma confirmação visual ao realizar ações.                                | Sim              | ENT                 | ELO11    |
+| BF12   | RF12 / 1.0                                 | O sistema deve oferecer um histórico de interações do usuário.                                  | Sim              | ENT                 | ELO12    |
+| BF13   | RF13 / 1.0                                 | O sistema deve permitir respostas anônimas em discussões públicas moderadas.                   | Não              | ENT                 | ELO13    |
+| BF14   | RF14 / 1.0                                 | O sistema deve permitir que o usuário salve postagens para leitura posterior.                  | Não              | ENT                 | ELO14    |
+| BF15   | RF15 / 1.0                                 | O sistema deve sugerir usuários para seguir, com base nas interações do usuário.               | Sim              | ENT                 | ELO15    |
+| BF16   | RF16 / 1.0                                 | O sistema deve permitir a criação de enquetes interativas.                                      | Não              | ENT                 | ELO16    |
+| BF17   | RF17 / 1.0                                 | O sistema deve permitir ao usuário denunciar contas ou postagens.                               | Sim              | ENT                 | ELO17    |
+| BF18   | RF18 / 1.0                                 | O usuário deve poder ocultar publicações antigas de seu perfil sem excluí-las.                 | Não              | ENT                 | ELO18    |
+| BF19   | RF19 / 1.0                                 | O sistema deve permitir backup e restauração de dados, como postagens e configurações.         | Não              | ENT                 | ELO19    |
+| BF20   | RF20 / 1.0                                 | O sistema deve permitir filtrar conteúdos no feed com base em categorias específicas.          | Não              | ENT                 | ELO20    |
+| BF21   | RF21 / 1.0                                 | O sistema deve permitir que o usuário adicione legendas automáticas aos vídeos enviados.       | Não              | ENT                 | ELO21    |
+| BF22   | RF22 / 1.0                                 | O sistema deve sugerir textos gerados por Inteligência Artificial para publicações.            | Não              | ENT                 | ELO22    |
+| BF23   | RF23 / 1.0                                 | O sistema deve oferecer reações variadas para publicações.                                      | Não              | ENT                 | ELO23    |
+| BF24   | RF24 / 1.0                                 | O sistema deve permitir salvar rascunhos de postagens mesmo sem conexão.                       | Não              | ENT                 | ELO24    |
+| BF25   | RF25 / 1.0                                 | O sistema deve permitir agendar postagens para horários futuros.                               | Não              | ENT                 | ELO25    |
+| BF26   | RF26 / 1.0                                 | O sistema deve permitir o compartilhamento de postagens externas.                              | Não              | ENT                 | ELO26    |
+| BF27   | RF27 / 1.0                                 | O sistema deve permitir criar comunidades ou grupos dentro da plataforma.                      | Não              | ENT                 | ELO27    |
+| BF28   | RF28 / 1.0                                 | O sistema deve permitir que o usuário gerencie múltiplas contas no mesmo aplicativo.           | Não              | ENT                 | ELO28    |
+| BF29   | RF29 / 1.0                                 | O sistema deve oferecer autenticação avançada para segurança do usuário.                       | Sim              | ENT                 | ELO29    |
+| BF30   | RF30 / 1.0                                 | O sistema deve permitir fixar postagens no perfil do usuário.                                  | Não              | ENT                 | ELO30    |
+| BF31   | RF31 / 1.0                                 | O sistema deve permitir editar publicações após a postagem.                                    | Não              | QST                 | ELO31    |
+| BF32   | RF32 / 1.0                                 | O sistema deve permitir marcar outros usuários em postagens.                                   | Sim              | QST                 | ELO32    |
+| BF33   | RF33 / 1.0                                 | O sistema deve permitir ver estatísticas detalhadas sobre as postagens.                       | Não              | QST                 | ELO33    |
+| BF34   | RF34 / 1.0                                 | O sistema deve permitir que o usuário receba alertas de menções.                              | Sim              | QST                 | ELO34    |
+| BF35   | RF35 / 1.0                                 | O sistema deve permitir reações a comentários em postagens.                                   | Sim              | QST                 | ELO35    |
+| BF36   | RF36 / 1.0                                 | O sistema deve permitir criar listas de amigos próximos.                                       | Não              | BRS                 | ELO36    |
+| BF37   | RF37 / 1.0                                 | O sistema deve permitir realizar pesquisas de conteúdo.                                        | Sim              | BRS                 | ELO37    |
+| BF38   | RF38 / 1.0                                 | O sistema deve permitir denunciar comentários ofensivos.                                       | Sim              | BRS                 | ELO38    |
+| BF39   | RF39 / 1.0                                 | O sistema deve sugerir postagens personalizadas de acordo com as preferências do usuário.     | Não              | BRS                 | ELO39    |
+| BF40   | RF40 / 1.0                                 | O sistema deve permitir configurar o status online ou offline do usuário.                     | Não              | BRS                 | ELO40    |
+
+<p style="text-align: center; font-size: 14px;">
+    Autores: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva,</a> <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele,</a> <a href="https://github.com/dudupaz" target="_blank">Carlos Paz,</a> <a href="https://github.com/SamuelRicosta" target="_blank"> Samuel Ribeiro. </a>
+</p>
 
 ### Tabela de Requisitos Não-Funcionais
 
@@ -69,21 +110,44 @@ Este seguimento é destinado para a elaboração da tabela de rastreamento de re
 
 #### Legendas
 
-- **BCF:** Requisitos do Backward-From  
-- **BFN:** Requisito Não Funcional do Brainstorm  
-- **GF:** Requisito do Grupo de Foco  
-- **IT:** Requisito da Introspecção  
-- **GLO:** Requisito do Glossário  
-- **RNF:** Requisito Não Funcional  
+- **BF:** Requisitos do Backward-From  
+- **BRS:** Requisito Funcional do Brainstorming  
+- **ENT:** Requisito da Entrevista  
+- **INT:** Requisito da Introspecção  
+- **QST:** Requisito do Questionário   
+- **RNF:** Requisito Não Funcional   
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Requisitos não-funcionais elicitados</p></font>
 
 
-| **ID** | **Requisito e Versão** | **Descrição**                  | **Implementado** | **Rastreabilidade** |
-|--------|------------------------|--------------------------------|------------------|---------------------|
-| RNF1   | Versão 1.0            | Garantir tempo de resposta <1s| Sim              | BCF, GF             |
-| RNF2   | Versão 1.0            | Criptografia ponta a ponta     | Sim              | IT, GLO             |
-| RNF3   | Versão 1.1            | Suporte para múltiplos idiomas | Não              | BCF, BFN            |
+
+| **ID** | **Requisito e Versão**                      | **Descrição**                                                                                      | **Implementado** | **Rastreabilidade** | **Elo**  |
+|--------|--------------------------------------------|--------------------------------------------------------------------------------------------------|------------------|---------------------|----------|
+| BF41   | RNF01 / 1.0                                 | O sistema deve reduzir anúncios intrusivos e ajustar algoritmos para maior transparência.       | Não              | INT                 | ELO41    |
+| BF42   | RNF02 / 1.0                                 | O sistema deve melhorar o algoritmo para priorizar conteúdos relevantes ao usuário.             | Não              | INT                 | ELO42    |
+| BF43   | RNF03 / 1.0                                 | O sistema deve evitar a sobrecarga de notificações irrelevantes.                                | Não              | INT                 | ELO43    |
+| BF44   | RNF04 / 1.0                                 | O sistema deve implementar moderação para reduzir bots e publicações irrelevantes.             | Sim              | INT                 | ELO44    |
+| BF45   | RNF05 / 1.0                                 | O sistema deve oferecer autenticação avançada para segurança do usuário.                       | Sim              | INT                 | ELO45    |
+| BF46   | RNF06 / 1.0                                 | O sistema deve garantir tempos de resposta inferiores a 1 segundo para interações usuais.       | Sim              | INT                 | ELO46    |
+| BF47   | RNF07 / 1.0                                 | O aplicativo deve minimizar o consumo de bateria em dispositivos móveis, garantindo uma taxa de consumo inferior a 5%. | Não              | INT                 | ELO47    |
+| BF48   | RNF08 / 1.0                                 | O sistema deve ser compatível com dispositivos móveis de versões Android 8.0 e iOS 12 ou superiores. | Sim              | INT                 | ELO48    |
+| BF49   | RNF09 / 1.0                                 | O sistema deve ser compatível com versões de navegador mais antigas, garantindo funcionalidade em Chrome 70+ e Firefox 70+. | Não              | BRS                 | ELO49    |
+| BF50   | RNF10 / 1.0                                 | O sistema deve garantir alta disponibilidade, com menos de 1% de tempo de inatividade mensal.   | Sim              | BRS                 | ELO50    |
+| BF51   | RNF11 / 1.0                                 | O sistema deve criptografar todos os dados de login e autenticação para garantir a segurança das informações. | Sim              | BRS                 | ELO51    |
+| BF52   | RNF12 / 1.0                                 | O sistema deve ser otimizado para uso em dispositivos com pouca memória RAM.                   | Não              | BRS                 | ELO52    |
+| BF53   | RNF13 / 1.0                                 | O sistema deve ser compatível com os navegadores mais recentes, como Google Chrome, Safari e Edge. | Sim              | BRS                 | ELO53    |
+| BF54   | RNF14 / 1.0                                 | O sistema deve garantir que o feed de publicações seja carregado rapidamente, mesmo com grande volume de conteúdo. | Sim              | BRS                 | ELO54    |
+| BF55   | RNF15 / 1.0                                 | O sistema deve garantir que os dados do usuário sejam armazenados de forma segura, com backup regular. | Sim              | BRS                 | ELO55    |
+| BF56   | RNF16 / 1.0                                 | O sistema deve garantir que o conteúdo do usuário seja sempre acessível, com um tempo de recuperação abaixo de 10 segundos. | Sim              | BRS                 | ELO56    |
+| BF57   | RNF17 / 1.0                                 | O sistema deve permitir que o usuário configure o status online ou offline.                     | Não              | BRS                 | ELO57    |
+| BF58   | RNF18 / 1.0                                 | O sistema deve permitir a criação de listas de amigos próximos.                                 | Não              | BRS                 | ELO58    |
+| BF59   | RNF19 / 1.0                                 | O sistema deve permitir respostas anônimas em discussões públicas moderadas.                   | Não              | BRS                 | ELO59    |
+| BF60   | RNF20 / 1.0                                 | O sistema deve permitir salvar rascunhos de postagens mesmo sem conexão.                       | Não              | BRS                 | ELO60    |
+
+
+<p style="text-align: center; font-size: 14px;">
+    Autores: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva,</a> <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele,</a> <a href="https://github.com/dudupaz" target="_blank">Carlos Paz,</a> <a href="https://github.com/SamuelRicosta" target="_blank"> Samuel Ribeiro. </a>
+</p>
 
 
 ## Elos de Rastreabilidade
@@ -137,5 +201,6 @@ PUC-Rio. **Rastreabilidade de requisitos: fundamentos e técnicas**. Disponível
 | Versão | Data       | Descrição                                             | Autor                                              | Revisor                                            |
 | :----: | ---------- | ----------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- |
 |  1.0   | 17/01/2025 | Criação do documento                                  | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Alana Gabriele](https://github.com/alanagabriele) |
+|  1.2   | 18/01/2025 | Adição das tabelas                                  | [Genilson Silva](https://github.com/GenilsonJrs) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
 
 
