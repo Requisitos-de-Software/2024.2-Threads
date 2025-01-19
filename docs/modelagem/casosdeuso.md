@@ -69,7 +69,7 @@ A Especificação de Casos de Uso complementa a visão do Diagrama de Casos de U
 
 <font size="2"><p style="text-align: center">Tabela 1 - Caso de uso 1 </p></font>
 
-#### Caso de Uso 1: Visualizar Tópicos em Alta
+####  <a id="anchor_UC01" style="visibility: hidden"></a>Caso de Uso 1: Visualizar Tópicos em Alta
 
 | **UC01**              | **Informações**                                                                                                                                                                                      |
 | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -90,7 +90,7 @@ Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele
 
 <font size="2"><p style="text-align: center">Tabela 2 - Caso de uso 2 </p></font>
 
-#### Caso de Uso 2: Editar Perfil
+####  <a id="anchor_UC02" style="visibility: hidden"></a>Caso de Uso 2: Editar Perfil
 
 | **UC02**              | **Informações**                                                                                                                                                                                                                                     |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -111,7 +111,7 @@ Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele
 
 <font size="2"><p style="text-align: center">Tabela 3 - Caso de uso 3 </p></font>
 
-#### Caso de Uso 3: Enviar Mensagem
+####  <a id="anchor_UC03" style="visibility: hidden"></a>Caso de Uso 3: Enviar Mensagem
 
 | **UC03**              | **Informações**                                                                                                                                              |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -132,7 +132,7 @@ Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele
 
 <font size="2"><p style="text-align: center">Tabela 4 - Caso de uso 4 </p></font>
 
-#### Caso de Uso 4: Criar Post
+####  <a id="anchor_UC04" style="visibility: hidden"></a>Caso de Uso 4: Criar Post
 
 | **UC04**              | **Informações**                                                                                                                                                                                                          |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

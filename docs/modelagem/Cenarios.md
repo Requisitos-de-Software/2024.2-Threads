@@ -4,7 +4,7 @@
 
 Os cenários são descrições detalhadas, geralmente em linguagem natural, que representam situações ou eventos específicos relacionados ao uso de um sistema ou aplicação. Eles têm como objetivo descrever o contexto, os atores, os recursos necessários e o fluxo de interação entre os elementos envolvidos, permitindo um entendimento mais profundo de como o sistema deve funcionar em diferentes condições. Nas Tabelas 1 a 4 possuem os cenários de 4 requisitos.
 
-## Cenário 1
+## <a id="anchor_CEN01" style="visibility: hidden"></a>Cenário 1
 
 **Tabela 1: Exibir e gerenciar Trend Topics**
 
@@ -32,7 +32,7 @@ Os cenários são descrições detalhadas, geralmente em linguagem natural, que 
     Autor: <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro </a>
 </p></font>
 
-## Cenário 2
+## <a id="anchor_CEN02" style="visibility: hidden"></a>Cenário 2
 
 **Tabela 2: Personalização do Perfil**
 
@@ -62,7 +62,7 @@ Autor: <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro
 
 </p></font>
 
-## Cenário 3
+## <a id="anchor_CEN03" style="visibility: hidden"></a>Cenário 3
 
 **Tabela 3: Envio de mensagens privadas entre usuários**
 
@@ -90,7 +90,7 @@ Autor: <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro
     Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele </a>
 </p></font>
 
-## Cenário 4
+## <a id="anchor_CEN04" style="visibility: hidden"></a>Cenário 4
 
 **Tabela 4: Sugestão de Post com Inteligência Artificial**
 
