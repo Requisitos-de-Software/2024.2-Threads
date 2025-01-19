@@ -79,7 +79,7 @@ Para validar as histórias de usuário, foi realizada uma gravação de vídeo c
 
 As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no formato de Histórias de Usuário.
 
-### US01 - Configurar visibilidade da conta
+### <a id="anchor_US01" style="visibility: hidden"></a>US01 - Configurar visibilidade da conta
 
 <details>
   <summary>US01 - Configurar visibilidade da conta</summary>
@@ -133,7 +133,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 </details>
 
-### US02 - Gravar e enviar mensagens de voz
+### <a id="anchor_US02" style="visibility: hidden"></a>US02 - Gravar e enviar mensagens de voz
 
 <details>
   <summary>US02 - Gravar e enviar mensagens de voz</summary>
@@ -185,7 +185,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 </details>
 
-### US03 - Visualizar Trend Topics
+### <a id="anchor_US03" style="visibility: hidden"></a>US03 - Visualizar Trend Topics
 
 <details>
   <summary>US03 - Visualizar Trend Topics</summary>
@@ -239,7 +239,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 </details>
 
-### US04 - Definir tema escuro ou claro
+### <a id="anchor_US04" style="visibility: hidden"></a>US04 - Definir tema escuro ou claro
 
 <details>
   <summary>US04 - Definir tema escuro ou claro</summary>
@@ -293,7 +293,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 </details>
 
-### US05 - Área de mensagens privadas
+### <a id="anchor_US05" style="visibility: hidden"></a>US05 - Área de mensagens privadas
 
 <details>
   <summary>US05 - Área de mensagens privadas</summary>
@@ -348,7 +348,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
 
 </details>
 
-### US06 - Verificar contas com telefone e email
+### <a id="anchor_US06" style="visibility: hidden"></a>US06 - Verificar contas com telefone e email
 
 <details>
   <summary>US06 - Verificar contas com telefone e email</summary>
@@ -403,7 +403,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
 
 </details>
 
-### US07 - Tradução automática de publicações
+### <a id="anchor_US07" style="visibility: hidden"></a>US07 - Tradução automática de publicações
 
 <details>
   <summary>US07 - Tradução automática de publicações</summary>
@@ -457,7 +457,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 </details>
 
-### US08 - Reduzir anúncios intrusivos
+### <a id="anchor_US08" style="visibility: hidden"></a>US08 - Reduzir anúncios intrusivos
 
 <details>
   <summary>US08 - Reduzir anúncios intrusivos</summary>
@@ -511,7 +511,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 </details>
 
-### US09 - Implementar moderação contra bots
+### <a id="anchor_US09" style="visibility: hidden"></a>US09 - Implementar moderação contra bots
 
 <details>
   <summary>US09 - Implementar moderação contra bots</summary>
@@ -565,7 +565,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 </details>
 
-### US10 - Upload de vídeos em alta definição
+### <a id="anchor_US10" style="visibility: hidden"></a>US10 - Upload de vídeos em alta definição
 
 <details>
   <summary>US10 - Upload de vídeos em alta definição</summary>
@@ -621,7 +621,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
 
 </details>
 
-### US11 - Exibir confirmação para ações
+### <a id="anchor_US11" style="visibility: hidden"></a>US11 - Exibir confirmação para ações
 
 <details>
   <summary>US11 - Exibir confirmação para ações</summary>
@@ -675,7 +675,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 </details>
 
-### US12 - Histórico de interações
+### <a id="anchor_US12" style="visibility: hidden"></a>US12 - Histórico de interações
 
 <details>
   <summary>US12 - Histórico de interações</summary>
@@ -730,7 +730,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
 
 </details>
 
-### US14 - Salvar postagens para leitura
+### <a id="anchor_US14" style="visibility: hidden"></a>US14 - Salvar postagens para leitura
 
 <details>
   <summary>US14 - Salvar postagens para leitura</summary>
@@ -784,7 +784,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 </details>
 
-### US15 - Sugerir usuários para seguir
+### <a id="anchor_US15" style="visibility: hidden"></a>US15 - Sugerir usuários para seguir
 
 <details>
   <summary>US15 - Sugerir usuários para seguir</summary>
@@ -840,7 +840,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
 
 </details>
 
-### US16 - Criar enquetes interativas
+### <a id="anchor_US16" style="visibility: hidden"></a>US16 - Criar enquetes interativas
 
 <details>
   <summary>US16 - Criar enquetes interativas</summary>
@@ -895,7 +895,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
 
 </details>
 
-### US17 - Denunciar contas ou postagens
+### <a id="anchor_US17" style="visibility: hidden"></a>US17 - Denunciar contas ou postagens
 
 <details>
   <summary>US17 - Denunciar contas ou postagens</summary>
@@ -954,7 +954,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
 
 </details>
 
-### US18 - Ocultar publicações antigas
+### <a id="anchor_US18" style="visibility: hidden"></a>US18 - Ocultar publicações antigas
 
 <details>
   <summary>US18 - Ocultar publicações antigas</summary>
@@ -1009,7 +1009,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
 
 </details>
 
-### US19 - Backup e restauração de dados
+### <a id="anchor_US19" style="visibility: hidden"></a>US19 - Backup e restauração de dados
 
 <details>
   <summary>US19 - Backup e restauração de dados</summary>
@@ -1064,7 +1064,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
 
 </details>
 
-### US20 - Filtrar conteúdos no feed
+### <a id="anchor_US20" style="visibility: hidden"></a>US20 - Filtrar conteúdos no feed
 
 <details>
   <summary>US20 - Filtrar conteúdos no feed</summary>
@@ -1121,7 +1121,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
 
 </details>
 
-### US21 - Adicionar legendas automáticas
+### <a id="anchor_US21" style="visibility: hidden"></a>US21 - Adicionar legendas automáticas
 
 <details>
   <summary>US21 - Adicionar legendas automáticas</summary>
@@ -1176,7 +1176,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
 
 </details>
 
-### US22 - Sugerir textos com IA
+### <a id="anchor_US22" style="visibility: hidden"></a>US22 - Sugerir textos com IA
 
 <details>
   <summary>US22 - Sugerir textos com IA</summary>
@@ -1233,7 +1233,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
 
 </details>
 
-### US23 - Oferecer reações variadas
+### <a id="anchor_US23" style="visibility: hidden"></a>US23 - Oferecer reações variadas
 
 <details>
   <summary>US23 - Oferecer reações variadas</summary>
@@ -1289,7 +1289,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 </details>
 
-### US24 - Salvar rascunhos offline
+### <a id="anchor_US24" style="visibility: hidden"></a>US24 - Salvar rascunhos offline
 
 <details>
   <summary>US24 - Salvar rascunhos offline</summary>
@@ -1344,7 +1344,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
 
 </details>
 
-### US25 - Agendar postagens
+### <a id="anchor_US25" style="visibility: hidden"></a>US25 - Agendar postagens
 
 <details>
   <summary>US25 - Agendar postagens</summary>
@@ -1399,7 +1399,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
 
 </details>
 
-### US26 - Compartilhar postagens externas
+### <a id="anchor_US26" style="visibility: hidden"></a>US26 - Compartilhar postagens externas
 
 <details>
   <summary>US26 - Compartilhar postagens externas</summary>
@@ -1454,7 +1454,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
 
 </details>
 
-### US27 - Criar comunidades ou grupos
+### <a id="anchor_US27" style="visibility: hidden"></a>US27 - Criar comunidades ou grupos
 
 <details>
   <summary>US27 - Criar comunidades ou grupos</summary>
@@ -1510,7 +1510,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
 
 </details>
 
-### US28 - Gerenciar múltiplas contas
+### <a id="anchor_US28" style="visibility: hidden"></a>US28 - Gerenciar múltiplas contas
 
 <details>
   <summary>US28 - Gerenciar múltiplas contas</summary>
@@ -1565,7 +1565,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
 
 </details>
 
-### US29 - Oferecer autenticação avançada
+### <a id="anchor_US29" style="visibility: hidden"></a>US29 - Oferecer autenticação avançada
 
 <details>
   <summary>US29 - Oferecer autenticação avançada</summary>
@@ -1620,7 +1620,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
 
 </details>
 
-### US30 - Fixar postagens no perfil
+### <a id="anchor_US30" style="visibility: hidden"></a>US30 - Fixar postagens no perfil
 
 <details>
   <summary>US30 - Fixar postagens no perfil</summary>
@@ -1675,7 +1675,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
 
 </details>
 
-### US31 - Editar publicações após postagem
+### <a id="anchor_US31" style="visibility: hidden"></a>US31 - Editar publicações após postagem
 
 <details>
   <summary>US31 - Editar publicações após postagem</summary>
@@ -1732,7 +1732,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
 
 </details>
 
-### US32 - Marcar outros usuários em postagens
+### <a id="anchor_US32" style="visibility: hidden"></a>US32 - Marcar outros usuários em postagens
 
 <details>
   <summary>US32 - Marcar outros usuários em postagens</summary>
@@ -1789,7 +1789,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
 
 </details>
 
-### US33 - Ver estatísticas de postagens
+### <a id="anchor_US33" style="visibility: hidden"></a>US33 - Ver estatísticas de postagens
 
 <details>
   <summary>US33 - Ver estatísticas de postagens</summary>
@@ -1844,7 +1844,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
 
 </details>
 
-### US34 - Receber alertas de menções
+### <a id="anchor_US34" style="visibility: hidden"></a>US34 - Receber alertas de menções
 
 <details>
   <summary>US34 - Receber alertas de menções</summary>
@@ -1899,7 +1899,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
 
 </details>
 
-### US35 - Reagir a comentários em postagens
+### <a id="anchor_US35" style="visibility: hidden"></a>US35 - Reagir a comentários em postagens
 
 <details>
   <summary>US35 - Reagir a comentários em postagens</summary>
@@ -1956,7 +1956,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
 
 </details>
 
-### US36 - Criar listas de amigos próximos
+### <a id="anchor_US36" style="visibility: hidden"></a>US36 - Criar listas de amigos próximos
 
 <details>
   <summary>US36 - Criar listas de amigos próximos</summary>
@@ -2011,7 +2011,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
 
 </details>
 
-### US37 - Realizar pesquisas de conteúdo
+### <a id="anchor_US37" style="visibility: hidden"></a>US37 - Realizar pesquisas de conteúdo
 
 <details>
   <summary>US37 - Realizar pesquisas de conteúdo</summary>
@@ -2066,7 +2066,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   
 </details>
 
-### US38 - Denunciar comentários ofensivos
+### <a id="anchor_US38" style="visibility: hidden"></a>US38 - Denunciar comentários ofensivos
 
 <details>
   <summary>US38 - Denunciar comentários ofensivos</summary>
@@ -2121,7 +2121,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
 
 </details>
 
-### US39 - Receber recomendações personalizadas de postagens
+### <a id="anchor_US39" style="visibility: hidden"></a>US39 - Receber recomendações personalizadas de postagens
 
 <details>
   <summary>US39 - Receber recomendações personalizadas de postagens</summary>
@@ -2175,7 +2175,7 @@ As Tabelas 2 a 41 detalham os requisitos funcionais do projeto, organizados no f
   <p style="text-align: center;">Autor - <a href="https://github.com/alanagabriele">Alana Gabriele</a></p>
 </details>
 
-### US40 - Configurar status online ou offline
+### <a id="anchor_US40" style="visibility: hidden"></a>US40 - Configurar status online ou offline
 
 <details>
   <summary>US40 - Configurar status online ou offline</summary>
