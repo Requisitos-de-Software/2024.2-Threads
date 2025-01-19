@@ -256,7 +256,7 @@ PUC-Rio. **Rastreabilidade de requisitos: fundamentos e técnicas**. Disponível
 | :----: | ---------- | ----------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- |
 |  1.0   | 17/01/2025 | Criação do documento                                  | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Alana Gabriele](https://github.com/alanagabriele) |
 |  1.2   | 18/01/2025 | Adição das tabelas                                  | [Genilson Silva](https://github.com/GenilsonJrs) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
-|  1.3   | 19/01/2025 | Adição da tabela Elo                                  | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs) |
+|  1.3   | 19/01/2025 | Adição da tabela Elo                                  | [Carlos Eduardo](https://github.com/dudupaz), [Samuel Ribeiro](https://github.com/SamuelRicosta), [Alana Gabriele](https://github.com/alanagabriele), [Genilson Silva](https://github.com/GenilsonJrs) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
 |  1.4   | 19/01/2025 | Adição dos links de rastreabilidade                                  | [Genilson Silva](https://github.com/GenilsonJrs) | [Alana Gabriele](https://github.com/alanagabriele) |
 
 
