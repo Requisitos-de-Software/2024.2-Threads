@@ -118,7 +118,7 @@ Para validar o backlog, foram revisados os épicos, as features e dada a prioriz
       <td>Alta</td>
     </tr>
     <tr>
-      <td rowspan="10">Épico 2 - Interações e Comunicação</td>
+      <td id="epico2-interacoes-e-comunicacao" rowspan="10">Épico 2 - Interações e Comunicação</td>
       <td rowspan="4">Feature 1 - Mensagens</td>
       <td>
       <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us02-gravar-e-enviar-mensagens-de-voz">US02 - Gravar e enviar mensagens de voz</a>
@@ -183,7 +183,7 @@ Para validar o backlog, foram revisados os épicos, as features e dada a prioriz
       <td>Média</td>
     </tr>
     <tr>
-      <td rowspan="15">Épico 3 - Conteúdo e Postagens</td>
+      <td id="epico3-conteudo-e-postagens" rowspan="15">Épico 3 - Conteúdo e Postagens</td>
       <td rowspan="8">Feature 1 - Postagens</td>
       <td>
        <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us14-salvar-postagens-para-leitura">US14 - Salvar postagens para leitura</a>
@@ -278,7 +278,7 @@ Para validar o backlog, foram revisados os épicos, as features e dada a prioriz
       <td>Alta</td>
     </tr>
     <tr>
-      <td rowspan="3">Épico 4 - Moderação e Segurança</td>
+      <td id="epico4-modaracao-e-seguranca" rowspan="3">Épico 4 - Moderação e Segurança</td>
       <td rowspan="2">Feature 1 - Moderação</td>
       <td>
        <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us09-implementar-moderacao-contra-bots">US09 - Implementar moderação contra bots</a>
@@ -299,7 +299,7 @@ Para validar o backlog, foram revisados os épicos, as features e dada a prioriz
       <td>Alta</td>
     </tr>
     <tr>
-      <td rowspan="1">Épico 5 - Grupos e Comunidades</td>
+      <td id="epico5-grupos-e-comunidades" rowspan="1">Épico 5 - Grupos e Comunidades</td>
       <td>Feature 1 - Criação de Grupos</td>
       <td>
        <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us27-criar-comunidades-ou-grupos">US27 - Criar comunidades ou grupos</a>
