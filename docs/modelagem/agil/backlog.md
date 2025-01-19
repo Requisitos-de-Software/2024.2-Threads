@@ -53,7 +53,7 @@ Para validar o backlog, foram revisados os épicos, as features e dada a prioriz
   <tbody>
     <!-- Épico 1 - Configurações -->
     <tr>
-      <td rowspan="10">Épico 1 - Configurações</td>
+      <td id="epico1-configuracoes" rowspan="10">Épico 1 - Configurações</td>
       <td rowspan="3">Feature 1 - Visibilidade</td>
       <td>
        <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/#us01-configurar-visibilidade-da-conta">US01 - Configurar visibilidade como pública ou privada</a>
