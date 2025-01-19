@@ -117,7 +117,7 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
     Autores: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a> e <a href="https://github.com/SamuelRicosta" target="_blank"> Samuel Ribeiro. </a>
 </p>
 
-## NFR Framework - NFR01: Compatibilidade e Performance
+## <a id="anchor_NFR01" style="visibility: hidden"></a>NFR Framework - NFR01: Compatibilidade e Performance
 
 ### Descrição
 
@@ -173,7 +173,7 @@ A seguir, na Tabela 4, temos a avaliação da propagação dos impactos relativa
 
 <p style="text-align: center;">Autor - <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro</a></p>
 
-## NFR Framework - NFR02: Desempenho
+## <a id="anchor_NFR02" style="visibility: hidden"></a>NFR Framework - NFR02: Desempenho
 
 Este SIG (Sistemas de Informação Gráfica) agrupa requisitos não funcionais relacionados ao desempenho do sistema Threads. Esses requisitos são essenciais para assegurar que o sistema ofereça uma performance consistente, com tempos de resposta rápidos e utilização eficiente dos recursos, independentemente do volume de dados ou da carga de usuários simultâneos. A prioridade é garantir uma experiência fluida e ágil, desde a interação com o feed de postagens até o carregamento de páginas e o processamento de dados em dispositivos diversos.
 
@@ -225,7 +225,7 @@ Autor: [Carlos Eduardo](https://github.com/dudupaz)
 
 </center>
 
-## NFR Framework - NFR03: Personalização e Usabilidade
+## <a id="anchor_NFR03" style="visibility: hidden"></a>NFR Framework - NFR03: Personalização e Usabilidade
 
 ### Descrição
 
