@@ -2,14 +2,150 @@
 
 ## Introdução
 
-A técnica **Forkward-From** é um método que foca em estabelecer conexões claras e sistemáticas entre os requisitos iniciais e as etapas subsequentes. Essa abordagem permite não apenas identificar e conectar os requisitos durante a fase de desenvolvimento, mas também rastrear suas relações e impactos ao longo de todo o ciclo de vida do sistema. Com isso, torna-se possível compreender melhor as origens, as implicações e a evolução dos requisitos, facilitando a gestão de mudanças, assegurando a qualidade do produto e alinhando continuamente o sistema às demandas do cliente.
+A técnica **Forward-From** é um método que foca em estabelecer conexões claras e sistemáticas entre os requisitos iniciais e as etapas subsequentes. Essa abordagem permite não apenas identificar e conectar os requisitos durante a fase de desenvolvimento, mas também rastrear suas relações e impactos ao longo de todo o ciclo de vida do sistema. Com isso, torna-se possível compreender melhor as origens, as implicações e a evolução dos requisitos, facilitando a gestão de mudanças, assegurando a qualidade do produto e alinhando continuamente o sistema às demandas do cliente.
 
 O forward-from promove uma visão integrada e contínua do desenvolvimento, garantindo que cada componente do sistema esteja coerentemente relacionado aos requisitos iniciais, o que contribui significativamente para a comunicação eficiente entre as diferentes fases do projeto e para o sucesso final da solução desenvolvida.
+
+## Metodologia
+
+A metodologia empregada fundamenta-se na utilização de uma matriz de rastreabilidade, que serve como ferramenta para mapear os requisitos identificados e os artefatos produzidos ao longo do processo de desenvolvimento. Nesta abordagem, cada linha da matriz corresponde a um requisito, enquanto as colunas representam diferentes tipos de artefatos derivados desses requisitos, como épicos, histórias de usuário, léxicos, casos de uso, cenários e especificações suplementares. A relação entre os requisitos e os artefatos não segue um padrão rígido, permitindo que um único requisito esteja associado a múltiplos artefatos.
+
+Para aprimorar a rastreabilidade, adotou-se o meta-modelo de Toranzo, que organiza os requisitos em níveis e elos. Os níveis são definidos da seguinte forma:
+
+- **Ambiental**: Refere-se a informações extraídas do ambiente e do contexto em que o sistema será utilizado.
+- **Organizacional**: Envolve dados estruturais e operacionais da organização.
+- **Gerencial**: Inclui informações voltadas ao planejamento e monitoramento do projeto.
+- **Desenvolvimento**: Foca nos artefatos gerados durante as etapas de design e implementação.
+
+Os elos de rastreabilidade, baseados no meta-modelo, categorizam as conexões entre os requisitos e artefatos. Entre eles:
+
+- **Satisfação**: Define a dependência entre a classe de origem e a entrega da classe de destino.
+- **Recurso**: Representa a necessidade de recursos específicos entre as classes.
+- **Responsabilidade**: Identifica as atribuições e ações de pessoas sobre os artefatos.
+- **Representação**: Relaciona a forma como os requisitos são traduzidos para outras linguagens ou modelos.
+- **Alocado**: Vincula um requisito ou artefato a subsistemas ou módulos específicos.
+- **Agregação**: Indica como elementos estão interligados ou compostos no sistema.
+
+A matriz de rastreabilidade permite visualizar essas relações de forma clara e objetiva, promovendo um controle eficaz sobre as conexões entre os requisitos e os artefatos ao longo do desenvolvimento. Assim, garante-se que todas as necessidades levantadas sejam atendidas e que o sistema seja desenvolvido de forma consistente com os objetivos estabelecidos.
+
+---
+
+## Matriz de rastreabilidade Forward-From
+
+As tabelas 1 e 2 correspondem às matrizes de rastreabilidade, nas quais as linhas indicam os requisitos, enquanto cada coluna identifica os artefatos gerados a partir desses requisitos, onde cada acrônimo a seguir referencia artefatos.
+
+- **RF** - Requisito Funcional
+- **RNF** - Requisito Não Funcional
+- **EP** - Épico
+- **HS** - História de usuário
+- **UC** - Caso de Uso
+- **CEN** - Cenário
+- **LEX** - Léxico
+- **F, U, R, P, S, +** - Especificação de Uso
+- **NFR** - NFR Framework
+
+---
+
+## Requisitos funcionais
+
+### Tabela 1: Matriz de rastreabilidade Forward-from - Requisitos Funcionais
+
+
+| Requisito/Versão | Implementado | Épico | História de usuário | Caso de uso | Cenário | Léxico |
+|------------------|--------------|-------|------------------|--------------|---------|---------|
+| [RF01](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`                | Sim          | [EP01](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS01](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | - | - | [LEX01](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/lexicos/) |
+| [RF02](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`                | Sim          | [EP02](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS02](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | - | [](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/Cenarios/) | [LEX01](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/lexicos/) |
+| [RF03](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`                | Não          | [EP03](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS03](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | [UC01](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/casosdeuso/) | [CEN01](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/Cenarios/) | - |
+| [RF04](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`                | Sim          | [EP01](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS04](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | [UC02](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/casosdeuso/) | [CEN02](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/Cenarios/) | [LEX03](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/lexicos/) |
+| [RF05](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`                | Não          | [EP02](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS05](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | [UC03](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/casosdeuso/) | [CEN03](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/Cenarios/) | [LEX02](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/lexicos/) |
+| [RF06](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`                | Sim          | [EP04](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS06](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | - | - | [LEX01](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/lexicos/) |
+|[RF07](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`                | Não          | [EP01](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS07](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | - | - | [LEX01](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/lexicos/) |
+|[RF08](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`                | Não          | [EP01](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS08](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | - | - | - |
+|[RF09](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`                | Não          | [EP09](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS09](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | - | - | - |
+| [RF10](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`                | Sim          | [EP03](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS10](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | - | - | - |
+|[RF11](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`                | Sim          | [EP03](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS11](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | - | - | [LEX02](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/lexicos/) |
+|[RF12](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`               | Sim          | [EP04](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS12](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | - | - | [LEX02](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/lexicos/) |
+|[RF13](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`               | Não          | [EP03](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS13](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | - | - | - |
+|[RF14](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`               | Não          | [EP03](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS14](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | - | - | - |
+|[RF15](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`               | Sim          | [EP03](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS15](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | - | - | [LEX01](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/lexicos/) ||
+|[RF16](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`               | Não          | [EP03](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS16](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | - | - | - |
+|[RF17](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`               | Sim          | [EP02](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS17](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | - | - | - |
+|[RF18](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`               | Não          | [EP01](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS18](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | - | [CEN02](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/Cenarios/) | - |
+|[RF19](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`               | Não          | [EP01](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS19](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | - | - | - |
+|[RF20](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`               | Não          | [EP03](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS20](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | - | - | - |
+|[RF21](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`               | Não          | [EP03](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS21](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | - | - | - |
+|[RF22](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`               | Não          | [EP03](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS22](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | [UC04](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/casosdeuso/) | [CEN04](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/Cenarios/) | - |
+|[RF23](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`               | Não          | [EP02](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS23](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | - | - | [LEX02](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/lexicos/) |
+|[RF24](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`               | Não          | [EP02](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS24](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | - | - | - |
+|[RF25](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`               | Não          | [EP03](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS25](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | - | - | - |
+|[RF26](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`               | Não          | [EP03](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS26](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | - | - | [LEX01](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/lexicos/) |
+|[RF27](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`               | Não          | [EP05](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS27](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | - | - | - |
+|[RF28](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`               | Não          | [EP01](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS28](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | - | - | - |
+|[RF29](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`               | Sim          | [EP01](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS29](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | - | - | [LEX02](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/lexicos/) |
+|[RF30](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`               | Não          | [EP01](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS30](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | - | [CEN02](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/Cenarios/) | - |
+|[RF31](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`               | Não          | [EP03](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS31](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | [UC02](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/casosdeuso/) | - | - |
+|[RF32](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`               | Sim          | [EP02](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS32](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | - | - | - |
+|[RF33](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`               | Não          | [EP03](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS33](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | - | - | - |
+|[RF34](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`               | Sim          | [EP02](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS34](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | - | - | - |
+|[RF35](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`               | Sim          | [EP02](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS35](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | - | - | - |
+|[RF36](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`               | Não          | [EP02](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS36](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | - | - | - |
+|[RF37](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`               | Sim          | [EP03](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS37](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | - | - | - |
+|[RF38](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`               | Sim          | [EP02](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS38](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | - | - | - |
+|[RF39](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`               | Não          | [EP03](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS39](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | - | - | [LEX01](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/lexicos/) |
+|[RF40](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`                | Não          | [EP01](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) | [HS40](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) | - | - | [LEX03](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/lexicos/) |
+
+<p style="text-align: center; font-size: 14px;">
+    Autores: <a href="https://github.com/dudupaz" target="_blank">Carlos Paz,</a>  <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele,</a> <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva,</a> <a href="https://github.com/SamuelRicosta" target="_blank"> Samuel Ribeiro. </a>
+</p>
+
+---
+
+## Requisitos não funcionais
+
+
+### Tabela 2: Matriz de rastreabilidade Forward-from - Requisitos Não Funcionais
+
+
+| Requisito/Versão | Implementado | Especificação Suplementar | NFR Framework |
+|------------------|--------------|-------|------------------|
+| [RNF41](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`                | Não          | [F, U](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/especificacaoSuplementar/) | [NFR03](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/nfrFramework/) |
+| [RNF42](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`                | Não          | [F, P](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/especificacaoSuplementar/) | [NFR03](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/nfrFramework/) |
+| [RNF43](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`                | Não          | [U, R](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/especificacaoSuplementar/) | [NFR03](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/nfrFramework/) |
+| [RNF44](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`                | Sim          | [F, R](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/especificacaoSuplementar/) | [NFR03](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/nfrFramework/) |
+| [RNF45](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`                | Sim          | [R, S](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/especificacaoSuplementar/) | [NFR02](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/nfrFramework/) |
+| [RNF46](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`                | Sim          | [P](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/especificacaoSuplementar/) | [NFR02](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/nfrFramework/) |
+| [RNF47](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`                | Não          | [P](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/especificacaoSuplementar/) | [NFR02](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/nfrFramework/) |
+| [RNF48](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`                | Sim          | [S](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/especificacaoSuplementar/) | [NFR01](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/nfrFramework/) |
+| [RNF49](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`                | Não          | [S](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/especificacaoSuplementar/) | [NFR01](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/nfrFramework/) |
+| [RNF50](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`                | Sim          | [R, S](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/especificacaoSuplementar/) | [NFR02](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/nfrFramework/) |
+| [RNF51](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`                | Sim          | [R, S](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/especificacaoSuplementar/) | [NFR02](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/nfrFramework/) |
+| [RNF52](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`                | Não          | [P, S](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/especificacaoSuplementar/) | [NFR01](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/nfrFramework/) |
+| [RNF53](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`                | Sim          | [S](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/especificacaoSuplementar/) | [NFR01](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/nfrFramework/) |
+| [RNF54](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`                | Sim          | [P](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/especificacaoSuplementar/) | [NFR02](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/nfrFramework/) |
+| [RNF55](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`                | Sim          | [R, S](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/especificacaoSuplementar/) | [NFR02](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/nfrFramework/) |
+| [RNF56](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`                | Sim          | [P, R](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/especificacaoSuplementar/) | [NFR02](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/nfrFramework/) |
+| [RNF57](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`                | Não          | [F, U](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/especificacaoSuplementar/) | [NFR03](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/nfrFramework/) |
+| [RNF58](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`                | Não          | [F, U](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/especificacaoSuplementar/) | [NFR03](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/nfrFramework/) |
+| [RNF59](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`                | Não          | [F, U](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/especificacaoSuplementar/) | [NFR03](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/nfrFramework/) |
+| [RNF60](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/requisitoselicitados/) / `1.0`                | Não          | [F, P](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/especificacaoSuplementar/) | [NFR03](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/nfrFramework/) |
+
+<p style="text-align: center; font-size: 14px;">
+    Autores: <a href="https://github.com/dudupaz" target="_blank">Carlos Paz,</a>  <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele,</a> <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva,</a> <a href="https://github.com/SamuelRicosta" target="_blank"> Samuel Ribeiro. </a>
+</p>
+
+---
+
+## Referência Bibliografia
+
+> Slides da Aula 26 da Professora Milene Serrano. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf](https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf). Acesso em: 18 jan. 2025.
+
+---
 
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                                             | Autor                                              | Revisor                                            |
 | :----: | ---------- | ----------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- |
 |  1.0   | 18/01/2025 | Criação do documento                                  | [Carlos Eduardo](https://github.com/dudupaz) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+|  1.1   | 18/01/2025 | Inserção de Metodologia, Matriz e Tabelas     | [Carlos Eduardo](https://github.com/dudupaz), [Samuel Ribeiro](https://github.com/SamuelRicosta), [Alana Gabriele](https://github.com/alanagabriele), [Genilson Silva](https://github.com/GenilsonJrs) | [Genilson Silva](https://github.com/GenilsonJrs) |
 
 
