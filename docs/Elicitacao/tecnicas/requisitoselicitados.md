@@ -83,3 +83,4 @@ Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva <
 | 2.3        | 16/12/2024 | Adição de requisitos    | [Alana Gabriele](https://github.com/alanagabriele) | [Carlos Eduardo](https://github.com/dudupaz)       |
 | 2.4        | 16/12/2024 | Adição de requisitos    | [Carlos Eduardo](https://github.com/dudupaz) | [Alana Gabriele](https://github.com/alanagabriele)       |
 | 2.5        | 17/12/2024 | Ajustes no documento    | [Genilson Silva](https://github.com/GenilsonJrs) | [Alana Gabriele](https://github.com/alanagabriele)       |
+| 2.6        | 19/01/2025 | IDs para rastreabilidade    | [Genilson Silva](https://github.com/GenilsonJrs) | [Samuel Ribeiro](https://github.com/SamuelRicosta)       |
