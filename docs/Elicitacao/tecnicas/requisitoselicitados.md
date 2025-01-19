@@ -8,7 +8,7 @@ Este documento apresenta os requisitos levantados para o projeto, identificados 
 
 | **Identificador** | **Requisito**                                                                 | **Origem** | **Tipo** |
 | ----------------- | --------------------------------------------------------------------------- | ---------- | -------- |
-| **01**            | O usuário deve poder configurar a visibilidade da conta.                    | Entrevista           | RF       |
+| <a id="anchor_RF01" style="visibility: hidden"></a>**01**            | O usuário deve poder configurar a visibilidade da conta.                    | Entrevista           | RF       |
 | **02**            | O usuário deve poder gravar e enviar mensagens de voz.                      |Entrevista            | RF       |
 | **03**            | O sistema deve exibir Trend Topics para visualização dos tópicos populares. |Entrevista            | RF       |
 | **04**            | O usuário deve poder definir o tema escuro ou claro no aplicativo.          | Entrevista           | RF       |

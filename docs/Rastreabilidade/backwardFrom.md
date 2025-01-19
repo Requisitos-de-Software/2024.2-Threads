@@ -59,7 +59,7 @@ Este seguimento é destinado para a elaboração da tabela de rastreamento de re
 
 | **ID** | **Requisito e Versão**                      | **Descrição**                                                                                      | **Implementado** | **Rastreabilidade** | **Elo**  |
 |--------|--------------------------------------------|--------------------------------------------------------------------------------------------------|------------------|---------------------|----------|
-| <a id="anchor_BF01" style="visibility: hidden"></a>BF01   | RF01 / 1.0                                 | O usuário deve poder configurar a visibilidade da conta.                                         | Sim              | ENT                 | ELO01    |
+| <a id="anchor_BF01" style="visibility: hidden"></a>BF01   | <a href="../../Elicitacao/tecnicas/requisitoselicitados/#anchor_RF01">RF01 </a> / 1.0                                 | O usuário deve poder configurar a visibilidade da conta.                                         | Sim              | ENT                 | ELO01    |
 | <a id="anchor_BF02" style="visibility: hidden"></a>BF02   | RF02 / 1.0                                 | O usuário deve poder gravar e enviar mensagens de voz.                                           | Sim              | ENT                 | ELO02    |
 | <a id="anchor_BF03" style="visibility: hidden"></a>BF03 | RF03 / 1.0 | O sistema deve exibir Trend Topics para visualização dos tópicos populares. | Não | ENT | ELO03 |
 | <a id="anchor_BF04" style="visibility: hidden"></a>BF04 | RF04 / 1.0 | O usuário deve poder definir o tema escuro ou claro no aplicativo. | Sim | ENT | ELO04 |
