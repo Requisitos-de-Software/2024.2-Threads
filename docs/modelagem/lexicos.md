@@ -21,7 +21,7 @@ Os léxicos do Threads foram identificados a partir da utilização do aplicativ
 
 Logo abaixo estão os Léxicos de Verbo, Objeto e Estado respectivamente, presentes nas tabelas 2, 3 e 4.
 
-### Tabela de Léxicos de Verbo
+### <a id="anchor_LEX01" style="visibility: hidden"></a>Tabela de Léxicos de Verbo
 
 <font size="2"><p style="text-align: center">Tabela 2 - Léxicos de Verbo. </p></font>
 
@@ -35,7 +35,7 @@ Logo abaixo estão os Léxicos de Verbo, Objeto e Estado respectivamente, presen
 
 <font size="2"><p style="text-align: center">Autores: [Carlos Eduardo](https://github.com/dudupaz) e [Genilson Junior](https://github.com/GenilsonJrs).</a></font>
 
-### Tabela de Léxicos de Objeto
+### <a id="anchor_LEX02" style="visibility: hidden"></a>Tabela de Léxicos de Objeto
 
 <font size="2"><p style="text-align: center">Tabela 3 - Léxicos de Objeto. </p></font>
 
@@ -49,7 +49,7 @@ Logo abaixo estão os Léxicos de Verbo, Objeto e Estado respectivamente, presen
 
 <font size="2"><p style="text-align: center">Autores: [Genilson Junior](https://github.com/GenilsonJrs) e [Carlos Eduardo](https://github.com/dudupaz).</a></font>
 
-### Tabela de Léxicos de Estado
+### <a id="anchor_LEX03" style="visibility: hidden"></a>Tabela de Léxicos de Estado
 
 <font size="2"><p style="text-align: center">Tabela 4 - Léxicos de Estado. </p></font>
 
