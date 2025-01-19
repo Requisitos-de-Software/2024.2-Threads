@@ -166,87 +166,87 @@ Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele
     <th><strong>Tipo</strong></th>
   </tr>
   <tr>
-    <td><strong>01</strong></td>
-    <td>O sistema deve permitir criar listas de amigos próximos.</td>
+    <td><strong><a id="anchor_B01" style="visibility: hidden"></a>01</strong></td>
+    <td>O sistema deve permitir criar listas de amigos próximos.</td> 
     <td>RF</td>
   </tr>
   <tr>
-    <td><strong>02</strong></td>
+    <td><strong><a id="anchor_B02" style="visibility: hidden"></a>02</strong></td>
     <td>O sistema deve permitir realizar pesquisas de conteúdo.</td>
     <td>RF</td>
   </tr>
   <tr>
-    <td><strong>03</strong></td>
+    <td><strong><a id="anchor_B03" style="visibility: hidden"></a>03</strong></td>
     <td>O sistema deve permitir denunciar comentários ofensivos.</td>
     <td>RF</td>
   </tr>
   <tr>
-    <td><strong>04</strong></td>
+    <td><strong><a id="anchor_B04" style="visibility: hidden"></a>04</strong></td>
     <td>O sistema deve sugerir postagens personalizadas de acordo com as preferências do usuário.</td>
     <td>RF</td>
   </tr>
   <tr>
-    <td><strong>05</strong></td>
+    <td><strong><a id="anchor_B05" style="visibility: hidden"></a>05</strong></td>
     <td>O sistema deve permitir configurar o status online ou offline do usuário.</td>
     <td>RF</td>
   </tr>
   <tr>
-    <td><strong>06</strong></td>
+    <td><strong><a id="anchor_B06" style="visibility: hidden"></a>06</strong></td>
     <td>O sistema deve ser compatível com versões de navegador mais antigas, garantindo funcionalidade em Chrome 70+ e Firefox 70+.</td>
     <td>RNF</td>
   </tr>
   <tr>
-    <td><strong>07</strong></td>
+    <td><strong><a id="anchor_B07" style="visibility: hidden"></a>07</strong></td>
     <td>O sistema deve garantir alta disponibilidade, com menos de 1% de tempo de inatividade mensal.</td>
     <td>RNF</td>
   </tr>
   <tr>
-    <td><strong>08</strong></td>
+    <td><strong><a id="anchor_B08" style="visibility: hidden"></a>08</strong></td>
     <td>O sistema deve criptografar todos os dados de login e autenticação para garantir a segurança das informações.</td>
     <td>RNF</td>
   </tr>
   <tr>
-    <td><strong>09</strong></td>
+    <td><strong><a id="anchor_B09" style="visibility: hidden"></a>09</strong></td>
     <td>O sistema deve ser otimizado para uso em dispositivos com pouca memória RAM.</td>
     <td>RNF</td>
   </tr>
   <tr>
-    <td><strong>10</strong></td>
+    <td><strong><a id="anchor_B10" style="visibility: hidden"></a>10</strong></td>
     <td>O sistema deve ser compatível com os navegadores mais recentes, como Google Chrome, Safari e Edge.</td>
     <td>RNF</td>
   </tr>
   <tr>
-    <td><strong>11</strong></td>
+    <td><strong><a id="anchor_B11" style="visibility: hidden"></a>11</strong></td>
     <td>O sistema deve garantir que o feed de publicações seja carregado rapidamente, mesmo com grande volume de conteúdo.</td>
     <td>RNF</td>
   </tr>
   <tr>
-    <td><strong>12</strong></td>
+    <td><strong><a id="anchor_B12" style="visibility: hidden"></a>12</strong></td>
     <td>O sistema deve garantir que os dados do usuário sejam armazenados de forma segura, com backup regular.</td>
     <td>RNF</td>
   </tr>
   <tr>
-    <td><strong>13</strong></td>
+    <td><strong><a id="anchor_B13" style="visibility: hidden"></a>13</strong></td>
     <td>O sistema deve garantir que o conteúdo do usuário seja sempre acessível, com um tempo de recuperação abaixo de 10 segundos.</td>
     <td>RNF</td>
   </tr>
   <tr>
-    <td><strong>14</strong></td>
+    <td><strong><a id="anchor_B14" style="visibility: hidden"></a>14</strong></td>
     <td>O sistema deve permitir que o usuário configure o status online ou offline.</td>
     <td>RNF</td>
   </tr>
   <tr>
-    <td><strong>15</strong></td>
+    <td><strong><a id="anchor_B15" style="visibility: hidden"></a>15</strong></td>
     <td>O sistema deve permitir a criação de listas de amigos próximos.</td>
     <td>RNF</td>
   </tr>
   <tr>
-    <td><strong>16</strong></td>
+    <td><strong><a id="anchor_B16" style="visibility: hidden"></a>16</strong></td>
     <td>O sistema deve permitir respostas anônimas em discussões públicas moderadas.</td>
     <td>RNF</td>
   </tr>
   <tr>
-    <td><strong>17</strong></td>
+    <td><strong><a id="anchor_B17" style="visibility: hidden"></a>17</strong></td>
     <td>O sistema deve permitir salvar rascunhos de postagens mesmo sem conexão.</td>
     <td>RNF</td>
   </tr>
@@ -278,3 +278,4 @@ A aplicação do brainstorming no processo de elicitação de requisitos para o 
 | ---------- | ---------- | ----------------------------------------- | ------------------------------------------------ | -------------------------------------------------- |
 | 1.0        | 24/11/2024 | Criação do documento e adição de conteúdo | [Genilson Silva](https://github.com/GenilsonJrs) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
 | 1.1        | 17/12/2024 | Ajustes no documento | [Genilson Silva](https://github.com/GenilsonJrs) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+| 1.2        | 19/01/2025 | Adição de IDs | [Genilson Silva](https://github.com/GenilsonJrs) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
