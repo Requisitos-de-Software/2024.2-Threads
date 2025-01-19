@@ -24,7 +24,7 @@ Além disso, inclui requisitos adicionais como restrições de design e document
 
 # FURPS+
 
-## F: Funcionalidade (Functionality)
+## <a id="anchor_ES01" style="visibility: hidden"></a>F: Funcionalidade (Functionality)
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Funcionalidade </p></font>
 
@@ -41,7 +41,7 @@ Além disso, inclui requisitos adicionais como restrições de design e document
 <font size="3"><p style="text-align: center">Fonte: [Carlos Eduardo](https://github.com/dudupaz) e [Samuel Ribeiro](https://github.com/SamuelRicosta). </p></font>
 ---
 
-## U: Usabilidade (Usability)
+## <a id="anchor_ES02" style="visibility: hidden"></a>U: Usabilidade (Usability)
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Usabilidade </p></font>
 
@@ -55,7 +55,7 @@ Além disso, inclui requisitos adicionais como restrições de design e document
 <font size="3"><p style="text-align: center">Fonte: [Carlos Eduardo](https://github.com/dudupaz) e [Samuel Ribeiro](https://github.com/SamuelRicosta). </p></font>
 ---
 
-## R: Confiabilidade (Reliability)
+## <a id="anchor_ES03" style="visibility: hidden"></a>R: Confiabilidade (Reliability)
 
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Confiabilidade </p></font>
 
@@ -70,7 +70,7 @@ Além disso, inclui requisitos adicionais como restrições de design e document
 <font size="3"><p style="text-align: center">Fonte: [Carlos Eduardo](https://github.com/dudupaz) e [Samuel Ribeiro](https://github.com/SamuelRicosta). </p></font>
 ---
 
-## P: Desempenho (Performance)
+## <a id="anchor_ES04" style="visibility: hidden"></a>P: Desempenho (Performance)
 
 <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Desempenho </p></font>
 
@@ -85,7 +85,7 @@ Além disso, inclui requisitos adicionais como restrições de design e document
 <font size="3"><p style="text-align: center">Fonte: [Carlos Eduardo](https://github.com/dudupaz) e [Samuel Ribeiro](https://github.com/SamuelRicosta). </p></font>
 ---
 
-## S: Suporte (Supportability)
+## <a id="anchor_ES05" style="visibility: hidden"></a>S: Suporte (Supportability)
 
 <font size="3"><p style="text-align: center"><b>Tabela 5</b> - Suporte </p></font>
 
