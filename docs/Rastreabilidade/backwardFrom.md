@@ -162,11 +162,11 @@ Cada membro do grupo ficou responsável por documentar ao menos 5 requisitos fun
 
 #### Legendas
 
-- **ID BCF:** Identificador do Backward-From relacionado
+- **ID BF:** Identificador do Backward-From relacionado
 
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Elos de rastreabilidade</p></font>
 
-| ID    | ID BCF                                                  | Tipo de Elo | Descrição do Elo                                                                                                                    |
+| ID    | ID BF                                                  | Tipo de Elo | Descrição do Elo                                                                                                                    |
 | ----- | ------------------------------------------------------- | ----------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | ELO01 | [BF01](../../Rastreabilidade/backwardFrom/#anchor_BF01) | ES          | Relaciona o requisito de configuração de visibilidade a componentes responsáveis por gerenciar privacidade.                         |
 | ELO02 | [BF02](../../Rastreabilidade/backwardFrom/#anchor_BF02) | IM          | Representa a conexão entre o requisito de gravação de mensagens de voz e o módulo de captura de áudio.                              |
