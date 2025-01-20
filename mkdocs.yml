@@ -24,10 +24,6 @@ nav:
     - Aplicativo Selecionado: planejamento/aplicativoSelecionado.md
     - Rich Picture: planejamento/richPicture.md
     - Metodologia: planejamento/metodologia.md
-  - Rastreabilidade:
-    - Backward-From: Rastreabilidade/backwardFrom.md
-    - Forward From: Rastreabilidade/forwardFrom.md
-    - Matriz de Rastreabilidade: Rastreabilidade/matrizdeRastreabilidade.md
   - Elicitação:
     - Usuários:
       - Perfil de Usuário: Elicitacao/perfildeusuario.md
@@ -52,7 +48,10 @@ nav:
       - NFR Framework: modelagem/agil/nfrFramework.md
       - Histórias de Usuário: modelagem/agil/historiaUsuario.md
       - Backlog: modelagem/agil/backlog.md 
-
+  - Rastreabilidade:
+      - Backward-From: Rastreabilidade/backwardFrom.md
+      - Forward From: Rastreabilidade/forwardFrom.md
+      - Matriz de Rastreabilidade: Rastreabilidade/matrizdeRastreabilidade.md
   - Verificação:
     - Nosso Grupo (Grupo 7):
       - Etapa 1: verificação/Grupo7/etapa1.md
