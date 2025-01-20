@@ -20,9 +20,9 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 
 | Artefato                  | Verificador                                        |
 | ------------------------- | -------------------------------------------------- |
-| backwardFrom              |  [Carlos Eduardo](https://github.com/dudupaz), [Samuel Ribeiro](https://github.com/SamuelRicosta), [Alana Gabriele](https://github.com/alanagabriele), [Genilson Silva](https://github.com/GenilsonJrs)|
-| forwardFrom               |  [Carlos Eduardo](https://github.com/dudupaz), [Samuel Ribeiro](https://github.com/SamuelRicosta), [Alana Gabriele](https://github.com/alanagabriele), [Genilson Silva](https://github.com/GenilsonJrs)  |
-| matrizdeRastreabilidade   |  [Carlos Eduardo](https://github.com/dudupaz), [Samuel Ribeiro](https://github.com/SamuelRicosta), [Alana Gabriele](https://github.com/alanagabriele), [Genilson Silva](https://github.com/GenilsonJrs)|
+| Backward-From              |  [Carlos Eduardo](https://github.com/dudupaz), [Samuel Ribeiro](https://github.com/SamuelRicosta), [Alana Gabriele](https://github.com/alanagabriele), [Genilson Silva](https://github.com/GenilsonJrs)|
+| Forward-From               |  [Carlos Eduardo](https://github.com/dudupaz), [Samuel Ribeiro](https://github.com/SamuelRicosta), [Alana Gabriele](https://github.com/alanagabriele), [Genilson Silva](https://github.com/GenilsonJrs)  |
+| Matriz de Rastreabilidadee   |  [Carlos Eduardo](https://github.com/dudupaz), [Samuel Ribeiro](https://github.com/SamuelRicosta), [Alana Gabriele](https://github.com/alanagabriele), [Genilson Silva](https://github.com/GenilsonJrs)|
 
 <p style="text-align: center; font-size: 14px;">
     Autor: <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro</a>
@@ -31,7 +31,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 ## Verificações
 
 <details>
-  <summary>backwardFrom</summary>
+  <summary>Backward-From</summary>
 
 
   <h2>Lista de Verificação</h2>
@@ -145,7 +145,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 </details>
 
 <details>
-  <summary>forwardFrom</summary>
+  <summary>Forward-From</summary>
 
 
   <h2>Lista de Verificação</h2>
@@ -260,7 +260,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 </details>
 
 <details>
-  <summary>matrizdeRastreabilidade</summary>
+  <summary>Matriz de Rastreabilidade</summary>
   
   
   <h2>Lista de Verificação</h2>
