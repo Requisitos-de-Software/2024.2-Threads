@@ -136,6 +136,15 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 <p style="text-align: center; font-size: 14px;">
     Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva, </a>
   </p>
+<div style="text-align: center;">
+  <p>Vídeo 4 - Verificação de Backward-From</p>
+</div>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZQuIyM48ri8?si=88pTLYQmtFURPU0W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+<p style="text-align: center; font-size: 14px;">
+    Autor: <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro, </a>
+  </p>
 
 ## Análise dos Resultados
 
@@ -148,3 +157,4 @@ As verificações indicam que os artefatos estão alinhados aos critérios estab
 | **Versão** | **Data**       | **Descrição**                   | **Autor(es)**                                                                                                  | **Revisor(es)**                              |
 | ---------- | -------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
 | 1.0        | 20/01/2024     | Criação do documento e Verificação da Matriz           | [Genilson Silva](https://github.com/GenilsonJrs)                                                           | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+| 1.0        | 20/01/2024     | Criação do documento e Backward-From           | [Samuel Ribeiro](https://github.com/SamuelRicosta)                                                          | [Genilson Silva](https://github.com/GenilsonJrs) |
