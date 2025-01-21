@@ -30,10 +30,8 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 
 ## Verificação
 
-<h2>Lista de Verificação</h2>
-
   <div style="text-align: center;">
-    <p><strong>Tabela 4: Lista de Verificação </strong></p>
+    <p><strong>Tabela 2: Lista de Verificação </strong></p>
   </div>
 
 <table border="1">
@@ -153,7 +151,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 <h2>Lista de Verificação</h2>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 1: Lista de Verificação - Forward From</strong></p>
+    <p><strong>Tabela 3: Lista de Verificação - Forward From</strong></p>
   </div>
 
    <tr><table border="1">
@@ -248,11 +246,11 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 
   </details>
 
+---
+
 ## Análise dos Resultados
 
 As verificações indicam que os artefatos estão alinhados aos critérios estabelecidos, refletindo um trabalho consistente e organizado. Algumas sugestões foram realizadas, como a inclusão de descrições mais detalhadas em determinados documentos, visando maior clareza para os usuários finais. O projeto demonstra evolução e um bom nível de qualidade, com oportunidades pontuais de refinamento.
-
-## Referências
 
 ## Bibliografia
 
@@ -262,11 +260,12 @@ As verificações indicam que os artefatos estão alinhados aos critérios estab
 
 > SAYÃO, Miriam; DO PRADO LEITE, Julio Cesar Sampaio. Rastreabilidade de requisitos. RITA, v. 13, n. 1, p. 57-86, 2006. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972563/mod_resource/content/3/05_20_sayao.pdf](https://aprender3.unb.br/pluginfile.php/2972563/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 20 jan. 2025.
 
-
+---
 
 ## Histórico de Versões
 
 | **Versão** | **Data**       | **Descrição**                   | **Autor(es)**                                                                                                  | **Revisor(es)**                              |
 | ---------- | -------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
 | 1.0        | 20/01/2024     | Criação do documento e Verificação da Matriz           | [Genilson Silva](https://github.com/GenilsonJrs)                                                           | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
-| 1.0        | 20/01/2024     | Criação do documento e Backward-From           | [Samuel Ribeiro](https://github.com/SamuelRicosta)                                                          | [Genilson Silva](https://github.com/GenilsonJrs) |
+| 1.1        | 20/01/2024     | Inserção de Backward-From           | [Samuel Ribeiro](https://github.com/SamuelRicosta)                                                          | [Genilson Silva](https://github.com/GenilsonJrs) |
+| 1.2        | 20/01/2024     | Inserção de Forward-From           | [Carlos Eduardo](https://github.com/dudupaz)                                                          | [Genilson Silva](https://github.com/GenilsonJrs) |
