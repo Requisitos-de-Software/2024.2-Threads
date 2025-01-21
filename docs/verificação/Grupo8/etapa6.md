@@ -161,7 +161,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
     <td>Há algum um trecho fazendo introdução dos artefatos?</td>
     <td>Sim</td>
     <td>versão 1.0 - 20/01/25</td>
-    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa5/r1.png"> Plano de ensino - Requisitos de Software 2024.2. Autor: André Barros. </a></td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo8/imagens/etapa6/q1.png"> Plano de ensino - Requisitos de Software 2024.2. Autor: André Barros. </a></td>
     <td><a href="https://github.com/dudupaz" target="_blank">Carlos Paz</a></td>
   </tr>
   <tr>
@@ -169,7 +169,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
     <td>É apresentado uma breve apresentação da técnica Forward-from no artefato?</td>
     <td>Sim</td>
     <td>versão 1.0 - 20/01/25</td>
-    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa5/r2.png">SERRANO, Milene; SERRANO, Maurício. Requisitos - aula 26. Brasília: UnB Gama, s.d. 1 apresentação em slides. </a></td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo8/imagens/etapa6/q2.png">SERRANO, Milene; SERRANO, Maurício. Requisitos - aula 26. Brasília: UnB Gama, s.d. 1 apresentação em slides. </a></td>
     <td><a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a></td>
   </tr>
   <tr>
@@ -177,7 +177,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
     <td>O projeto utiliza uma matriz de rastreabilidade para mapear os requisitos a outros elementos?</td>
     <td>Sim</td>
     <td>versão 1.0 - 20/01/25</td>
-    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa5/r7.png">SAYÃO, F.; LEITE, J. C. Rastreabilidade de requisitos: fundamentos e aplicações. Petrópolis: Vozes, 2006. </a></td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo8/imagens/etapa6/q3.png">SAYÃO, F.; LEITE, J. C. Rastreabilidade de requisitos: fundamentos e aplicações. Petrópolis: Vozes, 2006. </a></td>
     <td><a href="https://github.com/dudupaz" target="_blank">Carlos Paz</a></td>
   </tr>
   <tr>
@@ -185,7 +185,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
     <td>Os artefatos estão conectados com seus derivados por meio de hyperlinks?</td>
     <td>Sim</td>
     <td>versão 1.0 - 20/01/25</td>
-    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa5/r3.png">POHL, Klaus; RUPP, Chris. Requirements Engineering Fundamentals. </a></td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo8/imagens/etapa6/q4.png">POHL, Klaus; RUPP, Chris. Requirements Engineering Fundamentals. </a></td>
     <td><a href="https://github.com/samuelricosta" target="_blank">Samuel Ribeiro</a></td>
   </tr>
   <tr>
@@ -193,7 +193,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
     <td>Está sendo apresentado os elos de rastreabilidade do Meta-modelo de Toranzo?</td>
     <td>Sim</td>
     <td>versão 1.0 - 20/01/25</td>
-    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa5/r4.png">SERRANO, Milene; SERRANO, Maurício. Requisitos - aula 26. Brasília: UnB Gama, s.d. 1 apresentação em slides. </a></td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo8/imagens/etapa6/q5.png">SERRANO, Milene; SERRANO, Maurício. Requisitos - aula 26. Brasília: UnB Gama, s.d. 1 apresentação em slides. </a></td>
     <td><a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele</a></td>
   </tr>
   <tr>
@@ -201,7 +201,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
     <td>O histórico de versão padronizado?</td>
     <td>Sim</td>
     <td>versão 1.0 - 20/01/25</td>
-    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa5/r5.png">Plano de ensino - Requisitos de Software 2024.2. Autor: André Barros. </a></td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo8/imagens/etapa6/q6.png">Plano de ensino - Requisitos de Software 2024.2. Autor: André Barros. </a></td>
     <td><a href="https://github.com/samuelricosta" target="_blank">Samuel Ribeiro</a></td>
   </tr>
   <tr>
@@ -209,7 +209,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
     <td>O(s) autor(es) e o(s) revisor(es) estão descritos no artefato??</td>
     <td>Sim</td>
     <td>versão 1.0 - 20/01/25</td>
-    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa5/r6.png">Plano de ensino - Requisitos de Software 2024.2. Autor: André Barros. </a></td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo8/imagens/etapa6/q7.png">Plano de ensino - Requisitos de Software 2024.2. Autor: André Barros. </a></td>
     <td><a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele</a></td>
   </tr>
 
@@ -225,13 +225,13 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 </p>
 
 <h2>Gravação</h2>
-<p>O vídeo pode ser visto direto no <a href="https://youtu.be/2sjk1uFJ_dA?si=_rbKBNbXD4u7Oz3_">YouTube.</a></p>
+<p>O vídeo pode ser visto direto no <a href="https://youtu.be/Z3lBo4Yc1hM">YouTube.</a></p>
 
 <div style="text-align: center;">
-  <p>Vídeo 1 - Verificação do NFR Framework </p>
+  <p>Vídeo 1 - Verificação do Forward From </p>
 </div>
 <center>
-<iframe width="560" height="315" src="https://youtube.com/embed/2sjk1uFJ_dA?si=_rbKBNbXD4u7Oz3_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z3lBo4Yc1hM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 <p style="text-align: center; font-size: 14px;">
     Autor: <a href="https://github.com/dudupaz" target="_blank">Carlos Eduardo</a>
