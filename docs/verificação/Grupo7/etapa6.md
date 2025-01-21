@@ -104,7 +104,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
   <tr>
     <td>8</td>
     <td>A matriz de rastreabilidade garante que todos os elementos do sistema estejam associados a requisitos específicos?</td>
-    <td></td>
+    <td>Sim</td>
     <td>versão 1.0 - 19/01/25</td>
     <td>Sim<a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa5/r8.png">SAYÃO, F.; LEITE, J. C. Rastreabilidade de requisitos: fundamentos e aplicações. Petrópolis: Vozes, 2006.</a></td>
     <td><a href="https://github.com/dudupaz" target="_blank">Carlos Paz</a></td>
@@ -145,7 +145,7 @@ As verificações indicam que os artefatos estão alinhados aos critérios estab
 
 ## Histórico de Versões
 
-| **Versão** | **Data**   | **Descrição**                   | **Autor(es)**                                                                                                                                                                                          | **Revisor(es)**                                    |
-| ---------- | ---------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------- | -------------------------------------------------- |
-| 1.0        | 19/01/2024 | Criação do documento            | [Samuel Ribeiro](https://github.com/SamuelRicosta)                                                                                                                                                     | [Genilson Silva](https://github.com/GenilsonJrs)   |
-| 1.1        | 19/01/2024 | Adição dos itens de verificação | [Carlos Eduardo](https://github.com/dudupaz), [Samuel Ribeiro](https://github.com/SamuelRicosta), [Alana Gabriele](https://github.com/alanagabriele), [Genilson Silva](https://github.com/GenilsonJrs) | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+| **Versão** | **Data**       | **Descrição**                   | **Autor(es)**                                                                                                  | **Revisor(es)**                              |
+| ---------- | -------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 1.0        | 19/01/2024     | Criação do documento            | [Samuel Ribeiro](https://github.com/SamuelRicosta)                                                           | [Genilson Silva](https://github.com/GenilsonJrs) |
+| 1.1        | 20/01/2024     | Adição dos itens de verificação | [Carlos Eduardo](https://github.com/dudupaz), [Samuel Ribeiro](https://github.com/SamuelRicosta), [Alana Gabriele](https://github.com/alanagabriele), [Genilson Silva](https://github.com/GenilsonJrs) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
