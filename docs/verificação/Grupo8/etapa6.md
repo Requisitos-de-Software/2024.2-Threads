@@ -137,11 +137,123 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
     Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva, </a>
   </p>
 
+  <details>
+  <summary>Forward From</summary>
+
+
+<h2>Lista de Verificação</h2>
+
+  <div style="text-align: center;">
+    <p><strong>Tabela 1: Lista de Verificação - Forward From</strong></p>
+  </div>
+
+   <tr><table border="1">
+  <tr>
+    <th>Id</th>
+    <th>Descrição</th>
+    <th>Resposta</th>
+    <th>Versão e Data</th>
+    <th>Referência</th>
+    <th>Autor</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Há algum um trecho fazendo introdução dos artefatos?</td>
+    <td>Sim</td>
+    <td>versão 1.0 - 20/01/25</td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa5/r1.png"> Plano de ensino - Requisitos de Software 2024.2. Autor: André Barros. </a></td>
+    <td><a href="https://github.com/dudupaz" target="_blank">Carlos Paz</a></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>É apresentado uma breve apresentação da técnica Forward-from no artefato?</td>
+    <td>Sim</td>
+    <td>versão 1.0 - 20/01/25</td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa5/r2.png">SERRANO, Milene; SERRANO, Maurício. Requisitos - aula 26. Brasília: UnB Gama, s.d. 1 apresentação em slides. </a></td>
+    <td><a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>O projeto utiliza uma matriz de rastreabilidade para mapear os requisitos a outros elementos?</td>
+    <td>Sim</td>
+    <td>versão 1.0 - 20/01/25</td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa5/r7.png">SAYÃO, F.; LEITE, J. C. Rastreabilidade de requisitos: fundamentos e aplicações. Petrópolis: Vozes, 2006. </a></td>
+    <td><a href="https://github.com/dudupaz" target="_blank">Carlos Paz</a></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Os artefatos estão conectados com seus derivados por meio de hyperlinks?</td>
+    <td>Sim</td>
+    <td>versão 1.0 - 20/01/25</td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa5/r3.png">POHL, Klaus; RUPP, Chris. Requirements Engineering Fundamentals. </a></td>
+    <td><a href="https://github.com/samuelricosta" target="_blank">Samuel Ribeiro</a></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Está sendo apresentado os elos de rastreabilidade do Meta-modelo de Toranzo?</td>
+    <td>Sim</td>
+    <td>versão 1.0 - 20/01/25</td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa5/r4.png">SERRANO, Milene; SERRANO, Maurício. Requisitos - aula 26. Brasília: UnB Gama, s.d. 1 apresentação em slides. </a></td>
+    <td><a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele</a></td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>O histórico de versão padronizado?</td>
+    <td>Sim</td>
+    <td>versão 1.0 - 20/01/25</td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa5/r5.png">Plano de ensino - Requisitos de Software 2024.2. Autor: André Barros. </a></td>
+    <td><a href="https://github.com/samuelricosta" target="_blank">Samuel Ribeiro</a></td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>O(s) autor(es) e o(s) revisor(es) estão descritos no artefato??</td>
+    <td>Sim</td>
+    <td>versão 1.0 - 20/01/25</td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa5/r6.png">Plano de ensino - Requisitos de Software 2024.2. Autor: André Barros. </a></td>
+    <td><a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele</a></td>
+  </tr>
+
+</table>
+
+<h2>Verificação</h2>
+<p>Nenhum problema foi encontrado de acordo com a lista de verificação aplicada.
+
+</p>
+
+<h2>Sugestões</h2>
+<p>Nenhuma sugestão a ser apontada.
+</p>
+
+<h2>Gravação</h2>
+<p>O vídeo pode ser visto direto no <a href="https://youtu.be/2sjk1uFJ_dA?si=_rbKBNbXD4u7Oz3_">YouTube.</a></p>
+
+<div style="text-align: center;">
+  <p>Vídeo 1 - Verificação do NFR Framework </p>
+</div>
+<center>
+<iframe width="560" height="315" src="https://youtube.com/embed/2sjk1uFJ_dA?si=_rbKBNbXD4u7Oz3_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+<p style="text-align: center; font-size: 14px;">
+    Autor: <a href="https://github.com/dudupaz" target="_blank">Carlos Eduardo</a>
+  </p>
+
+  </details>
+
 ## Análise dos Resultados
 
 As verificações indicam que os artefatos estão alinhados aos critérios estabelecidos, refletindo um trabalho consistente e organizado. Algumas sugestões foram realizadas, como a inclusão de descrições mais detalhadas em determinados documentos, visando maior clareza para os usuários finais. O projeto demonstra evolução e um bom nível de qualidade, com oportunidades pontuais de refinamento.
 
 ## Referências
+
+## Bibliografia
+
+> SALES, André Barros de. <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de Ensino - Requisitos de Software</a>. Acesso em: 20 jan. 2025..
+
+> SERRANO, Milene; SERRANO, Maurício. Requisitos - aula 26. Brasília: UnB Gama, s.d. 1 apresentação em slides. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf](https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf). Acesso em: 20 jan. 2025.
+
+> SAYÃO, Miriam; DO PRADO LEITE, Julio Cesar Sampaio. Rastreabilidade de requisitos. RITA, v. 13, n. 1, p. 57-86, 2006. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972563/mod_resource/content/3/05_20_sayao.pdf](https://aprender3.unb.br/pluginfile.php/2972563/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 20 jan. 2025.
+
+
 
 ## Histórico de Versões
 
