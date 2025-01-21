@@ -94,6 +94,6 @@ Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição            | Autor                                              | Revisor                                            |
-| :----: | ---------- | -------------------- | -------------------------------------------------- | -------------------------------------------------- |
-|  1.0   | 19/01/2025 | Criação do documento | [Alana Gabriele](https://github.com/alanagabriele) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+| Versão | Data       | Descrição            | Autor                                              | Revisor                                          |
+| :----: | ---------- | -------------------- | -------------------------------------------------- | ------------------------------------------------ |
+|  1.0   | 19/01/2025 | Criação do documento | [Alana Gabriele](https://github.com/alanagabriele) | [Genilson Silva](https://github.com/GenilsonJrs) |
