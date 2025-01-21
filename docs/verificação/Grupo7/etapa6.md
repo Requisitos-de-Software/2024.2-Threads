@@ -143,6 +143,8 @@ As verificações indicam que os artefatos estão alinhados aos critérios estab
 
 ## Referências
 
+> SAYÃO, Fernando; LEITE, Julio Cesar. Rastreabilidade de requisitos: fundamentos e aplicações. Petrópolis: Vozes, 2006.
+
 ## Histórico de Versões
 
 | **Versão** | **Data**   | **Descrição**                   | **Autor(es)**                                                                                                                                                                                          | **Revisor(es)**                                    |
