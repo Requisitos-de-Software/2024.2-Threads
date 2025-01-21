@@ -448,7 +448,7 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
             <th>Atividade</th>
             <th>Período para o desenvolvimento da atividade</th>
             <th>Período da execução da atividade</th>
-            <th >Responsáveis</th>
+            <th>Responsáveis</th>
             <th>Período da revisão</th>
             <th>Revisores</th>
         </tr>
@@ -598,8 +598,8 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
 <details>
     <summary>Etapa 5 - Análise de Requisitos: Verificação e Validação</summary>
     <h2> Cronograma Planejado</h2>
-    <p>Na <b>Tabela 10</b> está o cronograma planejado da etapa</p>
-    <font size="2"><p style="text-align: center"><b>Tabela 10</b> - Cronograma planejado de atividades da etapa 5 </p></font>
+    <p>Na <b>Tabela 9</b> está o cronograma planejado da etapa</p>
+    <font size="2"><p style="text-align: center"><b>Tabela 9</b> - Cronograma planejado de atividades da etapa 5 </p></font>
     <table border="1">
         <tr>
             <th>Atividade</th>
@@ -700,8 +700,8 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
 <details>
     <summary>Etapa 6 - Pós-Rastreabilidade</summary>
     <h2> Cronograma Planejado</h2>
-    <p>Na <b>Tabela 12</b> está o cronograma planejado da etapa</p>
-    <font size="2"><p style="text-align: center"><b>Tabela 12</b> - Cronograma planejado de atividades de Pós-Rastreabilidade </p></font>
+    <p>Na <b>Tabela 11</b> está o cronograma planejado da etapa</p>
+    <font size="2"><p style="text-align: center"><b>Tabela 11</b> - Cronograma planejado de atividades de Pós-Rastreabilidade </p></font>
     <table border="1">
         <tr>
             <th>Atividade</th>
@@ -713,16 +713,30 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
         <tr>
             <td>Pós-rastreabilidade: Backward-form</td>
             <td>Início: 08/01 <br> Fim: 13/01</td>
-            <td>Alana Gabriele, Carlos Eduardo</td>
+            <td>Genilson Silva, Samuel Ribeiro</td>
             <td>Início: 11/01 <br> Fim: 12/01</td>
-            <td>Genilson Silva</td>
+            <td>Alana Gabriele</td>
         </tr>
         <tr>
             <td>Pós-rastreabilidade: Forward-form</td>
             <td>Início: 08/01 <br> Fim: 13/01</td>
-            <td>Genilson Silva, Samuel Ribeiro</td>
+            <td>Alana Gabriele, Carlos Eduardo</td>
             <td>Início: 12/01 <br> Fim: 13/01</td>
-            <td>Carlos Eduardo</td>
+            <td>Samuel Ribeiro</td>
+        </tr>
+        <tr>
+            <td>Matriz de Rastreabilidade</td>
+            <td>Início: 15/01 <br> Fim: 18/01</td>
+            <td>Alana Gabriele</td>
+            <td>Início: 19/01 <br> Fim: 19/01</td>
+            <td>Genilson Silva</td>
+        </tr>
+         <tr>
+            <td>Verificação do nosso grupo</td>
+            <td>Início : 17/01 <br> Fim : 19/01</td>
+            <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
+            <td>Início : 19/12 <br> Fim : 20/12</td>
+            <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
         </tr>
         <tr>
             <td>Gravação da Apresentação e Entrega</td>
@@ -732,14 +746,78 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
             <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
         </tr>
          <tr>
+            <td>Verificação dogrupo +1</td>
+            <td>Início : 20/12 <br> Fim : 20/12</td>
+            <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
+            <td>Início : 20/11 <br> Fim : 20/11</td>
+            <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
+        </tr>
+        <tr>
+            <td>Correção pós-apresentação</td>
+            <td>Início: 21/01 <br> Fim: 23/01</td>
+            <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
+            <td>Início: 23/01 <br> Fim: 24/01</td>
+            <td>Alana Gabriele</td>
+        </tr>
+    </table>
+    <font size="2"><p style="text-align: center; font-size: 14px;">
+    Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele</a> 
+</p></font>
+
+ <h2> Cronograma Executado</h2>
+    <p>Na <b>Tabela 12</b> está o cronograma executado da etapa</p>
+    <font size="2"><p style="text-align: center"><b>Tabela 12</b> - Cronograma executado de atividades de Pós-Rastreabilidade </p></font>
+    <table border="1">
+        <tr>
+            <th>Atividade</th>
+            <th>Período para o desenvolvimento da atividade</th>
+            <th>Período da execução da atividade</th>
+            <th>Responsáveis</th>
+            <th>Período da revisão</th>
+            <th>Revisores</th>
+        </tr>
+         <tr>
+            <td>Pós-rastreabilidade: Backward-form</td>
+            <td>Início: 08/01 <br> Fim: 13/01</td>
+             <td>Início: 16/01 <br> Fim: 19/01 até às 18h</td>
+            <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
+            <td>Início: 19/01 19h <br> Fim: 19/01</td>
+            <td>Alana Gabriele</td>
+        </tr>
+        <tr>
+            <td>Pós-rastreabilidade: Forward-form</td>
+            <td>Início: 08/01 <br> Fim: 13/01</td>
+            <td>Início: 17/01 <br> Fim: 19/01 até às 18h</td>
+            <td>Alana Gabriele, Carlos Eduardo</td>
+            <td>Início: 19/01 às 19h  <br> Fim: 19/01 19h </td>
+            <td>Samuel Ribeiro</td>
+        </tr>
+         <tr>
+            <td>Matriz de Rastreabilidade</td>
+            <td>Início: 15/01 <br> Fim: 18/01</td>
+            <td>Início: 18/01 <br> Fim: 19/01 até às 18h</td>
+            <td>Alana Gabriele</td>
+            <td>Início: 19/01 às 19h<br> Fim: 19/01</td>
+            <td>Genilson Silva</td>
+        </tr>
+        <tr>
             <td>Verificação do nosso grupo</td>
             <td>Início : 17/01 <br> Fim : 19/01</td>
+            <td>Início: 19/01 às 20h <br> Fim: 19/01 às 22h</td>
             <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
-            <td>Início : 19/12 <br> Fim : 20/12</td>
+            <td>Início: 19/12 às 22:30  <br> Fim: 20/12 às 23h</td>
+            <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
+        </tr>
+        <tr>
+            <td>Gravação da Apresentação e Entrega</td>
+            <td>Início: 15/01 <br> Fim: 16/01</td>
+             <td>Início: 19/01 às 23h <br> Fim: 19/01 às 23:30</td>
+            <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
+            <td>Início: 19/01 às 23:30 <br> Fim: 19/01 às 23:40</td>
             <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
         </tr>
          <tr>
-            <td>Verificação dogrupo +1</td>
+            <td>Verificação do grupo +1</td>
             <td>Início : 20/12 <br> Fim : 20/12</td>
             <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
             <td>Início : 20/11 <br> Fim : 20/11</td>
@@ -771,3 +849,4 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
 | 1.0    | 05/11/2024 | Criação do Documento                                              | [Alana Gabriele](https://github.com/alanagabriele) | [Genilson Silva](https://github.com/GenilsonJrs)   |
 | 1.1    | 13/11/2024 | Ajuste de datas e adição do período de verificação do nosso grupo | [Alana Gabriele](https://github.com/alanagabriele) | [Genilson Silva](https://github.com/GenilsonJrs)   |
 | 1.2    | 08/12/2024 | Cronograma Executado - etapa 3                                    | [Alana Gabriele](https://github.com/alanagabriele) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+| 1.3    | 08/12/2024 | Cronograma Executado - etapa 6                                    | [Alana Gabriele](https://github.com/alanagabriele) | [Carlos Eduardo](https://github.com/dudupaz)       |

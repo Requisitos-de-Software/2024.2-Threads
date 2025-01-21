@@ -104,9 +104,9 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
   <tr>
     <td>8</td>
     <td>A matriz de rastreabilidade garante que todos os elementos do sistema estejam associados a requisitos específicos?</td>
-    <td></td>
+    <td>Sim</td>
     <td>versão 1.0 - 19/01/25</td>
-    <td>Sim<a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa5/r8.png">SAYÃO, F.; LEITE, J. C. Rastreabilidade de requisitos: fundamentos e aplicações. Petrópolis: Vozes, 2006.</a></td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa5/r8.png">SAYÃO, F.; LEITE, J. C. Rastreabilidade de requisitos: fundamentos e aplicações. Petrópolis: Vozes, 2006.</a></td>
     <td><a href="https://github.com/dudupaz" target="_blank">Carlos Paz</a></td>
   </tr>
 </table>
@@ -143,11 +143,11 @@ As verificações indicam que os artefatos estão alinhados aos critérios estab
 
 ## Referências
 
-> SAYÃO, Fernando; LEITE, Julio Cesar. Rastreabilidade de requisitos: fundamentos e aplicações. Petrópolis: Vozes, 2006.
+> SAYÃO, Miriam; DO PRADO LEITE, Julio Cesar Sampaio. Rastreabilidade de requisitos. RITA, v. 13, n. 1, p. 57-86, 2006. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972563/mod_resource/content/3/05_20_sayao.pdf](https://aprender3.unb.br/pluginfile.php/2972563/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 19 jan. 2025.
 
 ## Histórico de Versões
 
 | **Versão** | **Data**   | **Descrição**                   | **Autor(es)**                                                                                                                                                                                          | **Revisor(es)**                                    |
-| ---------- | ---------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------- | -------------------------------------------------- |
+| ---------- | ---------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------- |
 | 1.0        | 19/01/2024 | Criação do documento            | [Samuel Ribeiro](https://github.com/SamuelRicosta)                                                                                                                                                     | [Genilson Silva](https://github.com/GenilsonJrs)   |
-| 1.1        | 19/01/2024 | Adição dos itens de verificação | [Carlos Eduardo](https://github.com/dudupaz), [Samuel Ribeiro](https://github.com/SamuelRicosta), [Alana Gabriele](https://github.com/alanagabriele), [Genilson Silva](https://github.com/GenilsonJrs) | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+| 1.1        | 20/01/2024 | Adição dos itens de verificação | [Carlos Eduardo](https://github.com/dudupaz), [Samuel Ribeiro](https://github.com/SamuelRicosta), [Alana Gabriele](https://github.com/alanagabriele), [Genilson Silva](https://github.com/GenilsonJrs) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
