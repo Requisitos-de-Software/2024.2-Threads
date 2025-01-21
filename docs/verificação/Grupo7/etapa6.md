@@ -106,7 +106,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
     <td>A matriz de rastreabilidade garante que todos os elementos do sistema estejam associados a requisitos específicos?</td>
     <td>Sim</td>
     <td>versão 1.0 - 19/01/25</td>
-    <td>Sim<a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa5/r8.png">SAYÃO, F.; LEITE, J. C. Rastreabilidade de requisitos: fundamentos e aplicações. Petrópolis: Vozes, 2006.</a></td>
+    <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa5/r8.png">SAYÃO, F.; LEITE, J. C. Rastreabilidade de requisitos: fundamentos e aplicações. Petrópolis: Vozes, 2006.</a></td>
     <td><a href="https://github.com/dudupaz" target="_blank">Carlos Paz</a></td>
   </tr>
 </table>
