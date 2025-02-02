@@ -35,26 +35,29 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 
 | **ID** | **Descrição** | **GitHub Pages possui** | **Versão da avaliação** | **Autor** | **Fonte** |
 |--------|---------------|-------------------------|-------------------------|-----------|-----------|
-| 01     | O histórico de versão padronizado?             | Sim                     | 1.0                     | André Barros |[PLANO DE ENSINO ](imagens/etapa3/Plano.jpg) |
-| 02     | O(s) autor(es) e o(s) revisor(es) para cada artefato? | Sim | 1.0 | André Barros | - |
-| 03     | Referências bibliográficas e/ou bibliografia em todos os artefatos? | Sim | 1.0 | André Barros | - |
-| 04     | As tabelas e imagens possuem título, fonte e são chamadas dentro do texto? | Sim | 1.0 | André Barros | - |
-| 05     | A definição do usuário nos Léxicos? | Sim | 1.0 | André Barros | - |
-| 06     | Os léxicos possuem ligações entre si (hiperlinks)? | Sim | 1.0 | André Barros | - |
-| 07     | A especificação do caso de uso? | Sim | 1.0 | André Barros | - |
-| 08     | O artefato segue o modelo FURPS+? | Sim | 1.0 | André Barros | - |
-| 09     | O documento especifica o tempo de resposta, no Desempenho? | Sim | 1.0 | André Barros | - |
-| 10     | O documento especifica qual plataforma o aplicativo pode ser executado? | Sim | 1.0 | André Barros | - |
-| 11     | Todos os requisitos podem ser testados (RF e RNF)? | Sim | 1.0 | André Barros | - |
-| 12     | O cenário possui ambiente e contexto condizente com o projeto? | Sim | 1.0 | [Genilson Silva](https://github.com/GenilsonJrs) | - |
-| 13     | Os atores do cenário representam personas do projeto? | Sim | 1.0 | [Genilson Silva](https://github.com/GenilsonJrs) | - |
-| 14     | Cada cenário identifica um ator principal? | Sim | 1.0 | [Samuel Ribeiro](https://github.com/SamuelRicosta) | - |
-| 15     | A descrição de cada ator no cenário inclui as características pessoais relevantes para o contexto? | Sim | 1.0 | [Samuel Ribeiro](https://github.com/SamuelRicosta) | - |
-| 16     | Os cenários descrevem claramente o objetivo da funcionalidade? | Sim | 1.0 | [Carlos Eduardo](https://github.com/dudupaz) | - |
-| 17     | Os cenários são descritos de forma sequencial e clara, com todos os passos necessários? | Sim | 1.0 | [Carlos Eduardo](https://github.com/dudupaz) | - |
-| 18     | Cada cenário possui um enredo, que inclui sequências de ações e eventos? | Sim | 1.0 | [Alana Gabriele](https://github.com/alanagabriele) | - |
-| 19     | Cada ator possui objetivos que dão origem às tarefas que ele realiza? | Sim | 1.0 | [Alana Gabriele](https://github.com/alanagabriele) | - |
+| 01     | O histórico de versão padronizado?             | Sim                     | 1.0                     | André Barros |[PLANO DE ENSINO ](imagens/etapa3/Plano.png) |
+| 02     | O(s) autor(es) e o(s) revisor(es) para cada artefato? | Sim | 1.0 | André Barros | [PLANO DE ENSINO ](imagens/etapa3/Plano.png) |
+| 03     | Referências bibliográficas e/ou bibliografia em todos os artefatos? | Sim | 1.0 | André Barros | [PLANO DE ENSINO ](imagens/etapa3/Plano.png) |
+| 04     | As tabelas e imagens possuem título, fonte e são chamadas dentro do texto? | Sim | 1.0 | André Barros | [PLANO DE ENSINO ](imagens/etapa3/Plano.png)|
+| 05     | A definição do usuário nos Léxicos? | Sim | 1.0 | André Barros | [PLANO DE ENSINO ](imagens/etapa3/Ensino.png) |
+| 06     | Os léxicos possuem ligações entre si (hiperlinks)? | Sim | 1.0 | André Barros | [PLANO DE ENSINO ](imagens/etapa3/Ensino.png) |
+| 07     | A especificação do caso de uso? | Sim | 1.0 | André Barros | [PLANO DE ENSINO ](imagens/etapa3/Ensino.png) |
+| 08     | O artefato segue o modelo FURPS+? | Sim | 1.0 | André Barros | [PLANO DE ENSINO ](imagens/etapa3/Ensino1.png) |
+| 09     | O documento especifica o tempo de resposta, no Desempenho? | Sim | 1.0 | André Barros | [PLANO DE ENSINO ](imagens/etapa3/Ensino1.png) |
+| 10     | O documento especifica qual plataforma o aplicativo pode ser executado? | Sim | 1.0 | André Barros | [PLANO DE ENSINO ](imagens/etapa3/Ensino1.png) |
+| 11     | Todos os requisitos podem ser testados (RF e RNF)? | Sim | 1.0 | André Barros | [PLANO DE ENSINO ](imagens/etapa3/Ensino1.png) |
+| 12     | O cenário possui ambiente e contexto condizente com o projeto? | Sim | 1.0 | [Genilson Silva](https://github.com/GenilsonJrs) | [BARBOSA, S. D. J. et al. Interação Humano-Computador](imagens/etapa3/G1.png) |
+| 13     | Os atores do cenário representam personas do projeto? | Sim | 1.0 | [Genilson Silva](https://github.com/GenilsonJrs) | [BARBOSA, S. D. J. et al. Interação Humano-Computador](imagens/etapa3/G2.png) |
+| 14     | Cada cenário identifica um ator principal? | Sim | 1.0 | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [BARBOSA, S. D. J. et al. Interação Humano-Computador](imagens/etapa3/S2.png) |
+| 15     | A descrição de cada ator no cenário inclui as características pessoais relevantes para o contexto? | Sim | 1.0 | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [BARBOSA, S. D. J. et al. Interação Humano-Computador](imagens/etapa3/S2.png) |
+| 16     | Os cenários descrevem claramente o objetivo da funcionalidade? | Sim | 1.0 | [Carlos Eduardo](https://github.com/dudupaz) | [BARBOSA, S. D. J. et al. Interação Humano-Computador](imagens/etapa3/C1.png) |
+| 17     | Os cenários são descritos de forma sequencial e clara, com todos os passos necessários? | Sim | 1.0 | [Carlos Eduardo](https://github.com/dudupaz) | [BARBOSA, S. D. J. et al. Interação Humano-Computador](imagens/etapa3/C2.png) |
+| 18     | Cada cenário possui um enredo, que inclui sequências de ações e eventos? | Sim | 1.0 | [Alana Gabriele](https://github.com/alanagabriele) | [BARBOSA, S. D. J. et al. Interação Humano-Computador](imagens/etapa3/A1.png) |
+| 19     | Cada ator possui objetivos que dão origem às tarefas que ele realiza? | Sim | 1.0 | [Alana Gabriele](https://github.com/alanagabriele) |[BARBOSA, S. D. J. et al. Interação Humano-Computador](imagens/etapa3/A2.png) |
 
+<p style="text-align: center; font-size: 14px;">
+    Autores: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva,</a> <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele,</a> <a href="https://github.com/dudupaz" target="_blank">Carlos Paz,</a> <a href="https://github.com/SamuelRicosta" target="_blank"> Samuel Ribeiro. </a>
+</p>
 
 ## Análise dos Resultados
 
@@ -63,6 +66,9 @@ As verificações indicam que os artefatos estão alinhados aos critérios estab
 ## Referências
 
 > UNIVERSIDADE DE BRASÍLIA. **Plano de ensino - RE 022024 - Turma 02, versão 1**. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf). Acesso em: 14 nov. 2024.
+
+> BARBOSA, S. D. J. et al. **Interação Humano-Computador e Experiência do Usuário**. Autopublicação, 2021,Disponível em: [https://aprender3.unb.br/pluginfile.php/2972437/mod_resource/content/2/ihc-ux-%20Personas.pdf](https://aprender3.unb.br/pluginfile.php/2972437/mod_resource/content/2/ihc-ux-%20Personas.pdf). Acesso em: 02 fev. 2025.
+
 
 ## Histórico de Versões
 
@@ -74,3 +80,4 @@ As verificações indicam que os artefatos estão alinhados aos critérios estab
 | 1.3        | 08/12/2024 | Verificação de cenários    | [Carlos Eduardo](https://github.com/dudupaz)       | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
 | 1.4        | 08/12/2024 | Verificação do caso de uso | [Alana Gabriele](https://github.com/alanagabriele) | [Genilson Silva](https://github.com/GenilsonJrs)   |
 | 1.5        | 13/12/2024 | Ajustes no documento | [Genilson Silva](https://github.com/GenilsonJrs) | [Alana Gabriele](https://github.com/alanagabriele)  |
+| 1.6        | 02/02/2025 | Correções no documento | [Genilson Silva](https://github.com/GenilsonJrs), [Samuel Ribeiro](https://github.com/SamuelRicosta), [Carlos Eduardo](https://github.com/dudupaz), [Alana Gabriele](https://github.com/alanagabriele) | [Samuel Ribeiro](https://github.com/SamuelRicosta)  |
