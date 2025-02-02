@@ -10,7 +10,7 @@ A verificação tem como propósito assegurar que todos os requisitos de avalia�
 
 ## Metodologia
 
-As verificações foram realizadas seguindo uma lista de critérios de avaliação alinhados ao plano de ensino da disciplina. os membros do grupo elaboraram uma Lista de Verificação específica, utilizada para analisar os artefatos com base nos critérios definidos. Durante a verificação, foram registrados comentários e observações relevantes, assegurando a rastreabilidade das análises. Além disso, para garantir a imparcialidade, os artefatos foram avaliados por membros que não participaram diretamente de sua elaboração.
+As verificações foram realizadas seguindo uma lista de critérios de avaliação alinhados ao plano de ensino da disciplina. os membros do grupo elaboraram uma Lista de Verificação específica, utilizada para analisar os artefatos com base nos critérios definidos. Durante a verificação, foram registrados comentários e observações relevantes, assegurando a rastreabilidade das análises. Além disso, para garantir a imparcialidade, os artefatos foram avaliados por membros que não participaram diretamente de sua elaboração. Na tabela 1, estão presentes os responsáveis pela verificação dos documentos. Em tabela 2, estão listados as itens e resultados da verificação aplicada.
 
 ## Responsáveis pelas Verificações
 
