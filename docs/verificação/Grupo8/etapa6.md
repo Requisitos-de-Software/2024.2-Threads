@@ -30,9 +30,6 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 
 ## Verificação
 
-<details>  
-  <summary>Verificação Etapa 6 Sympla</summary>  
-
 <h2>Lista de Verificação</h2>
 
   <div style="text-align: center;">
@@ -82,7 +79,6 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
     Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva, </a><a href="https://github.com/dudupaz" target="_blank">Carlos Eduardo, </a><a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro, </a><a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele.</a>
   </p>
 
-</details>
 
 ## Análise dos Resultados
 
