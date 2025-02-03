@@ -10,19 +10,6 @@ A verificação tem como propósito garantir que todos os requisitos de avaliaç
 
 As verificações seguiram uma lista de critérios de avaliação, desenvolvida conforme o plano de ensino da disciplina. Esta lista facilitou a criação de uma Lista de Verificação por cada membro do grupo para confirmar o atendimento de cada critério, permitindo ainda o registro de observações adicionais e comentários relevantes. Abaixo está presente as Listas de Verificações nas Tabelas de 1 a 8.
 
-## Responsáveis pelas Verificações
-
-| Artefato               | Verificador                                        |
-| ---------------------- | -------------------------------------------------- |
-| Página Inicial         | [Carlos Paz](https://github.com/dudupaz)           |
-| Apresentação           | [Alana Gabriele](https://github.com/alanagabriele) |
-| Cronograma             | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
-| Ferramentas            | [Genilson Silva](https://github.com/GenilsonJrs)   |
-| Aplicativos Avaliados  | [Genilson Silva](https://github.com/GenilsonJrs)   |
-| Aplicativo Selecionado | [Genilson Silva](https://github.com/GenilsonJrs)   |
-| Rich Picture           | [Carlos Paz](https://github.com/dudupaz)           |
-| Metodologia            | [Carlos Paz](https://github.com/dudupaz)           |
-
 ## Verificação
 
 # Tabela 1: Lista de Verificação
@@ -46,8 +33,14 @@ As verificações seguiram uma lista de critérios de avaliação, desenvolvida 
 | 15  | A gravação da reunião do grupo.                                                                             | Sim      | versão 1.0 - 19/01/25 |       [PLANO DE ENSINO ](./imagens/imgTabela/pe2.png)   | André Barros  |
 | 16  | Vídeo de apresentação na categoria “não listado” no YouTube?                                                | Sim      | versão 1.0 - 19/01/25 |          [PLANO DE ENSINO ](./imagens/imgTabela/pe2.png)  | André Barros  |
 | 17  | No artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama?               | Sim      | versão 1.0 - 19/01/25 | [PLANO DE ENSINO ](./imagens/imgTabela/pe2.png) | André Barros  |
-| 18  | Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture” apresentado pelo grupo? | Sim      | versão 1.0 - 19/01/25 | [PLANO DE ENSINO ](./imagens/imgTabela/pe2.png) | André Barros  |
+| 18  | Identificação das operações e quem as executa? | Sim      | versão 1.0 - 19/01/25 | [Software Development Project, Introducing Rich Pictures - p. 4](imagens/imgTabela/02.jpg) | [Samuel Ribeiro](https://github.com/SamuelRicosta)  |
+|  19  | Clareza e legibilidade do rich picture?                                                                                                           |  sim        |   versão 1.0 - 19/01/25                  |     [Software Development Project, Introducing Rich Pictures - p. 3](imagens/imgTabela/08.jpg)                       |      [Carlos Paz](https://github.com/dudupaz)         |
+|20  | Definição do limite do sistema?                                                                                                           |  Sim        |   versão 1.0 - 19/01/25                   |     [Software Development Project, Introducing Rich Pictures - p. 4](imagens/imgTabela/05.jpg)                       |      [Alana Gabriele](https://github.com/alanagabriele)         |
+| 21  |   Representação dos fluxos de dados e sua direção?                                                                                                         |  sim        |    versão 1.0 - 19/01/25                  |       [Software Development Project, Introducing Rich Pictures - p. 3](imagens/imgTabela/04.jpg)                     |  [Genilson Silva](https://github.com/GenilsonJrs)             |
 
+<p style="text-align: center; font-size: 14px;">
+    Autores: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva,</a> <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele,</a> <a href="https://github.com/dudupaz" target="_blank">Carlos Paz,</a> <a href="https://github.com/SamuelRicosta" target="_blank"> Samuel Ribeiro. </a>
+</p>
 ---
 
 
@@ -58,6 +51,8 @@ As verificações indicam que os artefatos atendem aos critérios esperados. A p
 ## Referências
 
 UNIVERSIDADE DE BRASÍLIA. **Plano de ensino - RE 022024 - Turma 02, versão 1**. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf). Acesso em: 14 nov. 2024.
+
+CHECKLAND, Peter. Systems Thinking, Systems Practice. Chichester: John Wiley & Sons, 1981. Disponível em: https://www.wiley.com/en-us/Systems+Thinking%2C+Systems+Practice-p-9780471986059. Acesso em: 06 de novembro de 2024.
 
 ## Histórico de Versões
 

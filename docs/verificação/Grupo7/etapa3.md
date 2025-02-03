@@ -83,4 +83,4 @@ As verificações indicam que os artefatos estão alinhados aos critérios estab
 | 1.3        | 08/12/2024 | Verificação de cenários    | [Carlos Eduardo](https://github.com/dudupaz)       | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
 | 1.4        | 08/12/2024 | Verificação do caso de uso | [Alana Gabriele](https://github.com/alanagabriele) | [Genilson Silva](https://github.com/GenilsonJrs)   |
 | 1.5        | 13/12/2024 | Ajustes no documento | [Genilson Silva](https://github.com/GenilsonJrs) | [Alana Gabriele](https://github.com/alanagabriele)  |
-| 1.6        | 02/02/2025 | Correções no documento | [Genilson Silva](https://github.com/GenilsonJrs), [Samuel Ribeiro](https://github.com/SamuelRicosta), [Carlos Eduardo](https://github.com/dudupaz), [Alana Gabriele](https://github.com/alanagabriele) | [Samuel Ribeiro](https://github.com/SamuelRicosta)  |
+| 1.6        | 02/02/2025 | Correções no documento | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Samuel Ribeiro](https://github.com/SamuelRicosta)  |
