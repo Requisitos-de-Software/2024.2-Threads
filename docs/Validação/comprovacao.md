@@ -13,8 +13,12 @@ A imagen 1  apresenta a mensagem enviada por essa plataforma. Todas foram encami
 <div style="text-align: center;">
     <p><strong>imagem 1 - Mensagem enviada via Instagram </strong></p>
   </div>
+  
+<center>
 
-[](imagem/comprovacao/th.png)
+![](./imagens/instagram.png)
+
+</center>
 
 <p style="text-align: center; font-size: 14px;">
     Autores: <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro.</a>
