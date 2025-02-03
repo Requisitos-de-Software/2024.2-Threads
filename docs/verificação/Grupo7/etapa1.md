@@ -52,7 +52,7 @@ As verificações indicam que os artefatos atendem aos critérios esperados. A p
 
 UNIVERSIDADE DE BRASÍLIA. **Plano de ensino - RE 022024 - Turma 02, versão 1**. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf). Acesso em: 14 nov. 2024.
 
-> CHECKLAND, Peter. Systems Thinking, Systems Practice. Chichester: John Wiley & Sons, 1981. Disponível em: https://www.wiley.com/en-us/Systems+Thinking%2C+Systems+Practice-p-9780471986059. Acesso em: 06 de novembro de 2024.
+CHECKLAND, Peter. Systems Thinking, Systems Practice. Chichester: John Wiley & Sons, 1981. Disponível em: https://www.wiley.com/en-us/Systems+Thinking%2C+Systems+Practice-p-9780471986059. Acesso em: 06 de novembro de 2024.
 
 ## Histórico de Versões
 
