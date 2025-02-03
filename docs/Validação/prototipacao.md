@@ -20,7 +20,7 @@ A tabela 1 mostra os requisitos utilizados para o protótipo 1.
 <details>
   <summary>Protótipo 1 - Mensagem Privada</summary>
 
-## Protótipo 1
+<h2>Protótipo 1</h2>
 
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/sfhXSQxvlgwGySwqQwlQm4/REQ---Implementa%C3%A7%C3%A3o-dos-Requisitos?node-id=70-1108&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=70%3A1108&show-proto-sidebar=1&embed-host=share" allowfullscreen></iframe>
@@ -47,7 +47,7 @@ A tabela 1 mostra os requisitos utilizados para o protótipo 1.
 <details>
   <summary>Protótipo 2 - IA</summary>
 
-## Protótipo 2
+<h2>Protótipo 2</h2>
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/sfhXSQxvlgwGySwqQwlQm4/REQ---Implementa%C3%A7%C3%A3o-dos-Requisitos?node-id=32-18&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=32%3A18&show-proto-sidebar=1&embed-host=share" allowfullscreen></iframe>
 
