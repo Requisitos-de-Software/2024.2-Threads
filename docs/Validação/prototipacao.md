@@ -130,3 +130,4 @@ FIGMA. **Protótipo do sistema Threads**. Disponível em: https://www.figma.com.
 | ---------- | ---------- | -------------------------- | -------------------------------------------------- | -------------------------------------------------- |
 | 1.0        | 02/02/2024 | Criação do documento       | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs)   |
 | 1.1        | 03/02/2025 | Adição do Protótipo IA       | [Genilson Silva](https://github.com/GenilsonJrs) | [Samuel Ribeiro](https://github.com/SamuelRicosta)   |
+| 1.2        | 03/02/2025 | Adição do Protótipo Mensagem Privada      | [Genilson Silva](https://github.com/GenilsonJrs) | [Samuel Ribeiro](https://github.com/SamuelRicosta)   |
