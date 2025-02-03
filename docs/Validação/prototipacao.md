@@ -28,6 +28,11 @@ A tabela 1 mostra os requisitos utilizados para os protótipos.
     <td><a href="../../Elicitacao/tecnicas/requisitoselicitados/#anchor_RF22">RF22</a></td>
     <td>O sistema deve sugerir textos gerados por Inteligência Artificial para publicações.</td>
   </tr>
+  <tr>
+    <td>3</td>
+    <td><a href="../../Elicitacao/tecnicas/requisitoselicitados/#anchor_RF03">RF03</a></td>
+    <td>O sistema deve exibir Thrend Topics para visualização dos tópicos populares.</td>
+  </tr>
 </table>
 
 <p style="text-align: center; font-size: 14px;">
@@ -89,6 +94,35 @@ A tabela 1 mostra os requisitos utilizados para os protótipos.
   </p>
 
 </details>
+
+<details>
+  <summary>Protótipo 3 - Thrend Topics</summary>
+
+<h2>Protótipo 3</h2>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/sfhXSQxvlgwGySwqQwlQm4/REQ---Implementa%C3%A7%C3%A3o-dos-Requisitos?node-id=32-18&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=32%3A18&show-proto-sidebar=1&embed-host=share" allowfullscreen></iframe>
+
+<p style="text-align: center; font-size: 14px;">
+    Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele</a>
+</p>
+
+<h2>Gravação</h2>
+<p>O vídeo pode ser visto direto no <a href="https://youtu.be/-L_1d_mjx7c?si=AvYNWBWUpGGNwz3K">YouTube.</a></p>
+
+<div style="text-align: center;">
+  <p>Vídeo 3 - Thrend Topics </p>
+</div>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-L_1d_mjx7c?si=AvYNWBWUpGGNwz3K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+<p style="text-align: center; font-size: 14px;">
+    Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele</a>
+  </p>
+
+</details>
+
+## Referência
+FIGMA. **Protótipo do sistema Threads**. Disponível em: https://www.figma.com. Acesso em: 03 fev. 2025.
 
 ## Histórico de Versões
 
