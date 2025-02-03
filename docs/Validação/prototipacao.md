@@ -8,12 +8,32 @@ Para este projeto, foram desenvolvidos cinco protótipos, cada um focado em trê
 
 # Requisitos Escolhidos
 
-A tabela 1 mostra os requisitos utilizados para o protótipo 1.
+A tabela 1 mostra os requisitos utilizados para os protótipos.
 
-| REQUISITO | DESCRIÇÃO |
-|-----------|-----------|
-| <a href="../../Elicitacao/tecnicas/requisitoselicitados/#anchor_RF05">RF05 </a>      | O sistema deve oferecer uma área de mensagens privadas para interações. |
-| <a href="../../Elicitacao/tecnicas/requisitoselicitados/#anchor_RF22">RF22 </a>      | O sistema deve sugerir textos gerados por Inteligência Artificial para publicações. |
+<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Protótipos e Requisitos</p></font>
+
+<table border="1">
+  <tr>
+    <th>Protótipo</th>
+    <th>Requisito</th>
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td><a href="../../Elicitacao/tecnicas/requisitoselicitados/#anchor_RF05">RF05</a></td>
+    <td>O sistema deve oferecer uma área de mensagens privadas para interações.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td><a href="../../Elicitacao/tecnicas/requisitoselicitados/#anchor_RF22">RF22</a></td>
+    <td>O sistema deve sugerir textos gerados por Inteligência Artificial para publicações.</td>
+  </tr>
+</table>
+
+<p style="text-align: center; font-size: 14px;">
+    Autores: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva,</a> <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele,</a> <a href="https://github.com/dudupaz" target="_blank">Carlos Paz,</a> <a href="https://github.com/SamuelRicosta" target="_blank"> Samuel Ribeiro. </a>
+</p>
+
 
 # Protótipos
 
