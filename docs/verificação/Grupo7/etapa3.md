@@ -29,7 +29,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
     <tr>
         <td>01</td>
         <td>O histórico de versão padronizado?</td>
-        <td></td>
+        <td>Sim</td>
         <td>1.0</td>
         <td>André Barros</td>
         <td><a href="imagens/etapa3/Plano.png">PLANO DE ENSINO</a></td>
@@ -37,7 +37,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
     <tr>
         <td>02</td>
         <td>O(s) autor(es) e o(s) revisor(es) para cada artefato?</td>
-        <td></td>
+        <td>Sim</td>
         <td>1.0</td>
         <td>André Barros</td>
         <td><a href="imagens/etapa3/Plano.png">PLANO DE ENSINO</a></td>
@@ -45,7 +45,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
     <tr>
         <td>03</td>
         <td>Referências bibliográficas e/ou bibliografia em todos os artefatos?</td>
-        <td></td>
+        <td>Sim</td>
         <td>1.0</td>
         <td>André Barros</td>
         <td><a href="imagens/etapa3/Plano.png">PLANO DE ENSINO</a></td>
@@ -53,7 +53,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
     <tr>
         <td>04</td>
         <td>As tabelas e imagens possuem título, fonte e são chamadas dentro do texto?</td>
-        <td></td>
+        <td>Sim</td>
         <td>1.0</td>
         <td>André Barros</td>
         <td><a href="imagens/etapa3/Plano.png">PLANO DE ENSINO</a></td>
@@ -64,7 +64,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
     <tr>
         <td>05</td>
         <td>A definição do usuário nos Léxicos?</td>
-        <td></td>
+        <td>Sim</td>
         <td>1.0</td>
         <td>André Barros</td>
         <td><a href="imagens/etapa3/Ensino.png">PLANO DE ENSINO</a></td>
@@ -72,7 +72,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
     <tr>
         <td>06</td>
         <td>Os léxicos possuem ligações entre si (hiperlinks)?</td>
-        <td></td>
+        <td>Sim</td>
         <td>1.0</td>
         <td>André Barros</td>
         <td><a href="imagens/etapa3/Ensino.png">PLANO DE ENSINO</a></td>
@@ -83,7 +83,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
     <tr>
         <td>07</td>
         <td>O artefato segue o modelo FURPS+?</td>
-        <td></td>
+        <td>Sim</td>
         <td>1.0</td>
         <td>André Barros</td>
         <td><a href="imagens/etapa3/Ensino1.png">PLANO DE ENSINO</a></td>
@@ -91,7 +91,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
     <tr>
         <td>08</td>
         <td>O documento especifica o tempo de resposta, no Desempenho?</td>
-        <td></td>
+        <td>Sim</td>
         <td>1.0</td>
         <td>André Barros</td>
         <td><a href="imagens/etapa3/Ensino1.png">PLANO DE ENSINO</a></td>
@@ -102,7 +102,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
     <tr>
         <td>09</td>
         <td>O cenário possui ambiente e contexto condizente com o projeto?</td>
-        <td></td>
+        <td>Sim</td>
         <td>1.0</td>
         <td><a href="https://github.com/GenilsonJrs">Genilson Silva</a></td>
         <td><a href="imagens/etapa3/G1.png">BARBOSA, S. D. J. et al. Interação Humano-Computador</a></td>
@@ -110,7 +110,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
     <tr>
         <td>10</td>
         <td>Os atores do cenário representam personas do projeto?</td>
-        <td></td>
+        <td>Sim</td>
         <td>1.0</td>
         <td><a href="https://github.com/GenilsonJrs">Genilson Silva</a></td>
         <td><a href="imagens/etapa3/G2.png">BARBOSA, S. D. J. et al. Interação Humano-Computador</a></td>
@@ -118,7 +118,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
     <tr>
         <td>11</td>
         <td>Cada cenário identifica um ator principal?</td>
-        <td></td>
+        <td>Sim</td>
         <td>1.0</td>
         <td><a href="https://github.com/SamuelRicosta">Samuel Ribeiro</a></td>
         <td><a href="imagens/etapa3/S2.png">BARBOSA, S. D. J. et al. Interação Humano-Computador</a></td>
@@ -126,7 +126,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
     <tr>
         <td>12</td>
         <td>Os cenários descrevem claramente o objetivo da funcionalidade?</td>
-        <td></td>
+        <td>Sim</td>
         <td>1.0</td>
         <td><a href="https://github.com/dudupaz">Carlos Eduardo</a></td>
         <td><a href="imagens/etapa3/C1.png">BARBOSA, S. D. J. et al. Interação Humano-Computador</a></td>
@@ -134,7 +134,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
     <tr>
         <td>13</td>
         <td>Cada cenário possui um enredo, que inclui sequências de ações e eventos?</td>
-        <td></td>
+        <td>Sim</td>
         <td>1.0</td>
         <td><a href="https://github.com/alanagabriele">Alana Gabriele</a></td>
         <td><a href="imagens/etapa3/A1.png">BARBOSA, S. D. J. et al. Interação Humano-Computador</a></td>
