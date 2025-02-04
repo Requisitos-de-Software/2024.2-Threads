@@ -12,6 +12,8 @@ A verificação tem como propósito assegurar que todos os requisitos de avalia�
 
 As verificações foram realizadas seguindo uma lista de critérios de avaliação alinhados ao plano de ensino da disciplina. os membros do grupo elaboraram uma Lista de Verificação específica, utilizada para analisar os artefatos com base nos critérios definidos. Durante a verificação, foram registrados comentários e observações relevantes, assegurando a rastreabilidade das análises. Além disso, para garantir a imparcialidade, os artefatos foram avaliados por membros que não participaram diretamente de sua elaboração.
 
+## Verificação
+
 <h2>Lista de Verificação</h2>
 
 <div style="text-align: center;">
@@ -32,7 +34,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
         <td>Foram utilizados apenas requisitos não funcionais?</td>
         <td>Sim</td>
         <td>versão 1.4 - 17/12</td>
-        <td><span style="color: black;"></span><a href="./imagens/etapa4/1.png"> SERRANO, Milene; SERRANO,
+        <td><span style="color: black;"></span><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa4/1.png"> SERRANO, Milene; SERRANO,
 Maurício. Requisitos – aula 17:
 – NFR Framework. Brasília, UnB
 Gama, s.d 1, apresentação em
@@ -45,7 +47,7 @@ slides.</td>
 não-funcionais?</td>
         <td>Sim</td>
        <td>versão 1.4 - 17/12</td>
-        <td><span style="color: black;"></span><a href="./imagens/etapa4/2.png"> Reinaldo Antônio da. NFR4ES: Um Catálogo de
+        <td><span style="color: black;"></span><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa4/2.png"> Reinaldo Antônio da. NFR4ES: Um Catálogo de
 Requisitos Não-Funcionais para Sistemas Embarcados. Recife:
 Universidade Federal de Pernambuco, 2019, p. 30</td>
        <td><a href="https://github.com/GenilsonJrs">Genilson Silva</a></td>
@@ -56,7 +58,7 @@ Universidade Federal de Pernambuco, 2019, p. 30</td>
 documentadas?</td>
         <td>Não</td>
         <td>versão 1.4 - 17/12</td>
-        <td><span style="color: black;"></span><a href="./imagens/etapa4/3.png"> Reinaldo Antônio da. NFR4ES: Um Catálogo de
+        <td><span style="color: black;"></span><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa4/3.png"> Reinaldo Antônio da. NFR4ES: Um Catálogo de
 Requisitos Não-Funcionais para Sistemas Embarcados. Recife:
 Universidade Federal de Pernambuco, 2019, p. 30</td>
        <td><a href="https://github.com/GenilsonJrs">Genilson Silva</a></td>
@@ -67,7 +69,7 @@ Universidade Federal de Pernambuco, 2019, p. 30</td>
 decomposições do SIG?</td>
         <td>Sim</td>
         <td>versão 1.4 - 17/12</td>
-        <td><span style="color: black;"></span><a href="./imagens/etapa4/4.png"> SERRANO, Milene; SERRANO,
+        <td><span style="color: black;"></span><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa4/4.png"> SERRANO, Milene; SERRANO,
 Maurício. Requisitos – aula 17:
 – NFR Framework. Brasília, UnB
 Gama, s.d 1, apresentação em
@@ -80,7 +82,7 @@ slides.</td>
 propagados?</td>
         <td>Sim</td>
        <td>versão 1.4 - 17/12</td>
-        <td><span style="color: black;"></span><a href="./imagens/etapa4/5.png"> SERRANO, Milene; SERRANO,
+        <td><span style="color: black;"></span><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa4/5.png"> SERRANO, Milene; SERRANO,
 Maurício. Requisitos – aula 17:
 – NFR Framework. Brasília, UnB
 Gama, s.d 1, apresentação em
@@ -92,7 +94,7 @@ slides.</td>
         <td> A definição de softgoal está clara e os critérios de satisfação foram identificados?</td>
         <td>Sim</td>
        <td>versão 1.4 - 17/12</td>
-        <td><span style="color: black;"></span><a href="./imagens/etapa4/6.png"> SERRANO, Milene; SERRANO,
+        <td><span style="color: black;"></span><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa4/6.png"> SERRANO, Milene; SERRANO,
 Maurício. Requisitos – aula 17:
 – NFR Framework. Brasília, UnB
 Gama, s.d 1, apresentação em
@@ -104,7 +106,7 @@ slides.</td>
         <td> Os softgoals condizem com o contexto?</td>
         <td>Sim</td>
         <td>versão 1.4 - 17/12</td>
-        <td><span style="color: black;"></span><a href="./imagens/etapa4/17.png"> Plano de Ensino</td>
+        <td><span style="color: black;"></span><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa4/17.png"> Plano de Ensino</td>
        <td>André Barros</td>
   </tr>
     <tr>
@@ -117,7 +119,7 @@ as necessidades do produto
 como um todo?</td>
         <td>Sim</td>
         <td>versão 1.1 - 17/12</td>
-        <td><span style="color: black;"></span><a href="./imagens/etapa4/7.png"> SERRANO, Milene; SERRANO,
+        <td><span style="color: black;"></span><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa4/7.png"> SERRANO, Milene; SERRANO,
 Maurício. Requisitos – Aula 15</td>
         <td><a href="https://github.com/alanagabriele">Alana Gabriele</a></td>
    </tr>
@@ -128,7 +130,7 @@ funcionalidades desejadas
 para um produto?</td>
         <td>Sim</td>
         <td>versão 1.1 - 17/12</td>
-        <td><span style="color: black;"></span><a href="./imagens/etapa4/8.png"> SERRANO, Milene; SERRANO,
+        <td><span style="color: black;"></span><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa4/8.png"> SERRANO, Milene; SERRANO,
 Maurício. Requisitos – Aula 15</td>
        <td><a href="https://github.com/alanagabriele">Alana Gabriele</a>,
        <a href="https://github.com/GenilsonJrs">Genilson Silva</a></td>
@@ -138,7 +140,7 @@ Maurício. Requisitos – Aula 15</td>
         <td> O registro pendente de trabalhos permite adicionar itens a qualquer momento, com prioridades atualizadas pelo gerente de produto conforme as necessidades do cliente?</td>
         <td>Sim</td>
          <td>versão 1.1 - 17/12</td>
-        <td><span style="color: black;"></span><a href="./imagens/etapa4/12.png">  Engenharia de Software Uma Abordagem Pro</td>
+        <td><span style="color: black;"></span><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa4/12.png">  Engenharia de Software Uma Abordagem Pro</td>
       <td><a href="https://github.com/SamuelRicosta">Samuel Ribeiro</a></td>
   </tr>
     <tr>
@@ -148,7 +150,7 @@ Backlog foi definido pelo
 Product Owner?</td>
         <td>Sim</td>
         <td>versão 1.1 - 17/12</td>
-        <td><span style="color: black;"></span><a href="./imagens/etapa4/13.png"> SERRANO, Milene; SERRANO,
+        <td><span style="color: black;"></span><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa4/13.png"> SERRANO, Milene; SERRANO,
 Maurício. Requisitos -
 Aula 15. s.d. Slide 18.</td>
        <td><a href="https://github.com/dudupaz">Carlos Paz</a></td>
@@ -158,7 +160,7 @@ Aula 15. s.d. Slide 18.</td>
         <td>O backlog possui épicos e temas bem definidos e descritos?</td>
         <td>Sim</td>
         <td>versão 1.1 - 17/12</td>
-        <td><span style="color: black;"></span><a href="./imagens/etapa4/16.png"> Plano de Ensino</td>
+        <td><span style="color: black;"></span><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa4/16.png"> Plano de Ensino</td>
        <td>André Barros</td>
     </tr>
        <tr>
@@ -171,7 +173,7 @@ pequenas, detalhadas e
 específicas?</td>
         <td>Sim</td>
         <td>versão 1.6 - 17/12</td>
-        <td><span style="color: black;"></span><a href="./imagens/etapa4/9.png"> SERRANO, Milene; SERRANO,
+        <td><span style="color: black;"></span><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa4/9.png"> SERRANO, Milene; SERRANO,
 Maurício. Requisitos – aula 17:
 – NFR Framework. Brasília, UnB
 Gama, s.d 1, apresentação em
@@ -183,7 +185,7 @@ slides.</td>
         <td> As especificações dos itens estão baseadas em histórias de usuário?</td>
         <td>Sim</td>
          <td>versão 1.6 - 17/12</td>
-        <td><span style="color: black;"></span><a href="./imagens/etapa4/11.png">  SERRANO, M.; SERRANO, M. Engenharia de Requisitos –
+        <td><span style="color: black;"></span><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa4/11.png">  SERRANO, M.; SERRANO, M. Engenharia de Requisitos –
 Software Orientado ao Negócio. Rio de Janeiro: Elsevier, 2011, p. 11.</td>
       <td><a href="https://github.com/GenilsonJrs">Genilson Silva</a></td>
   </tr>
@@ -193,7 +195,7 @@ Software Orientado ao Negócio. Rio de Janeiro: Elsevier, 2011, p. 11.</td>
 realizar?</td>
         <td>Sim</td>
          <td>versão 1.6 - 17/12</td>
-        <td><span style="color: black;"></span><a href="./imagens/etapa4/10.png">  SERRANO, M.; SERRANO, M. Engenharia de Requisitos –
+        <td><span style="color: black;"></span><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa4/10.png">  SERRANO, M.; SERRANO, M. Engenharia de Requisitos –
 Software Orientado ao Negócio. Rio de Janeiro: Elsevier, 2011, p. 14.</td>
        <td><a href="https://github.com/SamuelRicosta">Samuel Ribeiro</a></td>
   </tr>
@@ -206,7 +208,7 @@ quero [função] para
 [objetivo]"?</td>
         <td>Sim</td>
          <td>versão 1.6 - 17/12</td>
-        <td><span style="color: black;"></span><a href="./imagens/etapa4/14.png">  SERRANO, Milene; SERRANO,
+        <td><span style="color: black;"></span><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa4/14.png">  SERRANO, Milene; SERRANO,
 Maurício. Requisitos -
 Aula 15. s.d. Slide 12.</td>
           <td><a href="https://github.com/dudupaz">Carlos Paz</a></td>
@@ -216,7 +218,7 @@ Aula 15. s.d. Slide 12.</td>
         <td> A história possui critérios de aceitação?</td>
         <td>Sim</td>
          <td>versão 1.6 - 17/12</td>
-        <td><span style="color: black;"></span><a href="./imagens/etapa4/15.png">  Plano de Ensino</td>
+        <td><span style="color: black;"></span><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa4/15.png">  Plano de Ensino</td>
           <td>André Barros</td>
   </tr>
 
