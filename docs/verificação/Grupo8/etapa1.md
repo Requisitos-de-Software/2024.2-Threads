@@ -105,7 +105,7 @@ As verificações seguiram uma lista de critérios de avaliação, desenvolvida 
         <td>Identificação das operações e quem as executa?</td>
         <td>Sim</td>
         <td>versão 1.1 - 03/02/25</td>
-        <td><a href="imagens/imgTabela/02.jpg">Software Development Project, Introducing Rich Pictures - p. 4</a></td>
+        <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/imgTabela/02.jpg">Software Development Project, Introducing Rich Pictures - p. 4</a></td>
         <td><a href="https://github.com/SamuelRicosta">Samuel Ribeiro</a></td>
     </tr>
     <tr>
@@ -113,7 +113,7 @@ As verificações seguiram uma lista de critérios de avaliação, desenvolvida 
         <td>Clareza e legibilidade do rich picture?</td>
         <td>Sim</td>
         <td>versão 1.1 - 03/02/25</td>
-        <td><a href="imagens/imgTabela/08.jpg">Software Development Project, Introducing Rich Pictures - p. 3</a></td>
+        <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/imgTabela/08.jpg">Software Development Project, Introducing Rich Pictures - p. 3</a></td>
         <td><a href="https://github.com/dudupaz">Carlos Paz</a></td>
     </tr>
     <tr>
@@ -121,7 +121,7 @@ As verificações seguiram uma lista de critérios de avaliação, desenvolvida 
         <td>Definição do limite do sistema?</td>
         <td>Sim</td>
         <td>versão 1.1 - 03/02/25</td>
-        <td><a href="imagens/imgTabela/05.jpg">Software Development Project, Introducing Rich Pictures - p. 4</a></td>
+        <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/imgTabela/05.jpg">Software Development Project, Introducing Rich Pictures - p. 4</a></td>
         <td><a href="https://github.com/alanagabriele">Alana Gabriele</a></td>
     </tr>
     <tr>
@@ -129,7 +129,7 @@ As verificações seguiram uma lista de critérios de avaliação, desenvolvida 
         <td>Representação dos fluxos de dados e sua direção?</td>
         <td>Sim</td>
         <td>versão 1.1 - 03/02/25</td>
-        <td><a href="imagens/imgTabela/04.jpg">Software Development Project, Introducing Rich Pictures - p. 3</a></td>
+        <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/imgTabela/04.jpg">Software Development Project, Introducing Rich Pictures - p. 3</a></td>
         <td><a href="https://github.com/GenilsonJrs">Genilson Silva</a></td>
     </tr>
 </table>
