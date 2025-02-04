@@ -14,8 +14,6 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 
 ## Verificações
 
-#<h2>Lista de Verificação Consolidada</h2>
-
 <table border="1">
     <tr>
         <th>ID</th>

@@ -8,13 +8,11 @@ A verificação tem como propósito garantir que todos os requisitos de avaliaç
 
 ## Metodologia
 
-As verificações seguiram uma lista de critérios de avaliação, desenvolvida conforme o plano de ensino da disciplina. Esta lista facilitou a criação de uma Lista de Verificação por cada membro do grupo para confirmar o atendimento de cada critério, permitindo ainda o registro de observações adicionais e comentários relevantes. Abaixo está presente as Listas de Verificações nas Tabelas de 1 a 8.
+As verificações seguiram uma lista de critérios de avaliação, desenvolvida conforme o plano de ensino da disciplina. Esta lista facilitou a criação de uma Lista de Verificação por cada membro do grupo para confirmar o atendimento de cada critério, permitindo ainda o registro de observações adicionais e comentários relevantes. Abaixo está presente a Lista de Verificação na Tabela de 1.
 
 ## Verificação
 
 # Tabela 1: Lista de Verificação
-
-<h2>Lista de Verificação Consolidada</h2>
 
 <table border="1">
     <tr>
