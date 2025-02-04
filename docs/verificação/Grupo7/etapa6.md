@@ -55,7 +55,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
         <td colspan="6" style="text-align: center; font-weight: bold;"> Backward-From</td>
     </tr>
     <tr>
-        <td>1</td>
+        <td>3</td>
         <td>O sistema possui elos registrados entre requisitos, fontes e componentes?</td>
         <td></td>
         <td>versão 1.0 - 19/01/25</td>
@@ -64,7 +64,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
         <td><a href="https://github.com/samuelricosta">Samuel Ribeiro</a></td>
     </tr>
     <tr>
-        <td>2</td>
+        <td>4</td>
         <td>Os artefatos de rastreabilidade estão sendo utilizados para identificar componentes e erros no sistema?</td>
         <td></td>
         <td>versão 1.0 - 19/01/25</td>
@@ -76,7 +76,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
         <td colspan="6" style="text-align: center; font-weight: bold;"> Forward-From</td>
     </tr>
     <tr>
-        <td>1</td>
+        <td>5</td>
         <td>Os requisitos estão conectados aos artefatos relevantes, como casos de uso, cenários de teste e código fonte?</td>
         <td></td>
         <td>versão 1.0 - 19/01/25</td>
@@ -85,7 +85,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
         <td><a href="https://github.com/alanagabriele">Alana Gabriele</a></td>
     </tr>
     <tr>
-        <td>2</td>
+        <td>6</td>
         <td>As decisões de projeto e suas justificativas estão documentadas?</td>
         <td></td>
         <td>versão 1.0 - 19/01/25</td>
@@ -97,7 +97,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
         <td colspan="6" style="text-align: center; font-weight: bold;"> Matriz de Rastreabilidade</td>
     </tr>
     <tr>
-        <td>1</td>
+        <td>7</td>
         <td>O projeto utiliza uma matriz de rastreabilidade para mapear os requisitos a outros elementos?</td>
         <td></td>
         <td>versão 1.0 - 19/01/25</td>
@@ -106,7 +106,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
         <td><a href="https://github.com/dudupaz">Carlos Paz</a></td>
     </tr>
     <tr>
-        <td>2</td>
+        <td>8</td>
         <td>A matriz de rastreabilidade garante que todos os elementos do sistema estejam associados a requisitos específicos?</td>
         <td></td>
         <td>versão 1.0 - 19/01/25</td>

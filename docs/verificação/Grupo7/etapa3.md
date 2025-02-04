@@ -100,7 +100,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
         <td colspan="6" style="text-align: center; font-weight: bold;">Modelo FURPS+</td>
     </tr>
     <tr>
-        <td>08</td>
+        <td>07</td>
         <td>O artefato segue o modelo FURPS+?</td>
         <td></td>
         <td>1.0</td>
@@ -108,7 +108,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
         <td><a href="imagens/etapa3/Ensino1.png">PLANO DE ENSINO</a></td>
     </tr>
     <tr>
-        <td>09</td>
+        <td>08</td>
         <td>O documento especifica o tempo de resposta, no Desempenho?</td>
         <td></td>
         <td>1.0</td>
@@ -119,7 +119,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
         <td colspan="6" style="text-align: center; font-weight: bold;">Cenários</td>
     </tr>
     <tr>
-        <td>12</td>
+        <td>09</td>
         <td>O cenário possui ambiente e contexto condizente com o projeto?</td>
         <td></td>
         <td>1.0</td>
@@ -127,7 +127,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
         <td><a href="imagens/etapa3/G1.png">BARBOSA, S. D. J. et al. Interação Humano-Computador</a></td>
     </tr>
     <tr>
-        <td>13</td>
+        <td>10</td>
         <td>Os atores do cenário representam personas do projeto?</td>
         <td></td>
         <td>1.0</td>
@@ -135,7 +135,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
         <td><a href="imagens/etapa3/G2.png">BARBOSA, S. D. J. et al. Interação Humano-Computador</a></td>
     </tr>
     <tr>
-        <td>14</td>
+        <td>11</td>
         <td>Cada cenário identifica um ator principal?</td>
         <td></td>
         <td>1.0</td>
@@ -143,7 +143,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
         <td><a href="imagens/etapa3/S2.png">BARBOSA, S. D. J. et al. Interação Humano-Computador</a></td>
     </tr>
     <tr>
-        <td>16</td>
+        <td>12</td>
         <td>Os cenários descrevem claramente o objetivo da funcionalidade?</td>
         <td></td>
         <td>1.0</td>
@@ -151,7 +151,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
         <td><a href="imagens/etapa3/C1.png">BARBOSA, S. D. J. et al. Interação Humano-Computador</a></td>
     </tr>
     <tr>
-        <td>18</td>
+        <td>13</td>
         <td>Cada cenário possui um enredo, que inclui sequências de ações e eventos?</td>
         <td></td>
         <td>1.0</td>
@@ -178,12 +178,12 @@ As verificações indicam que os artefatos estão alinhados aos critérios estab
 
 ## Histórico de Versões
 
-| **Versão** | **Data**   | **Descrição**                              | **Autor(es)**                                                                                                                                                                                          | **Revisor(es)**                                    |
-| ---------- | ---------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------- |
-| 1.0        | 08/12/2024 | Criação do documento                       | [Carlos Eduardo](https://github.com/dudupaz)                                                                                                                                                           | [Genilson Silva](https://github.com/GenilsonJrs)   |
-| 1.1        | 08/12/2024 | Verifificação do léxicos                   | [Samuel Ribeiro](https://github.com/SamuelRicosta)                                                                                                                                                     | [Genilson Silva](https://github.com/GenilsonJrs)   |
-| 1.2        | 08/12/2024 | Verifificação de especificação suplementar | [Genilson Silva](https://github.com/GenilsonJrs)                                                                                                                                                       | [Alana Gabriele](https://github.com/alanagabriele) |
-| 1.3        | 08/12/2024 | Verificação de cenários                    | [Carlos Eduardo](https://github.com/dudupaz)                                                                                                                                                           | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
-| 1.4        | 08/12/2024 | Verificação do caso de uso                 | [Alana Gabriele](https://github.com/alanagabriele)                                                                                                                                                     | [Genilson Silva](https://github.com/GenilsonJrs)   |
-| 1.5        | 13/12/2024 | Ajustes no documento                       | [Genilson Silva](https://github.com/GenilsonJrs)                                                                                                                                                       | [Alana Gabriele](https://github.com/alanagabriele) |
-| 1.6        | 02/02/2025 | Correções no documento                     | [Genilson Silva](https://github.com/GenilsonJrs), [Samuel Ribeiro](https://github.com/SamuelRicosta), [Carlos Eduardo](https://github.com/dudupaz), [Alana Gabriele](https://github.com/alanagabriele) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+| **Versão** | **Data**   | **Descrição**                              | **Autor(es)**                                      | **Revisor(es)**                                    |
+| ---------- | ---------- | ------------------------------------------ | -------------------------------------------------- | -------------------------------------------------- |
+| 1.0        | 08/12/2024 | Criação do documento                       | [Carlos Eduardo](https://github.com/dudupaz)       | [Genilson Silva](https://github.com/GenilsonJrs)   |
+| 1.1        | 08/12/2024 | Verifificação do léxicos                   | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs)   |
+| 1.2        | 08/12/2024 | Verifificação de especificação suplementar | [Genilson Silva](https://github.com/GenilsonJrs)   | [Alana Gabriele](https://github.com/alanagabriele) |
+| 1.3        | 08/12/2024 | Verificação de cenários                    | [Carlos Eduardo](https://github.com/dudupaz)       | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+| 1.4        | 08/12/2024 | Verificação do caso de uso                 | [Alana Gabriele](https://github.com/alanagabriele) | [Genilson Silva](https://github.com/GenilsonJrs)   |
+| 1.5        | 13/12/2024 | Ajustes no documento                       | [Genilson Silva](https://github.com/GenilsonJrs)   | [Alana Gabriele](https://github.com/alanagabriele) |
+| 1.6        | 02/02/2025 | Correções no documento                     | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |

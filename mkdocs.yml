@@ -53,6 +53,9 @@ nav:
       - Backward-From: Rastreabilidade/backwardFrom.md
       - Forward From: Rastreabilidade/forwardFrom.md
       - Matriz de Rastreabilidade: Rastreabilidade/matrizdeRastreabilidade.md
+  - Validação:
+    - Comprovação: Validação/comprovacao.md
+    - Prototipação: Validação/prototipacao.md
   - Verificação:
     - Nosso Grupo (Grupo 7):
       - Etapa 1: verificação/Grupo7/etapa1.md
