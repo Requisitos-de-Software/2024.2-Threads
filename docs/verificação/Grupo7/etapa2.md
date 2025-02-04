@@ -51,7 +51,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 <p>O vídeo pode ser visto direto no <a href="https://www.youtube.com/watch?v=lN-ZUw9eAy8">YouTube</a>.</p>
 
 <div style="text-align: center;">
-  <p>Vídeo 1 - Verificação da Etapa 6</p>
+  <p>Vídeo 1 - Verificação da Etapa 2</p>
 </div>
 
 <center>

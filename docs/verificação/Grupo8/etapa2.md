@@ -36,6 +36,23 @@ As verificações foram realizadas com base em uma lista de critérios de avalia
 
 ---
 
+<h2>Sugestões</h2>
+<p>Nenhuma sugestão a ser apontada.</p>
+
+<h2>Gravação</h2>
+<p>O vídeo pode ser visto direto no <a href="https://youtu.be/KsHO-IyjIoE">YouTube</a>.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 1 - Verificação da Etapa 2</p>
+</div>
+
+<center>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/KsHO-IyjIoE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+
+---
+
 ## Análise dos Resultados
 
 As verificações indicam que os artefatos estão alinhados aos critérios estabelecidos, refletindo um trabalho consistente e organizado. Algumas sugestões foram realizadas, como a inclusão de descrições mais detalhadas em determinados documentos, visando maior clareza para os usuários finais. O projeto demonstra evolução e um bom nível de qualidade, com oportunidades pontuais de refinamento.
