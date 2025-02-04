@@ -36,6 +36,29 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 
 ---
 
+<p style="text-align: center; font-size: 14px;">
+    Autores: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva,</a> <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele,</a> <a href="https://github.com/dudupaz" target="_blank">Carlos Paz,</a> <a href="https://github.com/SamuelRicosta" target="_blank"> Samuel Ribeiro. </a>
+</p>
+
+<h2>Verificação</h2>
+<p>Nenhum problema foi encontrado de acordo com a lista de verificação aplicada.
+
+</p>
+<h2>Sugestões</h2>
+<p>Nenhuma sugestão a ser apontada.</p>
+
+<h2>Gravação</h2>
+<p>O vídeo pode ser visto direto no <a href="https://www.youtube.com/watch?v=lN-ZUw9eAy8">YouTube</a>.</p>
+
+<div style="text-align: center;">
+  <p>Vídeo 1 - Verificação da Etapa 6</p>
+</div>
+
+<center>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/lN-ZUw9eAy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+
 ## Análise dos Resultados
 
 As verificações indicam que os artefatos estão alinhados aos critérios estabelecidos, refletindo um trabalho consistente e organizado. Algumas sugestões foram realizadas, como a inclusão de descrições mais detalhadas em determinados documentos, visando maior clareza para os usuários finais. O projeto demonstra evolução e um bom nível de qualidade, com oportunidades pontuais de refinamento.
