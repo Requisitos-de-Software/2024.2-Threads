@@ -8,13 +8,11 @@ A verificação tem como propósito garantir que todos os requisitos de avaliaç
 
 ## Metodologia
 
-As verificações seguiram uma lista de critérios de avaliação, desenvolvida conforme o plano de ensino da disciplina. Esta lista facilitou a criação de uma Lista de Verificação por cada membro do grupo para confirmar o atendimento de cada critério, permitindo ainda o registro de observações adicionais e comentários relevantes. Abaixo está presente as Listas de Verificações nas Tabelas de 1 a 8.
+As verificações seguiram uma lista de critérios de avaliação, desenvolvida conforme o plano de ensino da disciplina. Esta lista facilitou a criação de uma Lista de Verificação por cada membro do grupo para confirmar o atendimento de cada critério, permitindo ainda o registro de observações adicionais e comentários relevantes. Abaixo está presente a Lista de Verificação na Tabela de 1.
 
 ## Verificação
 
 # Tabela 1: Lista de Verificação
-
-<h2>Lista de Verificação Consolidada</h2>
 
 <table border="1">
     <tr>
@@ -134,6 +132,24 @@ As verificações seguiram uma lista de critérios de avaliação, desenvolvida 
 <p style="text-align: center; font-size: 14px;">
     Autores: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva,</a> <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele,</a> <a href="https://github.com/dudupaz" target="_blank">Carlos Paz,</a> <a href="https://github.com/SamuelRicosta" target="_blank"> Samuel Ribeiro. </a>
 </p>
+
+
+## video de verificação
+
+<p>O vídeo pode ser visto direto no <a href="http://youtube.com/watch?v=HGHHBQfoKA8">YouTube.</a></p>
+
+<div style="text-align: center;">
+  <p>Vídeo 1 - Verificação da Etapa 1</p>
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HGHHBQfoKA8?si=TPgPE3lMUHENiB44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<p style="text-align: center; font-size: 14px;">
+    Autor: <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro, </a>
+    </p>
+
+
 
 ## Análise dos resultados
 

@@ -12,27 +12,22 @@ A verificação tem como propósito assegurar que todos os requisitos de avalia�
 
 As verificações foram realizadas seguindo uma lista de critérios de avaliação alinhados ao plano de ensino da disciplina. os membros do grupo elaboraram uma Lista de Verificação específica, utilizada para analisar os artefatos com base nos critérios definidos. Durante a verificação, foram registrados comentários e observações relevantes, assegurando a rastreabilidade das análises. Além disso, para garantir a imparcialidade, os artefatos foram avaliados por membros que não participaram diretamente de sua elaboração.
 
-## Verificação
-
 <h2>Lista de Verificação</h2>
 
 <div style="text-align: center;">
-    <p>Tabela 1 - Lista </p>
+    <p><strong>Tabela 1 -  verificação </strong></p>
   </div>
 
 <table border="1">
-    <tr>
-        <th>ID</th>
+
+   <tr>
+        <th>Id</th>
         <th>Descrição</th>
         <th>Resposta</th>
-        <th>Versão e Data</th>
-        <th>Referência</th>
-        <th>Autor</th>
-    </tr>
-     <tr>
-        <td colspan="6" style="text-align: center; font-weight: bold;">NFR Framework</td>
-    </tr>
-    <tr>
+        <th>Versão, Data e Hora da Avaliação</th>
+        <th>Fonte/Autor</th>
+   </tr>
+   <tr>
         <td>1</td>
         <td>Foram utilizados apenas requisitos não funcionais?</td>
         <td>Sim</td>
@@ -104,7 +99,7 @@ Gama, s.d 1, apresentação em
 slides.</td>
        <td><a href="https://github.com/SamuelRicosta">Samuel Ribeiro</a></td>
   </tr>
-   <tr>
+    <tr>
         <td>7</td>
         <td> Os softgoals condizem com o contexto?</td>
         <td>Sim</td>
@@ -224,29 +219,31 @@ Aula 15. s.d. Slide 12.</td>
         <td><span style="color: black;"></span><a href="./imagens/etapa4/15.png">  Plano de Ensino</td>
           <td>André Barros</td>
   </tr>
+
 </table>
 
 <p style="text-align: center; font-size: 14px;">
     Autores: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva,</a> <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele,</a> <a href="https://github.com/dudupaz" target="_blank">Carlos Paz,</a> <a href="https://github.com/SamuelRicosta" target="_blank"> Samuel Ribeiro. </a>
 </p>
 
-<h2>Problemas</h2>
-<!-- Nenhum problema foi encontrado de acordo com a lista de verificação aplicada. -->
+<h2>Verificação</h2>
+<p>Nenhum problema foi encontrado de acordo com a lista de verificação aplicada.
+
+</p>
 
 <h2>Sugestões</h2>
-
-<!-- Nenhuma sugestão a ser apontada. -->
+<p>Nenhuma sugestão a ser apontada.
+</p>
 
 <h2>Gravação</h2>
+<p>O vídeo pode ser visto direto no <a href="https://youtu.be/i3LdYoHxc6k?si=qmwhA4c2VLbdBUyz">YouTube.</a></p>
 
-<p >O vídeo pode ser visto direto no <a href="https://youtu.be/i3LdYoHxc6k?si=R_V5YR1XfA0vfNRL">YouTube.</a></p>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i3LdYoHxc6k?si=iHKXR8idWV2E0MYK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<div style="text-align: center">
-<p>Vídeo 1 - Verificação </p>
+<div style="text-align: center;">
+  <p>Vídeo 1 - Verificação </p>
 </div>
-
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i3LdYoHxc6k?si=qmwhA4c2VLbdBUyz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
 <p style="text-align: center; font-size: 14px;">
     Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele</a>
   </p>
