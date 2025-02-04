@@ -1,18 +1,20 @@
+# Verificação dos Artefatos do Projeto Threads
+
 ## Introdução
 
 Esta página apresenta os resultados da avaliação do artefato desenvolvido pelo grupo 07, focado no projeto do aplicativo Bluesky. O documento inclui as Listas de Verificações aplicadas nas inspeções dos artefatos da equipe e, ao final, detalha os resultados obtidos durante essas verificações.
 
 ## Objetivo
 
-A verificação tem como propósito garantir que todos os requisitos de avaliação sejam atendidos de forma completa. Para isso, é realizada uma análise minuciosa do conteúdo e da estrutura dos artefatos, com o objetivo de elevar sua qualidade.
+A verificação tem como propósito garantir que todos os requisitos de avaliação sejam atendidos de forma completa. Para isso, é realizada uma análise minuciosa do conteúdo e da estrutura do artefato, com o objetivo de elevar sua qualidade.
 
 ## Metodologia
 
-As verificações seguiram uma lista de critérios de avaliação, desenvolvida conforme o plano de ensino da disciplina. Esta lista facilitou a criação de uma Lista de Verificação por cada membro do grupo para confirmar o atendimento de cada critério, permitindo ainda o registro de observações adicionais e comentários relevantes. Abaixo está presente a Lista de Verificação na Tabela de 1.
+As verificações seguiram uma lista de critérios de avaliação, desenvolvida conforme o plano de ensino da disciplina. Esta lista facilitou a criação de uma Lista de Verificação pelos membros do grupo, permitindo ainda o registro de observações adicionais e comentários relevantes. Abaixo está presente a lista de verificação na tabela 1.
 
 ## Verificação
 
-# Tabela 1: Lista de Verificação
+### Tabela 1: Lista de Verificação
 
 <table border="1">
     <tr>
