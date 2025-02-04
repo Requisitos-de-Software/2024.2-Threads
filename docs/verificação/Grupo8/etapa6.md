@@ -67,16 +67,16 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 </p>
 
 <h2>Gravação</h2>
-<p>O vídeo pode ser visto direto no <a href="">YouTube.</a></p>
+<p>O vídeo pode ser visto direto no <a href="https://www.youtube.com/watch?v=5Vk1G8ZaD_8">YouTube.</a></p>
 
 <div style="text-align: center;">
   <p>Vídeo 1 - Verificação da Etapa 6</p>
 </div>
 <center>
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5Vk1G8ZaD_8?si=7HmJiLKJFmPwkpRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 <p style="text-align: center; font-size: 14px;">
-    Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva, </a><a href="https://github.com/dudupaz" target="_blank">Carlos Eduardo, </a><a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro, </a><a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele.</a>
+    Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>
   </p>
 
 
@@ -96,3 +96,4 @@ As verificações indicam que os artefatos estão alinhados aos critérios estab
 | 1.1        | 20/01/2024     | Inserção de Backward-From           | [Samuel Ribeiro](https://github.com/SamuelRicosta)                                                          | [Genilson Silva](https://github.com/GenilsonJrs) |
 | 1.2        | 20/01/2024     | Inserção de Forward-From           | [Carlos Eduardo](https://github.com/dudupaz)                                                          | [Genilson Silva](https://github.com/GenilsonJrs) |
 | 1.3        | 02/02/2025 | Ajustes na verificação dos itens            | [Genilson Silva](https://github.com/GenilsonJrs)| [Samuel Ribeiro](https://github.com/SamuelRicosta)   |
+| 1.4        | 03/02/2025 | Vídeo de verificação            | [Genilson Silva](https://github.com/GenilsonJrs)| [Samuel Ribeiro](https://github.com/SamuelRicosta)   |
