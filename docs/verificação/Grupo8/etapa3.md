@@ -32,7 +32,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
         <td></td>
         <td>1.0</td>
         <td>André Barros</td>
-        <td><a href="imagens/etapa3/Plano.png">PLANO DE ENSINO</a></td>
+        <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa3/Plano.png">PLANO DE ENSINO</a></td>
     </tr>
     <tr>
         <td>02</td>
@@ -40,7 +40,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
         <td></td>
         <td>1.0</td>
         <td>André Barros</td>
-        <td><a href="imagens/etapa3/Plano.png">PLANO DE ENSINO</a></td>
+        <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa3/Plano.png">PLANO DE ENSINO</a></td>
     </tr>
     <tr>
         <td>03</td>
@@ -48,7 +48,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
         <td></td>
         <td>1.0</td>
         <td>André Barros</td>
-        <td><a href="imagens/etapa3/Plano.png">PLANO DE ENSINO</a></td>
+        <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa3/Plano.png">PLANO DE ENSINO</a></td>
     </tr>
     <tr>
         <td>04</td>
@@ -56,7 +56,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
         <td></td>
         <td>1.0</td>
         <td>André Barros</td>
-        <td><a href="imagens/etapa3/Plano.png">PLANO DE ENSINO</a></td>
+        <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa3/Plano.png">PLANO DE ENSINO</a></td>
     </tr>
     <tr>
         <td colspan="6" style="text-align: center; font-weight: bold;">Léxicos</td>
@@ -67,7 +67,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
         <td></td>
         <td>1.0</td>
         <td>André Barros</td>
-        <td><a href="imagens/etapa3/Ensino.png">PLANO DE ENSINO</a></td>
+        <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa3/Ensino.png">PLANO DE ENSINO</a></td>
     </tr>
     <tr>
         <td>06</td>
@@ -75,7 +75,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
         <td></td>
         <td>1.0</td>
         <td>André Barros</td>
-        <td><a href="imagens/etapa3/Ensino.png">PLANO DE ENSINO</a></td>
+        <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa3/Ensino.png">PLANO DE ENSINO</a></td>
     </tr>
     <tr>
         <td colspan="6" style="text-align: center; font-weight: bold;">Modelo FURPS+</td>
@@ -86,7 +86,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
         <td></td>
         <td>1.0</td>
         <td>André Barros</td>
-        <td><a href="imagens/etapa3/Ensino1.png">PLANO DE ENSINO</a></td>
+        <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa3/Ensino1.png">PLANO DE ENSINO</a></td>
     </tr>
     <tr>
         <td>08</td>
@@ -94,7 +94,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
         <td></td>
         <td>1.0</td>
         <td>André Barros</td>
-        <td><a href="imagens/etapa3/Ensino1.png">PLANO DE ENSINO</a></td>
+        <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa3/Ensino1.png">PLANO DE ENSINO</a></td>
     </tr>
     <tr>
         <td colspan="6" style="text-align: center; font-weight: bold;">Cenários</td>
@@ -105,7 +105,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
         <td></td>
         <td>1.0</td>
         <td><a href="https://github.com/GenilsonJrs">Genilson Silva</a></td>
-        <td><a href="imagens/etapa3/G1.png">BARBOSA, S. D. J. et al. Interação Humano-Computador</a></td>
+        <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa3/G1.png">BARBOSA, S. D. J. et al. Interação Humano-Computador</a></td>
     </tr>
     <tr>
         <td>10</td>
@@ -113,7 +113,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
         <td></td>
         <td>1.0</td>
         <td><a href="https://github.com/GenilsonJrs">Genilson Silva</a></td>
-        <td><a href="imagens/etapa3/G2.png">BARBOSA, S. D. J. et al. Interação Humano-Computador</a></td>
+        <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa3/G2.png">BARBOSA, S. D. J. et al. Interação Humano-Computador</a></td>
     </tr>
     <tr>
         <td>11</td>
@@ -121,7 +121,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
         <td></td>
         <td>1.0</td>
         <td><a href="https://github.com/SamuelRicosta">Samuel Ribeiro</a></td>
-        <td><a href="imagens/etapa3/S2.png">BARBOSA, S. D. J. et al. Interação Humano-Computador</a></td>
+        <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa3/S2.png">BARBOSA, S. D. J. et al. Interação Humano-Computador</a></td>
     </tr>
     <tr>
         <td>12</td>
@@ -129,7 +129,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
         <td></td>
         <td>1.0</td>
         <td><a href="https://github.com/dudupaz">Carlos Eduardo</a></td>
-        <td><a href="imagens/etapa3/C1.png">BARBOSA, S. D. J. et al. Interação Humano-Computador</a></td>
+        <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa3/C1.png">BARBOSA, S. D. J. et al. Interação Humano-Computador</a></td>
     </tr>
     <tr>
         <td>13</td>
@@ -137,7 +137,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
         <td></td>
         <td>1.0</td>
         <td><a href="https://github.com/alanagabriele">Alana Gabriele</a></td>
-        <td><a href="imagens/etapa3/A1.png">BARBOSA, S. D. J. et al. Interação Humano-Computador</a></td>
+        <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa3/A1.png">BARBOSA, S. D. J. et al. Interação Humano-Computador</a></td>
     </tr>
 </table>
 
@@ -146,6 +146,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 </p>
 
 ## video de verificação
+
 <p>O vídeo pode ser visto direto no <a href="https://youtu.be/kMCiZxfEGVM">YouTube.</a></p>
 
 <div style="text-align: center;">
@@ -168,11 +169,11 @@ As verificações indicam que os artefatos estão alinhados aos critérios estab
 
 ## Histórico de Versões
 
-| **Versão** | **Data**   | **Descrição**                          | **Autor(es)**                                      | **Revisor(es)**                                    |
-| ---------- | ---------- | -------------------------------------- | -------------------------------------------------- | -------------------------------------------------- |
-| 1.0        | 08/12/2024 | Criação do documento                   | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs)   |
-| 1.1        | 09/12/2024 | Arrumando texto                        | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs)   |
-| 1.2        | 09/12/2024 | Inserção da verificação de especificação suplementar   | [Genilson Silva](https://github.com/GenilsonJrs)       | [Carlos Eduardo](https://github.com/dudupaz) |
-| 1.3        | 09/12/2024 | Inserção da verificação de cenários    | [Carlos Eduardo](https://github.com/dudupaz)       | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
-| 1.4        | 09/12/2024 | Inserção da verificação do caso de uso | [Alana Gabriele](https://github.com/alanagabriele) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
-| 1.5        | 13/12/2024 | Ajustes no documento | [Genilson Silva](https://github.com/GenilsonJrs) | [Alana Gabriele](https://github.com/alanagabriele) |
+| **Versão** | **Data**   | **Descrição**                                        | **Autor(es)**                                      | **Revisor(es)**                                    |
+| ---------- | ---------- | ---------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- |
+| 1.0        | 08/12/2024 | Criação do documento                                 | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs)   |
+| 1.1        | 09/12/2024 | Arrumando texto                                      | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs)   |
+| 1.2        | 09/12/2024 | Inserção da verificação de especificação suplementar | [Genilson Silva](https://github.com/GenilsonJrs)   | [Carlos Eduardo](https://github.com/dudupaz)       |
+| 1.3        | 09/12/2024 | Inserção da verificação de cenários                  | [Carlos Eduardo](https://github.com/dudupaz)       | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+| 1.4        | 09/12/2024 | Inserção da verificação do caso de uso               | [Alana Gabriele](https://github.com/alanagabriele) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+| 1.5        | 13/12/2024 | Ajustes no documento                                 | [Genilson Silva](https://github.com/GenilsonJrs)   | [Alana Gabriele](https://github.com/alanagabriele) |
