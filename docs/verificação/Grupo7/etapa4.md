@@ -14,11 +14,12 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 
 ## Verificação
 
-<h2>Lista de Verificação Consolidada</h2>
+<h2>Lista de Verificação</h2>
 
 <div style="text-align: center;">
     <p>Tabela 1 - Lista </p>
   </div>
+
 <table border="1">
     <tr>
         <th>ID</th>
@@ -34,8 +35,8 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
     <tr>
         <td>1</td>
         <td>Foram utilizados apenas requisitos não funcionais?</td>
-        <td></td>
-        <td>versão 1.0 - 17/12</td>
+        <td>Sim</td>
+        <td>versão 1.4 - 17/12</td>
         <td><span style="color: black;"></span><a href="./imagens/etapa4/1.png"> SERRANO, Milene; SERRANO,
 Maurício. Requisitos – aula 17:
 – NFR Framework. Brasília, UnB
@@ -47,8 +48,8 @@ slides.</td>
         <td>2</td>
         <td>Há documentação clara sobre as heurísticas usadas para refinar requisitos
 não-funcionais?</td>
-        <td></td>
-        <td>versão 1.0 - 17/12</td>
+        <td>Sim</td>
+       <td>versão 1.4 - 17/12</td>
         <td><span style="color: black;"></span><a href="./imagens/etapa4/2.png"> Reinaldo Antônio da. NFR4ES: Um Catálogo de
 Requisitos Não-Funcionais para Sistemas Embarcados. Recife:
 Universidade Federal de Pernambuco, 2019, p. 30</td>
@@ -58,8 +59,8 @@ Universidade Federal de Pernambuco, 2019, p. 30</td>
         <td>3</td>
         <td>As dependências entre os requisitos não-funcionais foram analisadas e
 documentadas?</td>
-        <td></td>
-        <td>versão 1.0 - 17/12</td>
+        <td>Não</td>
+        <td>versão 1.4 - 17/12</td>
         <td><span style="color: black;"></span><a href="./imagens/etapa4/3.png"> Reinaldo Antônio da. NFR4ES: Um Catálogo de
 Requisitos Não-Funcionais para Sistemas Embarcados. Recife:
 Universidade Federal de Pernambuco, 2019, p. 30</td>
@@ -69,8 +70,8 @@ Universidade Federal de Pernambuco, 2019, p. 30</td>
        <td>4</td>
         <td>O NFR Framework contém as
 decomposições do SIG?</td>
-        <td></td>
-        <td>versão 1.0 - 17/12</td>
+        <td>Sim</td>
+        <td>versão 1.4 - 17/12</td>
         <td><span style="color: black;"></span><a href="./imagens/etapa4/4.png"> SERRANO, Milene; SERRANO,
 Maurício. Requisitos – aula 17:
 – NFR Framework. Brasília, UnB
@@ -82,8 +83,8 @@ slides.</td>
        <td>5</td>
         <td>Os impactos foram corretamente
 propagados?</td>
-        <td></td>
-        <td>versão 1.0 - 17/12</td>
+        <td>Sim</td>
+       <td>versão 1.4 - 17/12</td>
         <td><span style="color: black;"></span><a href="./imagens/etapa4/5.png"> SERRANO, Milene; SERRANO,
 Maurício. Requisitos – aula 17:
 – NFR Framework. Brasília, UnB
@@ -93,9 +94,9 @@ slides.</td>
     </tr>
     <tr>
         <td>6</td>
-        <td> A definição de softgoal está clara e os critérios de  satisfação foram identificados?</td>
-        <td></td>
-        <td>versão 1.0 - 17/12</td>
+        <td> A definição de softgoal está clara e os critérios de satisfação foram identificados?</td>
+        <td>Sim</td>
+       <td>versão 1.4 - 17/12</td>
         <td><span style="color: black;"></span><a href="./imagens/etapa4/6.png"> SERRANO, Milene; SERRANO,
 Maurício. Requisitos – aula 17:
 – NFR Framework. Brasília, UnB
@@ -106,8 +107,8 @@ slides.</td>
    <tr>
         <td>7</td>
         <td> Os softgoals condizem com o contexto?</td>
-        <td></td>
-        <td>versão 1.0 - 17/12</td>
+        <td>Sim</td>
+        <td>versão 1.4 - 17/12</td>
         <td><span style="color: black;"></span><a href="./imagens/etapa4/17.png"> Plano de Ensino</td>
        <td>André Barros</td>
   </tr>
@@ -115,53 +116,53 @@ slides.</td>
         <td colspan="6" style="text-align: center; font-weight: bold;">Backlog</td>
     </tr>
    <tr> 
-        <td>1</td>
+        <td>8</td>
         <td>O product backlog acorda
 as necessidades do produto
 como um todo?</td>
-        <td></td>
-        <td>versão 1.0 - 17/12</td>
+        <td>Sim</td>
+        <td>versão 1.1 - 17/12</td>
         <td><span style="color: black;"></span><a href="./imagens/etapa4/7.png"> SERRANO, Milene; SERRANO,
 Maurício. Requisitos – Aula 15</td>
         <td><a href="https://github.com/alanagabriele">Alana Gabriele</a></td>
    </tr>
    <tr>
-        <td>2</td>
+        <td>9</td>
         <td>O backlog possui todas as
 funcionalidades desejadas
 para um produto?</td>
-        <td></td>
-        <td>versão 1.0 - 17/12</td>
+        <td>Sim</td>
+        <td>versão 1.1 - 17/12</td>
         <td><span style="color: black;"></span><a href="./imagens/etapa4/8.png"> SERRANO, Milene; SERRANO,
 Maurício. Requisitos – Aula 15</td>
        <td><a href="https://github.com/alanagabriele">Alana Gabriele</a>,
        <a href="https://github.com/GenilsonJrs">Genilson Silva</a></td>
    </tr>
   <tr>
-        <td>3</td>
+        <td>10</td>
         <td> O registro pendente de trabalhos permite adicionar itens a qualquer momento, com prioridades atualizadas pelo gerente de produto conforme as necessidades do cliente?</td>
-        <td></td>
-        <td>versão 1.0 - 17/12</td>
+        <td>Sim</td>
+         <td>versão 1.1 - 17/12</td>
         <td><span style="color: black;"></span><a href="./imagens/etapa4/12.png">  Engenharia de Software Uma Abordagem Pro</td>
       <td><a href="https://github.com/SamuelRicosta">Samuel Ribeiro</a></td>
   </tr>
     <tr>
-       <td>4</td>
+       <td>11</td>
         <td>O conteúdo do Product
 Backlog foi definido pelo
 Product Owner?</td>
-        <td></td>
-        <td>versão 1.0 - 17/12</td>
+        <td>Sim</td>
+        <td>versão 1.1 - 17/12</td>
         <td><span style="color: black;"></span><a href="./imagens/etapa4/13.png"> SERRANO, Milene; SERRANO,
 Maurício. Requisitos -
 Aula 15. s.d. Slide 18.</td>
        <td><a href="https://github.com/dudupaz">Carlos Paz</a></td>
     </tr>
      <tr>
-       <td>5</td>
+       <td>12</td>
         <td>O backlog possui épicos e temas bem definidos e descritos?</td>
-        <td></td>
-        <td>versão 1.0 - 17/12</td>
+        <td>Sim</td>
+        <td>versão 1.1 - 17/12</td>
         <td><span style="color: black;"></span><a href="./imagens/etapa4/16.png"> Plano de Ensino</td>
        <td>André Barros</td>
     </tr>
@@ -169,12 +170,12 @@ Aula 15. s.d. Slide 18.</td>
         <td colspan="6" style="text-align: center; font-weight: bold;">Histórias de Usuário</td>
     </tr>
      <tr> 
-        <td>1</td>
+        <td>13</td>
         <td> As histórias de usuários são
 pequenas, detalhadas e
 específicas?</td>
-        <td></td>
-        <td>versão 1.0 - 17/12</td>
+        <td>Sim</td>
+        <td>versão 1.6 - 17/12</td>
         <td><span style="color: black;"></span><a href="./imagens/etapa4/9.png"> SERRANO, Milene; SERRANO,
 Maurício. Requisitos – aula 17:
 – NFR Framework. Brasília, UnB
@@ -183,43 +184,43 @@ slides.</td>
        <td><a href="https://github.com/alanagabriele">Alana Gabriele</a></td>
   </tr>
     <tr>
-        <td>2</td>
+        <td>14</td>
         <td> As especificações dos itens estão baseadas em histórias de usuário?</td>
-        <td></td>
-        <td>versão 1.0 - 17/12</td>
+        <td>Sim</td>
+         <td>versão 1.6 - 17/12</td>
         <td><span style="color: black;"></span><a href="./imagens/etapa4/11.png">  SERRANO, M.; SERRANO, M. Engenharia de Requisitos –
 Software Orientado ao Negócio. Rio de Janeiro: Elsevier, 2011, p. 11.</td>
       <td><a href="https://github.com/GenilsonJrs">Genilson Silva</a></td>
   </tr>
    <tr>
-        <td>3</td>
+        <td>15</td>
         <td> O documento de história de usuários detalha a tarefa que o usuário deseja
 realizar?</td>
-        <td></td>
-        <td>versão 1.0 - 17/12</td>
+        <td>Sim</td>
+         <td>versão 1.6 - 17/12</td>
         <td><span style="color: black;"></span><a href="./imagens/etapa4/10.png">  SERRANO, M.; SERRANO, M. Engenharia de Requisitos –
 Software Orientado ao Negócio. Rio de Janeiro: Elsevier, 2011, p. 14.</td>
        <td><a href="https://github.com/SamuelRicosta">Samuel Ribeiro</a></td>
   </tr>
     <tr>
-        <td>4</td>
+        <td>16</td>
         <td> A estrutura das histórias de
 usuário segue o formato
 padrão "Eu, como [usuário],
 quero [função] para
 [objetivo]"?</td>
-        <td></td>
-        <td>versão 1.0 - 17/12</td>
+        <td>Sim</td>
+         <td>versão 1.6 - 17/12</td>
         <td><span style="color: black;"></span><a href="./imagens/etapa4/14.png">  SERRANO, Milene; SERRANO,
 Maurício. Requisitos -
 Aula 15. s.d. Slide 12.</td>
           <td><a href="https://github.com/dudupaz">Carlos Paz</a></td>
   </tr>
   <tr>
-        <td>5</td>
+        <td>17</td>
         <td> A história possui critérios de aceitação?</td>
-        <td></td>
-        <td>versão 1.0 - 17/12</td>
+        <td>Sim</td>
+         <td>versão 1.6 - 17/12</td>
         <td><span style="color: black;"></span><a href="./imagens/etapa4/15.png">  Plano de Ensino</td>
           <td>André Barros</td>
   </tr>
@@ -238,14 +239,16 @@ Aula 15. s.d. Slide 12.</td>
 
 <h2>Gravação</h2>
 
-<p >O vídeo pode ser visto direto no <a href="https://www.youtube.com/watch?v=I6ZxUJSJeRo">YouTube.</a></p>
+<p >O vídeo pode ser visto direto no <a href="https://youtu.be/i3LdYoHxc6k?si=R_V5YR1XfA0vfNRL">YouTube.</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i3LdYoHxc6k?si=iHKXR8idWV2E0MYK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <div style="text-align: center">
 <p>Vídeo 1 - Verificação </p>
 </div>
 
 <p style="text-align: center; font-size: 14px;">
-    Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>
+    Autor: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele</a>
   </p>
 
 ## Análise dos Resultados
@@ -266,4 +269,5 @@ As verificações indicam que os artefatos estão alinhados aos critérios estab
 | 1.1        | 17/12/2024 | Verificação do Histórias de Usuário | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs)   |
 | 1.2        | 17/12/2024 | Verificação de Backlog              | [Genilson Silva](https://github.com/GenilsonJrs)   | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
 | 1.3        | 17/12/2024 | Verificação do NFR Framework        | [Carlos Eduardo](https://github.com/dudupaz)       | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
-| 1.4        | 03/02/2025 | Alteração na tabela de verificação  | [Alana Gabriele](https://github.com/alanagabriele) |                                                    |
+| 1.4        | 03/02/2025 | Alteração na tabela de verificação  | [Alana Gabriele](https://github.com/alanagabriele) | [Genilson Silva](https://github.com/GenilsonJrs)   |
+| 1.5        | 03/02/2025 | Gravação da verificação             | [Alana Gabriele](https://github.com/alanagabriele) | [Genilson Silva](https://github.com/GenilsonJrs)   |
