@@ -12,23 +12,6 @@ A verificação tem como propósito assegurar que todos os requisitos de avalia�
 
 As verificações foram realizadas seguindo uma lista de critérios de avaliação alinhados ao plano de ensino da disciplina. os membros do grupo elaboraram uma Lista de Verificação específica, utilizada para analisar os artefatos com base nos critérios definidos. Durante a verificação, foram registrados comentários e observações relevantes, assegurando a rastreabilidade das análises. Além disso, para garantir a imparcialidade, os artefatos foram avaliados por membros que não participaram diretamente de sua elaboração.
 
-## Responsáveis pelas Verificações
-
-<div style="text-align: center;">
-    <p><strong>Tabela 1 - Reponsáveis pela verificação </strong></p>
-  </div>
-
-| Artefato                  | Verificador                                        |
-| ------------------------- | -------------------------------------------------- |
-| Cenários                  | [Carlos Paz](https://github.com/dudupaz)           |
-| Casos de Uso              | [Alana Gabriele](https://github.com/alanagabriele) |
-| Especificação Suplementar | [Genilson Silva](https://github.com/GenilsonJrs)   |
-| Léxicos                   | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
-
-<p style="text-align: center; font-size: 14px;">
-    Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>
-  </p>
-
 ## Verificações
 
 <h2>Lista de Verificação Consolidada</h2>
@@ -165,6 +148,7 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 </p>
 
 ## video de verificação
+
 
 ## Análise dos Resultados
 

@@ -33,6 +33,11 @@ A tabela 1 mostra os requisitos utilizados para os protótipos.
     <td><a href="../../Elicitacao/tecnicas/requisitoselicitados/#anchor_RF03">RF03</a></td>
     <td>O sistema deve exibir Thrend Topics para visualização dos tópicos populares.</td>
   </tr>
+   <tr>
+    <td>4</td>
+    <td><a href="../../Elicitacao/tecnicas/requisitoselicitados/#anchor_RF36">RF36</a></td>
+    <td>O sistema deve permitir criar listas de amigos próximos.</td>
+  </tr>
 </table>
 
 <p style="text-align: center; font-size: 14px;">
@@ -121,6 +126,34 @@ A tabela 1 mostra os requisitos utilizados para os protótipos.
 
 </details>
 
+<details>
+  <summary>Protótipo 4 - Listas de amigos próximos	</summary>
+
+<h2>Protótipo 4</h2>
+
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/sfhXSQxvlgwGySwqQwlQm4/REQ---Implementa%C3%A7%C3%A3o-dos-Requisitos?node-id=70-1108&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=70%3A1108&show-proto-sidebar=1&embed-host=share" allowfullscreen></iframe>
+
+<p style="text-align: center; font-size: 14px;">
+    Autor: <a href="https://github.com/dudupaz" target="_blank">Carlos Eduardo</a>
+</p>
+
+<h2>Gravação</h2>
+<p>O vídeo pode ser visto direto no <a href="https://www.youtube.com/watch?v=FOOe8KcC_Nw">YouTube.</a></p>
+
+<div style="text-align: center;">
+  <p>Vídeo 4 - Listas de amigos próximos </p>
+</div>
+<center>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/FOOe8KcC_Nw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+<p style="text-align: center; font-size: 14px;">
+    Autor: <a href="https://github.com/dudupaz" target="_blank">Carlos Eduardo</a>
+  </p>
+
+</details>
+
 ## Referência
 FIGMA. **Protótipo do sistema Threads**. Disponível em: https://www.figma.com. Acesso em: 03 fev. 2025.
 
@@ -131,3 +164,4 @@ FIGMA. **Protótipo do sistema Threads**. Disponível em: https://www.figma.com.
 | 1.0        | 02/02/2024 | Criação do documento       | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs)   |
 | 1.1        | 03/02/2025 | Adição do Protótipo IA       | [Genilson Silva](https://github.com/GenilsonJrs) | [Samuel Ribeiro](https://github.com/SamuelRicosta)   |
 | 1.2        | 03/02/2025 | Adição do Protótipo Mensagem Privada      | [Genilson Silva](https://github.com/GenilsonJrs) | [Samuel Ribeiro](https://github.com/SamuelRicosta)   |
+| 1.3        | 03/02/2025 | Adição do Protótipo Amigos Próximos      | [Carlos Eduardo](https://github.com/dudupaz) | [Samuel Ribeiro](https://github.com/SamuelRicosta)   |
