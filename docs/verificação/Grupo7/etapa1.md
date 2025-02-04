@@ -33,7 +33,7 @@ As verificações seguiram uma lista de critérios de avaliação, desenvolvida 
         <td>Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula?</td>
         <td>Sim</td>
         <td>versão 1.1 - 03/02/25</td>
-        <td><a href="./imagens/imgTabela/pe1.png">PLANO DE ENSINO</a></td>
+        <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo8/imagens/etapa6/PE.png">PLANO DE ENSINO</a></td>
         <td>André Barros</td>
     </tr>
     <tr>
@@ -41,7 +41,7 @@ As verificações seguiram uma lista de critérios de avaliação, desenvolvida 
         <td>O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entregas dos artefatos e com o período da revisão deles?</td>
         <td>Sim</td>
         <td>versão 1.1 - 03/02/25</td>
-        <td><a href="./imagens/imgTabela/pe1.png">PLANO DE ENSINO</a></td>
+        <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo8/imagens/etapa6/PE.png">PLANO DE ENSINO</a></td>
         <td>André Barros</td>
     </tr>
     <tr>
@@ -49,7 +49,7 @@ As verificações seguiram uma lista de critérios de avaliação, desenvolvida 
         <td>O histórico de versão é padronizado?</td>
         <td>Sim</td>
         <td>versão 1.1 - 03/02/25</td>
-        <td><a href="./imagens/imgTabela/pe2.png">PLANO DE ENSINO</a></td>
+        <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo8/imagens/etapa6/PE.png">PLANO DE ENSINO</a></td>
         <td>André Barros</td>
     </tr>
     <tr>
@@ -57,7 +57,7 @@ As verificações seguiram uma lista de critérios de avaliação, desenvolvida 
         <td>O(s) autor(es) e o(s) revisor(es) para cada artefato?</td>
         <td>Sim</td>
         <td>versão 1.1 - 03/02/25</td>
-        <td><a href="./imagens/imgTabela/pe2.png">PLANO DE ENSINO</a></td>
+        <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo8/imagens/etapa6/PE.png">PLANO DE ENSINO</a></td>
         <td>André Barros</td>
     </tr>
     <tr>
@@ -65,7 +65,7 @@ As verificações seguiram uma lista de critérios de avaliação, desenvolvida 
         <td>Referências bibliográficas e/ou bibliografia em todos os artefatos?</td>
         <td>Sim</td>
         <td>versão 1.1 - 03/02/25</td>
-        <td><a href="./imagens/imgTabela/pe2.png">PLANO DE ENSINO</a></td>
+        <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo8/imagens/etapa6/PE.png">PLANO DE ENSINO</a></td>
         <td>André Barros</td>
     </tr>
     <tr>
@@ -76,7 +76,7 @@ As verificações seguiram uma lista de critérios de avaliação, desenvolvida 
         <td>Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc).</td>
         <td>Sim</td>
         <td>versão 1.1 - 03/02/25</td>
-        <td><a href="./imagens/imgTabela/pe2.png">PLANO DE ENSINO</a></td>
+        <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo8/imagens/etapa6/PE.png">PLANO DE ENSINO</a></td>
         <td>André Barros</td>
     </tr>
     <tr>
@@ -84,7 +84,7 @@ As verificações seguiram uma lista de critérios de avaliação, desenvolvida 
         <td>A gravação da reunião do grupo.</td>
         <td>Sim</td>
         <td>versão 1.1 - 03/02/25</td>
-        <td><a href="./imagens/imgTabela/pe2.png">PLANO DE ENSINO</a></td>
+        <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo8/imagens/etapa6/PE.png">PLANO DE ENSINO</a></td>
         <td>André Barros</td>
     </tr>
     <tr>
@@ -95,7 +95,7 @@ As verificações seguiram uma lista de critérios de avaliação, desenvolvida 
         <td>No artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama?</td>
         <td>Sim</td>
         <td>versão 1.1 - 03/02/25</td>
-        <td><a href="./imagens/imgTabela/pe2.png">PLANO DE ENSINO</a></td>
+        <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo8/imagens/etapa6/PE.png">PLANO DE ENSINO</a></td>
         <td>André Barros</td>
     </tr>
     <tr>
