@@ -148,6 +148,18 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 </p>
 
 ## video de verificação
+ <p>O vídeo pode ser visto direto no <a href="https://youtu.be/yGEXFrJ4Mgc">YouTube.</a></p>
+
+<div style="text-align: center;">
+  <p>Vídeo 1 - Verificação da Etapa 3</p>
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yGEXFrJ4Mgc?si=GjRD9jhgd8J-bvDX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<p style="text-align: center; font-size: 14px;">
+    Autor: <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro, </a>
+    </p>
 
 
 ## Análise dos Resultados

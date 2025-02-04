@@ -135,6 +135,24 @@ As verificações seguiram uma lista de critérios de avaliação, desenvolvida 
     Autores: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva,</a> <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele,</a> <a href="https://github.com/dudupaz" target="_blank">Carlos Paz,</a> <a href="https://github.com/SamuelRicosta" target="_blank"> Samuel Ribeiro. </a>
 </p>
 
+
+## video de verificação
+
+<p>O vídeo pode ser visto direto no <a href="http://youtube.com/watch?v=HGHHBQfoKA8">YouTube.</a></p>
+
+<div style="text-align: center;">
+  <p>Vídeo 1 - Verificação da Etapa 1</p>
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HGHHBQfoKA8?si=TPgPE3lMUHENiB44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<p style="text-align: center; font-size: 14px;">
+    Autor: <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro, </a>
+    </p>
+
+
+
 ## Análise dos resultados
 
 As verificações indicam que os artefatos atendem aos critérios esperados. A principal sugestão foi incluir objetivos em alguns documentos para maior clareza. As verificações foram realizadas por membros diferentes dos autores, assegurando imparcialidade. No geral, o projeto é bem estruturado, com poucas melhorias necessárias para aumentar a clareza.
