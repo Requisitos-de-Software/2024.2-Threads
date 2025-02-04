@@ -12,46 +12,109 @@ A verificação tem como propósito assegurar que todos os requisitos de avalia�
 
 As verificações foram realizadas seguindo uma lista de critérios de avaliação alinhados ao plano de ensino da disciplina. os membros do grupo elaboraram uma Lista de Verificação específica, utilizada para analisar os artefatos com base nos critérios definidos. Durante a verificação, foram registrados comentários e observações relevantes, assegurando a rastreabilidade das análises. Além disso, para garantir a imparcialidade, os artefatos foram avaliados por membros que não participaram diretamente de sua elaboração. Na tabela 1, estão presentes os responsáveis pela verificação dos documentos. Em tabela 2, estão listados as itens e resultados da verificação aplicada.
 
-## Responsáveis pelas Verificações
-
-<div style="text-align: center;">
-    <p><strong>Tabela 1 - Reponsáveis pela verificação </strong></p>
-  </div>
-
-| Artefato                   | Verificador                                                                                                                                                                                            |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Backward-From              | [Carlos Eduardo](https://github.com/dudupaz), [Samuel Ribeiro](https://github.com/SamuelRicosta), [Alana Gabriele](https://github.com/alanagabriele), [Genilson Silva](https://github.com/GenilsonJrs) |
-| Forward-From               | [Carlos Eduardo](https://github.com/dudupaz), [Samuel Ribeiro](https://github.com/SamuelRicosta), [Alana Gabriele](https://github.com/alanagabriele), [Genilson Silva](https://github.com/GenilsonJrs) |
-| Matriz de Rastreabilidadee | [Carlos Eduardo](https://github.com/dudupaz), [Samuel Ribeiro](https://github.com/SamuelRicosta), [Alana Gabriele](https://github.com/alanagabriele), [Genilson Silva](https://github.com/GenilsonJrs) |
-
-<p style="text-align: center; font-size: 14px;">
-    Autor: <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro</a>
-  </p>
-
 ## Verificação
 
 <h2>Lista de Verificação</h2>
 
   <div style="text-align: center;">
-    <p><strong>Tabela 2: Lista de Verificação </strong></p>
+    <p>Tabela 1: Lista de Verificação </p>
   </div>
+<h2>Lista de Verificação Consolidada</h2>
 
-| **Id** | **Descrição** | **Resposta** | **Versão e Data** | **Referência** | **Autor** |
-|--------|-------------|--------------|------------------|---------------|------------|
-| **Planejamento Geral do Projeto** |  |  |  |  |  |
-| 1 | O sistema implementa rastreabilidade entre requisitos, arquitetura e implementação final? | Sim | versão 1.0 - 19/01/25 | <a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa5/r1.png">SAYÃO, F.; LEITE, J. C. *Rastreabilidade de requisitos: fundamentos e aplicações.* Petrópolis: Vozes, 2006.</a> | [Genilson Silva](https://github.com/GenilsonJrs) |
-| 2 | A rastreabilidade registra a fonte e a dependência entre requisitos? | Sim | versão 1.0 - 19/01/25 | <a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa5/r2.png">SAYÃO, F.; LEITE, J. C. *Rastreabilidade de requisitos: fundamentos e aplicações.* Petrópolis: Vozes, 2006.</a> | [Genilson Silva](https://github.com/GenilsonJrs) |
-| **Backward-From** |  |  |  |  |  |
-| 3 | O sistema possui elos registrados entre requisitos, fontes e componentes? | Sim | versão 1.0 - 19/01/25 | <a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa5/r3.png">SAYÃO, F.; LEITE, J. C. *Rastreabilidade de requisitos: fundamentos e aplicações.* Petrópolis: Vozes, 2006.</a> | [Samuel Ribeiro](https://github.com/samuelricosta) |
-| 4 | Os artefatos de rastreabilidade estão sendo utilizados para identificar componentes e erros no sistema? | Sim | versão 1.0 - 19/01/25 | <a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa5/r4.png">SAYÃO, F.; LEITE, J. C. *Rastreabilidade de requisitos: fundamentos e aplicações.* Petrópolis: Vozes, 2006.</a> | [Samuel Ribeiro](https://github.com/samuelricosta) |
-| **Forward-From** |  |  |  |  |  |
-| 5 | Os requisitos estão cACConectados aos artefatos relevantes, como casos de uso, cenários de teste e código fonte? | Sim | versão 1.0 - 19/01/25 | <a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa5/r5.png">SAYÃO, F.; LEITE, J. C. *Rastreabilidade de requisitos: fundamentos e aplicações.* Petrópolis: Vozes, 2006.</a> | [Alana Gabriele](https://github.com/alanagabriele) |
-| 6 | As decisões de projeto e suas justificativas estão documentadas? | Sim | versão 1.0 - 19/01/25 | <a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa5/r6.png">SAYÃO, F.; LEITE, J. C. *Rastreabilidade de requisitos: fundamentos e aplicações.* Petrópolis: Vozes, 2006.</a> | [Alana Gabriele](https://github.com/alanagabriele) |
-| **Matriz de Rastreabilidade** |  |  |  |  |  |
-| 7 | O projeto utiliza uma matriz de rastreabilidade para mapear os requisitos a outros elementos? | Sim | versão 1.0 - 19/01/25 | <a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa5/r7.png">SAYÃO, F.; LEITE, J. C. *Rastreabilidade de requisitos: fundamentos e aplicações.* Petrópolis: Vozes, 2006.</a> | [Carlos Paz](https://github.com/dudupaz) |
-| 8 | A matriz de rastreabilidade garante que todos os elementos do sistema estejam associados a requisitos específicos? | Sim | versão 1.0 - 19/01/25 | <a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa5/r8.png">SAYÃO, F.; LEITE, J. C. *Rastreabilidade de requisitos: fundamentos e aplicações.* Petrópolis: Vozes, 2006.</a> | [Carlos Paz](https://github.com/dudupaz) |
-
-
+<table border="1">
+    <tr>
+        <th>Id</th>
+        <th>Descrição</th>
+        <th>Resposta</th>
+        <th>Versão e Data</th>
+        <th>Referência</th>
+        <th>Autor</th>
+    </tr>
+     <tr>
+        <td colspan="6" style="text-align: center; font-weight: bold;">Planejamento Geral do Projeto</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>O sistema implementa rastreabilidade entre requisitos, arquitetura e implementação final?</td>
+        <td></td>
+        <td>versão 1.0 - 19/01/25</td>
+        <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa5/r1.png">
+            SAYÃO, F.; LEITE, J. C. <em>Rastreabilidade de requisitos: fundamentos e aplicações.</em> Petrópolis: Vozes, 2006.</a></td>
+        <td><a href="https://github.com/GenilsonJrs">Genilson Silva</a></td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>A rastreabilidade registra a fonte e a dependência entre requisitos?</td>
+        <td></td>
+        <td>versão 1.0 - 19/01/25</td>
+        <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa5/r2.png">
+            SAYÃO, F.; LEITE, J. C. <em>Rastreabilidade de requisitos: fundamentos e aplicações.</em> Petrópolis: Vozes, 2006.</a></td>
+        <td><a href="https://github.com/GenilsonJrs">Genilson Silva</a></td>
+    </tr>
+     <tr>
+        <td colspan="6" style="text-align: center; font-weight: bold;"> Backward-From</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>O sistema possui elos registrados entre requisitos, fontes e componentes?</td>
+        <td></td>
+        <td>versão 1.0 - 19/01/25</td>
+        <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa5/r3.png">
+            SAYÃO, F.; LEITE, J. C. <em>Rastreabilidade de requisitos: fundamentos e aplicações.</em> Petrópolis: Vozes, 2006.</a></td>
+        <td><a href="https://github.com/samuelricosta">Samuel Ribeiro</a></td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>Os artefatos de rastreabilidade estão sendo utilizados para identificar componentes e erros no sistema?</td>
+        <td></td>
+        <td>versão 1.0 - 19/01/25</td>
+        <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa5/r4.png">
+            SAYÃO, F.; LEITE, J. C. <em>Rastreabilidade de requisitos: fundamentos e aplicações.</em> Petrópolis: Vozes, 2006.</a></td>
+        <td><a href="https://github.com/samuelricosta">Samuel Ribeiro</a></td>
+    </tr>
+      <tr>
+        <td colspan="6" style="text-align: center; font-weight: bold;"> Forward-From</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>Os requisitos estão conectados aos artefatos relevantes, como casos de uso, cenários de teste e código fonte?</td>
+        <td></td>
+        <td>versão 1.0 - 19/01/25</td>
+        <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa5/r5.png">
+            SAYÃO, F.; LEITE, J. C. <em>Rastreabilidade de requisitos: fundamentos e aplicações.</em> Petrópolis: Vozes, 2006.</a></td>
+        <td><a href="https://github.com/alanagabriele">Alana Gabriele</a></td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>As decisões de projeto e suas justificativas estão documentadas?</td>
+        <td></td>
+        <td>versão 1.0 - 19/01/25</td>
+        <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa5/r6.png">
+            SAYÃO, F.; LEITE, J. C. <em>Rastreabilidade de requisitos: fundamentos e aplicações.</em> Petrópolis: Vozes, 2006.</a></td>
+        <td><a href="https://github.com/alanagabriele">Alana Gabriele</a></td>
+    </tr>
+     <tr>
+        <td colspan="6" style="text-align: center; font-weight: bold;"> Matriz de Rastreabilidade</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>O projeto utiliza uma matriz de rastreabilidade para mapear os requisitos a outros elementos?</td>
+        <td></td>
+        <td>versão 1.0 - 19/01/25</td>
+        <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa5/r7.png">
+            SAYÃO, F.; LEITE, J. C. <em>Rastreabilidade de requisitos: fundamentos e aplicações.</em> Petrópolis: Vozes, 2006.</a></td>
+        <td><a href="https://github.com/dudupaz">Carlos Paz</a></td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>A matriz de rastreabilidade garante que todos os elementos do sistema estejam associados a requisitos específicos?</td>
+        <td></td>
+        <td>versão 1.0 - 19/01/25</td>
+        <td><a href="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/verificação/Grupo7/imagens/etapa5/r8.png">
+            SAYÃO, F.; LEITE, J. C. <em>Rastreabilidade de requisitos: fundamentos e aplicações.</em> Petrópolis: Vozes, 2006.</a></td>
+        <td><a href="https://github.com/dudupaz">Carlos Paz</a></td>
+    </tr>
+</table>
 
 <p style="text-align: center; font-size: 14px;">
     Autores: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva,</a> <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele,</a> <a href="https://github.com/dudupaz" target="_blank">Carlos Paz,</a> <a href="https://github.com/SamuelRicosta" target="_blank"> Samuel Ribeiro. </a>
@@ -72,13 +135,14 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 <div style="text-align: center;">
   <p>Vídeo 1 - Verificação da Etapa 6</p>
 </div>
+
 <center>
 <iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
+
 <p style="text-align: center; font-size: 14px;">
     Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva, </a><a href="https://github.com/dudupaz" target="_blank">Carlos Eduardo, </a><a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro, </a><a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele.</a>
   </p>
-
 
 ## Análise dos Resultados
 
@@ -90,8 +154,8 @@ As verificações indicam que os artefatos estão alinhados aos critérios estab
 
 ## Histórico de Versões
 
-| **Versão** | **Data**   | **Descrição**                   | **Autor(es)**                                                                                                                                                                                          | **Revisor(es)**                                    |
-| ---------- | ---------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------- |
-| 1.0        | 19/01/2024 | Criação do documento            | [Samuel Ribeiro](https://github.com/SamuelRicosta)                                                                                                                                                     | [Genilson Silva](https://github.com/GenilsonJrs)   |
-| 1.1        | 20/01/2024 | Adição dos itens de verificação | [Carlos Eduardo](https://github.com/dudupaz), [Samuel Ribeiro](https://github.com/SamuelRicosta), [Alana Gabriele](https://github.com/alanagabriele), [Genilson Silva](https://github.com/GenilsonJrs) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
-| 1.2        | 02/02/2025 | Ajustes na verificação dos itens            | [Genilson Silva](https://github.com/GenilsonJrs)                                                                                                                                                     | [Samuel Ribeiro](https://github.com/SamuelRicosta)   |
+| **Versão** | **Data**   | **Descrição**                    | **Autor(es)**                                                                                                                                                                                          | **Revisor(es)**                                    |
+| ---------- | ---------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------- |
+| 1.0        | 19/01/2024 | Criação do documento             | [Samuel Ribeiro](https://github.com/SamuelRicosta)                                                                                                                                                     | [Genilson Silva](https://github.com/GenilsonJrs)   |
+| 1.1        | 20/01/2024 | Adição dos itens de verificação  | [Carlos Eduardo](https://github.com/dudupaz), [Samuel Ribeiro](https://github.com/SamuelRicosta), [Alana Gabriele](https://github.com/alanagabriele), [Genilson Silva](https://github.com/GenilsonJrs) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+| 1.2        | 02/02/2025 | Ajustes na verificação dos itens | [Genilson Silva](https://github.com/GenilsonJrs)                                                                                                                                                       | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
