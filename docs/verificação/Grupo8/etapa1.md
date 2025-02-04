@@ -147,14 +147,14 @@ As verificações seguiram uma lista de critérios de avaliação, desenvolvida 
 </p>
 
 <h2>Gravação</h2>
-<p>O vídeo pode ser visto direto no <a href="https://www.youtube.com/watch?v=4G_gl9Z_0HA">YouTube.</a></p>
+<p>O vídeo pode ser visto direto no <a href="https://www.youtube.com/watch?v=pL14FtmiYLs">YouTube.</a></p>
 
 <div style="text-align: center;">
   <p>Vídeo 1 - Verificação da Etapa 6</p>
 </div>
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4G_gl9Z_0HA?si=q8FaNOyiOsp6wrBJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pL14FtmiYLs?si=v3tzUJ0uhfW5pyz1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
 <p style="text-align: center; font-size: 14px;">
