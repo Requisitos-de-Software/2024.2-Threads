@@ -135,6 +135,9 @@ As verificações seguiram uma lista de critérios de avaliação, desenvolvida 
     Autores: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva,</a> <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele,</a> <a href="https://github.com/dudupaz" target="_blank">Carlos Paz,</a> <a href="https://github.com/SamuelRicosta" target="_blank"> Samuel Ribeiro. </a>
 </p>
 
+
+## video de verificação
+
 <p>O vídeo pode ser visto direto no <a href="http://youtube.com/watch?v=HGHHBQfoKA8">YouTube.</a></p>
 
 <div style="text-align: center;">
