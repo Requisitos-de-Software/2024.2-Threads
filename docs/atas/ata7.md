@@ -47,4 +47,4 @@ A sétima reunião, onde foi discutido pontos e estipulado datas para as entrega
 
 | Versão |    Data    | Descrição                   | Autor(es)                                          | Revisor(es)                                        |
 | ------ | :--------: | --------------------------- | -------------------------------------------------- | -------------------------------------------------- |
-| 1.0    | 03/02/2025 | Ata 7                     | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+| 1.0    | 03/02/2025 | Ata 7                     | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs) |
