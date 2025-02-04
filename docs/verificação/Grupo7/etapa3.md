@@ -12,23 +12,6 @@ A verificação tem como propósito assegurar que todos os requisitos de avalia�
 
 As verificações foram realizadas seguindo uma lista de critérios de avaliação alinhados ao plano de ensino da disciplina. os membros do grupo elaboraram uma Lista de Verificação específica, utilizada para analisar os artefatos com base nos critérios definidos. Durante a verificação, foram registrados comentários e observações relevantes, assegurando a rastreabilidade das análises. Além disso, para garantir a imparcialidade, os artefatos foram avaliados por membros que não participaram diretamente de sua elaboração.
 
-## Responsáveis pelas Verificações
-
-<div style="text-align: center;">
-    <p><strong>Tabela 1 - Reponsáveis pela verificação </strong></p>
-  </div>
-
-| Artefato                  | Verificador                                        |
-| ------------------------- | -------------------------------------------------- |
-| Cenários                  | [Carlos Paz](https://github.com/dudupaz)           |
-| Casos de Uso              | [Alana Gabriele](https://github.com/alanagabriele) |
-| Especificação Suplementar | [Genilson Silva](https://github.com/GenilsonJrs)   |
-| Léxicos                   | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
-
-<p style="text-align: center; font-size: 14px;">
-    Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>
-  </p>
-
 ## Verificações
 
 ## Itens do Desenvolvimento do Projeto, Léxicos, Especificações e Cenários
@@ -61,6 +44,18 @@ As verificações foram realizadas seguindo uma lista de critérios de avaliaç�
 
 ## video de verificação
 
+<p>O vídeo pode ser visto direto no <a href="https://youtu.be/yGEXFrJ4Mgc">YouTube.</a></p>
+
+<div style="text-align: center;">
+  <p>Vídeo 1 - Verificação da Etapa 3</p>
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yGEXFrJ4Mgc?si=GjRD9jhgd8J-bvDX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<p style="text-align: center; font-size: 14px;">
+    Autor: <a href="https://github.com/SamuelRicosta" target="_blank">Samuel Ribeiro, </a>
+    </p>
 
 ## Análise dos Resultados
 
