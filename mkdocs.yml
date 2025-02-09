@@ -55,6 +55,9 @@ nav:
       - Backward-From: Rastreabilidade/backwardFrom.md
       - Forward From: Rastreabilidade/forwardFrom.md
       - Matriz de Rastreabilidade: Rastreabilidade/matrizdeRastreabilidade.md
+  - Entrega Final:
+    - Execução do projeto: Entrega_Final/Execucaoodoprojeto.md
+    - Técnicas utilizadas: Entrega_Final/Tecnicasutilizadas.md
   - Validação:
     - Comprovação: Validação/comprovacao.md
     - Prototipação: Validação/prototipacao.md
