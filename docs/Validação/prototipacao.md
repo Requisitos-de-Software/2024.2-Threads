@@ -96,6 +96,9 @@ A tabela 1 mostra os requisitos utilizados para os protótipos.
   
 ![FIgma IA](imagens/figmaum.png)
 
+<img src="docs/Validação/imagens/figmaum.png" alt="Figma IA">
+
+
 <p style="text-align: center; font-size: 14px;">
     Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>
 </p>
