@@ -92,15 +92,7 @@ A tabela 1 mostra os requisitos utilizados para os protótipos.
     <p><strong>Imagem 1 - Tela IA Figma</strong></p>
   </div>
   
-<img src="docs/Validação/imagens/figmaum.png" alt="Imagem Figma">
-
-![](./imagens/figmaum.png) 
-
-<center>
-
-![](./imagens/figmaum.png)
-
-</center>
+![FIgma IA](imagens/figmaum.png)
 
 <p style="text-align: center; font-size: 14px;">
     Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>
