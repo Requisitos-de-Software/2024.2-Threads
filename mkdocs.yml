@@ -50,7 +50,7 @@ nav:
     - Ágil:
       - NFR Framework: modelagem/agil/nfrFramework.md
       - Histórias de Usuário: modelagem/agil/historiaUsuario.md
-      - Backlog: modelagem/agil/backlog.md 
+      - Backlog: modelagem/agil/backlog.md
   - Rastreabilidade:
       - Backward-From: Rastreabilidade/backwardFrom.md
       - Forward From: Rastreabilidade/forwardFrom.md
@@ -60,6 +60,9 @@ nav:
     - Técnicas utilizadas: Entrega_Final/Tecnicasutilizadas.md
     - Artefatos criados: Entrega_Final/ArtefatosCriados.md
     - Verificação e Validação: Entrega_Final/VerificacaoeValidacao.md
+    - Ferramentas Utilizadas: Entrega_Final\Ferramentasutilizadas.md
+    - Apresentações: Entrega_Final\Apresentações.md
+    - Resultados Alcançados: Entrega_Final\Resultadosalcancados.md
   - Validação:
     - Comprovação: Validação/comprovacao.md
     - Prototipação: Validação/prototipacao.md
