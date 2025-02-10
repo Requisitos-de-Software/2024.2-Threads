@@ -92,9 +92,12 @@ A tabela 1 mostra os requisitos utilizados para os protótipos.
     <p><strong>Imagem 1 - Tela IA Figma</strong></p>
   </div>
   
+
+![](./imagens/figmaum.png) 
+
 <center>
 
-![](./imagens/figma1.png)
+![](./imagens/figmaum.png)
 
 </center>
 
