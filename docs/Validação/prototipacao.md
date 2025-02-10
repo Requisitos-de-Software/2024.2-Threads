@@ -91,6 +91,8 @@ A tabela 1 mostra os requisitos utilizados para os protótipos.
 <div style="text-align: center;">
     <p><strong>Imagem 1 - Tela IA Figma</strong></p>
   </div>
+
+<img src="imagens/figmaum.png" alt="Figma IA"> 
   
 ![FIgma IA](imagens/figmaum.png)
 
