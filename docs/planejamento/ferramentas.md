@@ -21,8 +21,9 @@ Na **tabela 1** estão as ferramentas utilizadas neste projeto:
 | <img src="https://play-lh.googleusercontent.com/o4vT3StM8rw3Hn15GMtLjuTA6VUWt6jxDvV4d5ahKj9E9nGaLut06tM83NESuTBr-t0=w240-h480-rw" width=120> | Lucidchart         | Criação do rich picture                                 |
 | <img src="https://www.luiconceitocriativo.com/eejoossa/2024/08/244421955_1062499494497845_7683090676434840618_n.jpg" width=120>              | Canva              | Criação do rich picture                                 |
 |  <img src="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs\planejamento\imagens\ia.png?raw=true" width=120> | This person does not exist | Criação de imagens de pessoas fictícias para as Personas|
+|  <img src="https://cdn.sanity.io/images/599r6htc/regionalized/5094051dac77593d0f0978bdcbabaf79e5bb855c-1080x1080.png?w=540&q=75&fit=max&auto=format&dpr=1.5" width=120> | Figma | Ferramenta online de design |
 
-<font size="2"><p style="text-align: center"> Autora: [Alana Gabriele](https://github.com/alanagabriele) </p></font>
+<font size="2"><p style="text-align: center"> Autores: [Alana Gabriele, ](https://github.com/alanagabriele) [Genilson Silva](https://github.com/GenilsonJrs) </p></font>
 
 <br>
 
@@ -37,6 +38,7 @@ Na **tabela 1** estão as ferramentas utilizadas neste projeto:
 > Visual Studio Code. Disponível em: [Link para Visual Studio Code](https://code.visualstudio.com/). Acesso em 29 de de outrubo de 2024 <br>
 > Canva. Disponível em: [Link para Canva](https://www.canva.com). Acesso em 13 de novembro de 2024. <br>
 > Lucidchart. Disponível em: [Link para Canva](https://www.lucidchart.com). Acesso em 13 de novembro de 2024. <br>
+> Figma. Disponível em: [Link para o Figma](https://www.figma.com/pt-br/). Acesso em 10 de fevereiro de 2025. <br>
 
 ## Histórico de Versões
 
@@ -45,4 +47,5 @@ Na **tabela 1** estão as ferramentas utilizadas neste projeto:
 | 1.0    | 29/10/2024 | Inserção de ferramentas         | [Alana Gabriele](https://github.com/alanagabriele) | [Genilson Silva](https://github.com/GenilsonJrs) |
 | 1.1    | 13/11/2024 | Adicionando canvas e lucidchart | [Alana Gabriele](https://github.com/alanagabriele) | [Carlos Eduardo](https://github.com/dudupaz)     |
 | 1.2    | 25/11/2024 | Adicionando This pearson does not exist | [Carlos Eduardo](https://github.com/dudupaz) | [Alana Gabriele](https://github.com/alanagabriele)     |
+| 1.3    | 10/02/2025 | Adicionando Figma | [Genilson Silva](https://github.com/GenilsonJrs) | [Carlos Eduardo](https://github.com/dudupaz)     |
 

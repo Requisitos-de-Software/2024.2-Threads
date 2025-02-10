@@ -78,8 +78,25 @@ A tabela 1 mostra os requisitos utilizados para os protótipos.
   <summary>Protótipo 2 - IA</summary>
 
 <h2>Protótipo 2</h2>
+<p>O protótipo pode ser acessado diretamente em <a href="https://www.figma.com/proto/sfhXSQxvlgwGySwqQwlQm4/REQ---Implementa%C3%A7%C3%A3o-dos-Requisitos?node-id=32-18&p=f&t=tj90L1FPDz6mifxE-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=32%3A18&show-proto-sidebar=1">FIGMA</a>, e a Imagem 1 logo abaixo mostra a tela em questão.</p>
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/sfhXSQxvlgwGySwqQwlQm4/REQ---Implementa%C3%A7%C3%A3o-dos-Requisitos?node-id=32-18&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=32%3A18&show-proto-sidebar=1&embed-host=share" allowfullscreen></iframe>
+
+<p style="text-align: center; font-size: 14px;">
+    Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>
+</p>
+
+<h2>Imagens do Figma</h2>
+
+<div style="text-align: center;">
+    <p><strong>Imagem 1 - Tela IA Figma</strong></p>
+  </div>
+  
+<center>
+
+![](./imagens/figma1.png)
+
+</center>
 
 <p style="text-align: center; font-size: 14px;">
     Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>
@@ -165,3 +182,4 @@ FIGMA. **Protótipo do sistema Threads**. Disponível em: https://www.figma.com.
 | 1.1        | 03/02/2025 | Adição do Protótipo IA       | [Genilson Silva](https://github.com/GenilsonJrs) | [Samuel Ribeiro](https://github.com/SamuelRicosta)   |
 | 1.2        | 03/02/2025 | Adição do Protótipo Mensagem Privada      | [Genilson Silva](https://github.com/GenilsonJrs) | [Samuel Ribeiro](https://github.com/SamuelRicosta)   |
 | 1.3        | 03/02/2025 | Adição do Protótipo Amigos Próximos      | [Carlos Eduardo](https://github.com/dudupaz) | [Samuel Ribeiro](https://github.com/SamuelRicosta)   |
+| 1.4        | 10/02/2025 | Adição de link e imagem      | [Genilson Silva](https://github.com/GenilsonJrs) | [Samuel Ribeiro](https://github.com/SamuelRicosta)   |
