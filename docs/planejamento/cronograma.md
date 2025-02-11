@@ -503,6 +503,7 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
         <tr>
             <td>Verificação do grupo +1</td>
             <td>Início : 08/12 <br> Fim : 09/12</td>
+            <td>Início : 09/12 <br> Fim : 09/12</td>
             <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
             <td>Início : 09/11 <br> Fim : 09/11</td>
             <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
@@ -510,8 +511,9 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
         <tr>
             <td>Correções pós-apresentação</td>
             <td>Início: 10/12 <br> Fim: 12/12</td>
+            <td>Início: 13/12 <br> Fim: 13/12</td>
             <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
-            <td>Início: 12/12 <br> Fim: 13/12</td>
+            <td>Início: 14/12 <br> Fim: 14/12</td>
             <td>Genilson Silva</td>
         </tr>
     </table>
@@ -1142,7 +1144,6 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
     Autores: <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele,</a> <a href="https://github.com/dudupaz" target="_blank">Carlos Paz,</a> <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva,</a><a href="https://github.com/SamuelRicosta" target="_blank"> Samuel Ribeiro. </a>
 </p></font>
 </details>
-
 ## Bibliografia
 
 > SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf> Acesso em 23 de outubro de 2024. <br>

@@ -503,6 +503,7 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
         <tr>
             <td>Verificação do grupo +1</td>
             <td>Início : 08/12 <br> Fim : 09/12</td>
+            <td>Início : 09/12 <br> Fim : 09/12</td>
             <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
             <td>Início : 09/11 <br> Fim : 09/11</td>
             <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
@@ -510,8 +511,9 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
         <tr>
             <td>Correções pós-apresentação</td>
             <td>Início: 10/12 <br> Fim: 12/12</td>
+            <td>Início: 13/12 <br> Fim: 13/12</td>
             <td>Alana Gabriele, Carlos Eduardo, Genilson Silva, Samuel Ribeiro</td>
-            <td>Início: 12/12 <br> Fim: 13/12</td>
+            <td>Início: 14/12 <br> Fim: 14/12</td>
             <td>Genilson Silva</td>
         </tr>
     </table>
