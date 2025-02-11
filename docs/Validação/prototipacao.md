@@ -90,7 +90,7 @@ A tabela 1 mostra os requisitos utilizados para os protótipos.
     <p><strong>Imagem 1 - Tela IA Figma</strong></p>
   </div>
 
-<img src="./imagens/figmaum.png" alt="Figma IA"> 
+<img src="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/Validação/imagens/figmaum.png" alt="Figma IA"> 
 
 
 <p style="text-align: center; font-size: 14px;">
