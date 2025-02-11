@@ -16,6 +16,8 @@ Para organizar a apresentação das facilidades e dificuldades encontradas, estr
 
 **Carlos Eduardo**
 
+Uma das principais facilidades que tive durante o projeto foi a boa dinâmica de trabalho em equipe. Desde o início, conseguimos estabelecer uma comunicação eficiente, o que ajudou a distribuir melhor as tarefas e evitar retrabalho. Além disso, a dedicação de todos os integrantes foi essencial para garantir um fluxo de trabalho produtivo, permitindo que cada etapa do projeto fosse concluída dentro do prazo.
+
 **Alana Gabriele**
 
 
@@ -27,6 +29,8 @@ Para organizar a apresentação das facilidades e dificuldades encontradas, estr
 
 **Carlos Eduardo**
 
+Conciliar o projeto com a carga de disciplinas do semestre foi um dos maiores desafios. Com múltiplas matérias exigindo entregas simultâneas, manter um ritmo de trabalho consistente foi difícil. No entanto, a colaboração entre os membros e a divisão equilibrada de tarefas ajudaram a minimizar esse impacto.
+
 **Alana Gabriele**
 
 
@@ -37,4 +41,5 @@ Para organizar a apresentação das facilidades e dificuldades encontradas, estr
 | **Versão** | **Data**   | **Descrição**                              | **Autor(es)**                                      | **Revisor(es)**                                    |
 | ---------- | ---------- | ------------------------------------------ | -------------------------------------------------- | -------------------------------------------------- |
 | 1.0        | 10/02/2025 | Criação do documento                       | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs)   |
+| 1.1        | 10/02/2025 | Adição de Facilidades e Dificuldades                       | [Carlos Eduardo](https://github.com/dudupaz) | [Samuel Ribeiro](https://github.com/SamuelRicosta)   |
 
