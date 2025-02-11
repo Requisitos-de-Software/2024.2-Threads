@@ -44,14 +44,12 @@ A tabela 1 mostra os requisitos utilizados para os protótipos.
     Autores: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva,</a> <a href="https://github.com/alanagabriele" target="_blank">Alana Gabriele,</a> <a href="https://github.com/dudupaz" target="_blank">Carlos Paz,</a> <a href="https://github.com/SamuelRicosta" target="_blank"> Samuel Ribeiro. </a>
 </p>
 
-
 # Protótipos
 
 <details>
   <summary>Protótipo 1 - Mensagem Privada</summary>
 
 <h2>Protótipo 1</h2>
-
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/sfhXSQxvlgwGySwqQwlQm4/REQ---Implementa%C3%A7%C3%A3o-dos-Requisitos?node-id=70-1108&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=70%3A1108&show-proto-sidebar=1&embed-host=share" allowfullscreen></iframe>
 
@@ -92,11 +90,7 @@ A tabela 1 mostra os requisitos utilizados para os protótipos.
     <p><strong>Imagem 1 - Tela IA Figma</strong></p>
   </div>
 
-<img src="imagens/figmaum.png" alt="Figma IA"> 
-  
-![FIgma IA](imagens/figmaum.png)
-
-<img src="docs/Validação/imagens/figmaum.png" alt="Figma IA">
+<img src="./imagens/figmaum.png" alt="Figma IA"> 
 
 
 <p style="text-align: center; font-size: 14px;">
@@ -149,7 +143,6 @@ A tabela 1 mostra os requisitos utilizados para os protótipos.
 
 <h2>Protótipo 4</h2>
 
-
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/sfhXSQxvlgwGySwqQwlQm4/REQ---Implementa%C3%A7%C3%A3o-dos-Requisitos?node-id=70-1108&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=70%3A1108&show-proto-sidebar=1&embed-host=share" allowfullscreen></iframe>
 
 <p style="text-align: center; font-size: 14px;">
@@ -173,14 +166,15 @@ A tabela 1 mostra os requisitos utilizados para os protótipos.
 </details>
 
 ## Referência
+
 FIGMA. **Protótipo do sistema Threads**. Disponível em: https://www.figma.com. Acesso em: 03 fev. 2025.
 
 ## Histórico de Versões
 
-| **Versão** | **Data**   | **Descrição**              | **Autor(es)**                                      | **Revisor(es)**                                    |
-| ---------- | ---------- | -------------------------- | -------------------------------------------------- | -------------------------------------------------- |
-| 1.0        | 02/02/2024 | Criação do documento       | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs)   |
-| 1.1        | 03/02/2025 | Adição do Protótipo IA       | [Genilson Silva](https://github.com/GenilsonJrs) | [Samuel Ribeiro](https://github.com/SamuelRicosta)   |
-| 1.2        | 03/02/2025 | Adição do Protótipo Mensagem Privada      | [Genilson Silva](https://github.com/GenilsonJrs) | [Samuel Ribeiro](https://github.com/SamuelRicosta)   |
-| 1.3        | 03/02/2025 | Adição do Protótipo Amigos Próximos      | [Carlos Eduardo](https://github.com/dudupaz) | [Samuel Ribeiro](https://github.com/SamuelRicosta)   |
-| 1.4        | 10/02/2025 | Adição de link e imagem      | [Genilson Silva](https://github.com/GenilsonJrs) | [Samuel Ribeiro](https://github.com/SamuelRicosta)   |
+| **Versão** | **Data**   | **Descrição**                        | **Autor(es)**                                      | **Revisor(es)**                                    |
+| ---------- | ---------- | ------------------------------------ | -------------------------------------------------- | -------------------------------------------------- |
+| 1.0        | 02/02/2024 | Criação do documento                 | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs)   |
+| 1.1        | 03/02/2025 | Adição do Protótipo IA               | [Genilson Silva](https://github.com/GenilsonJrs)   | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+| 1.2        | 03/02/2025 | Adição do Protótipo Mensagem Privada | [Genilson Silva](https://github.com/GenilsonJrs)   | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+| 1.3        | 03/02/2025 | Adição do Protótipo Amigos Próximos  | [Carlos Eduardo](https://github.com/dudupaz)       | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+| 1.4        | 10/02/2025 | Adição de link e imagem              | [Genilson Silva](https://github.com/GenilsonJrs)   | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
