@@ -76,22 +76,13 @@ A tabela 1 mostra os requisitos utilizados para os protótipos.
   <summary>Protótipo 2 - IA</summary>
 
 <h2>Protótipo 2</h2>
-<p>O protótipo pode ser acessado diretamente em <a href="https://www.figma.com/proto/sfhXSQxvlgwGySwqQwlQm4/REQ---Implementa%C3%A7%C3%A3o-dos-Requisitos?node-id=32-18&p=f&t=tj90L1FPDz6mifxE-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=32%3A18&show-proto-sidebar=1">FIGMA</a>, e a Imagem 1 logo abaixo mostra a tela em questão.</p>
+<p>O protótipo pode ser acessado diretamente em <a href="https://www.figma.com/proto/sfhXSQxvlgwGySwqQwlQm4/REQ---Implementa%C3%A7%C3%A3o-dos-Requisitos?node-id=32-18&p=f&t=tj90L1FPDz6mifxE-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=32%3A18&show-proto-sidebar=1">FIGMA</a>.</p>
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/sfhXSQxvlgwGySwqQwlQm4/REQ---Implementa%C3%A7%C3%A3o-dos-Requisitos?node-id=32-18&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=32%3A18&show-proto-sidebar=1&embed-host=share" allowfullscreen></iframe>
 
 <p style="text-align: center; font-size: 14px;">
     Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>
 </p>
-
-<h2>Imagens do Figma</h2>
-
-<div style="text-align: center;">
-    <p><strong>Imagem 1 - Tela IA Figma</strong></p>
-  </div>
-
-<img src="https://github.com/Requisitos-de-Software/2024.2-Threads/blob/main/docs/Validação/imagens/figmaum.png" alt="Figma IA"> 
-
 
 <p style="text-align: center; font-size: 14px;">
     Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>
