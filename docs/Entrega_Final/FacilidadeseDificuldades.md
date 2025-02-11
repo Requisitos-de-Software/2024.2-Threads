@@ -24,18 +24,15 @@ Uma das principais facilidades que tive durante o projeto foi a boa dinâmica de
 
 Conciliar o projeto com a carga de disciplinas do semestre foi um dos maiores desafios. Com múltiplas matérias exigindo entregas simultâneas, manter um ritmo de trabalho consistente foi difícil. No entanto, a colaboração entre os membros e a divisão equilibrada de tarefas ajudaram a minimizar esse impacto.
 
-
-
 **Alana Gabriele**
 
-
-
+As principais facilidades que tive no projeto foram a boa comunicação com a equipe e a distribuição das tarefas, o que ajudou a manter tudo mais organizado e produtivo. No entanto, também enfrentei algumas dificuldades, principalmente na gravação dos vídeos com os usuários, devido à dificuldade de conciliar os horários. Além disso, equilibrar o cronograma da matéria e do projeto com outras disciplinas foi um desafio. Outra questão foi entender o padrão correto do projeto, especialmente na parte de verificação e validação, o que exigiu mais atenção ao longo do processo.
 
 # Histórico de Versões
 
-| **Versão** | **Data**   | **Descrição**                              | **Autor(es)**                                      | **Revisor(es)**                                    |
-| ---------- | ---------- | ------------------------------------------ | -------------------------------------------------- | -------------------------------------------------- |
-| 1.0        | 10/02/2025 | Criação do documento                       | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs)   |
-| 1.1        | 10/02/2025 | Adição de Facilidades e Dificuldades                       | [Carlos Eduardo](https://github.com/dudupaz) | [Samuel Ribeiro](https://github.com/SamuelRicosta)   |
-| 1.1        | 11/02/2025 | Adição de Facilidades e Dificuldades                       | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Carlos Eduardo](https://github.com/dudupaz)   |
-
+| **Versão** | **Data**   | **Descrição**                        | **Autor(es)**                                      | **Revisor(es)**                                    |
+| ---------- | ---------- | ------------------------------------ | -------------------------------------------------- | -------------------------------------------------- |
+| 1.0        | 10/02/2025 | Criação do documento                 | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs)   |
+| 1.1        | 10/02/2025 | Adição de Facilidades e Dificuldades | [Carlos Eduardo](https://github.com/dudupaz)       | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
+| 1.2        | 11/02/2025 | Adição de Facilidades e Dificuldades | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Carlos Eduardo](https://github.com/dudupaz)       |
+| 1.3        | 11/02/2025 | Adição de Facilidades e Dificuldades | [Alana Gabriele](https://github.com/alanagabriele) | [Carlos Eduardo](https://github.com/dudupaz)       |
