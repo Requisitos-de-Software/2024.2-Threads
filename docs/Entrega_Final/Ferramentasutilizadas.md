@@ -45,7 +45,7 @@ A tabela 1 a seguir agrupa as ferramentas utilizadas, com a finalidade que uma d
     <tr>
       <td><img src="https://miro.medium.com/v2/resize:fit:717/1*pHglcoa-BSouiNT7R2p9yQ.png" width="100" height="100"></td>
       <td><b><a href="https://docs.google.com/spreadsheets/">Google Planilhas:</a></b> Criação e edição colaborativa de planilhas e gráficos.</td>
-      <td>Etapa 6</td>
+      <td>Etapa 1</td>
     </tr>
     <tr>
       <td><img src="https://img.odcdn.com.br/wp-content/uploads/2023/05/Google-Docs.png" width="100" height="100"></td>
