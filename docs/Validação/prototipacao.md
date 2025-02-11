@@ -84,9 +84,6 @@ A tabela 1 mostra os requisitos utilizados para os protótipos.
     Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>
 </p>
 
-<p style="text-align: center; font-size: 14px;">
-    Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>
-</p>
 
 <h2>Gravação</h2>
 <p>O vídeo pode ser visto direto no <a href="https://www.youtube.com/watch?v=s6SukRs_dH8">YouTube.</a></p>
