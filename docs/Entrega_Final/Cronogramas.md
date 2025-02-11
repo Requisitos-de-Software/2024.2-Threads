@@ -1151,10 +1151,6 @@ Para otimização de tempo e melhor organização foi elaborado um cronograma pa
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                                         | Autor                                              | Revisor                                            |
-| ------ | ---------- | ----------------------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- |
-| 1.0    | 05/11/2024 | Criação do Documento                                              | [Alana Gabriele](https://github.com/alanagabriele) | [Genilson Silva](https://github.com/GenilsonJrs)   |
-| 1.1    | 13/11/2024 | Ajuste de datas e adição do período de verificação do nosso grupo | [Alana Gabriele](https://github.com/alanagabriele) | [Genilson Silva](https://github.com/GenilsonJrs)   |
-| 1.2    | 08/12/2024 | Cronograma Executado - etapa 3                                    | [Alana Gabriele](https://github.com/alanagabriele) | [Samuel Ribeiro](https://github.com/SamuelRicosta) |
-| 1.3    | 08/12/2024 | Cronograma Executado - etapa 6                                    | [Alana Gabriele](https://github.com/alanagabriele) | [Carlos Eduardo](https://github.com/dudupaz)       |
-| 1.4    | 10/12/2024 | Cronograma entrega final                                          | [Alana Gabriele](https://github.com/alanagabriele) | [Carlos Eduardo](https://github.com/dudupaz)       |
+| Versão | Data       | Descrição            | Autor                                              | Revisor                                          |
+| ------ | ---------- | -------------------- | -------------------------------------------------- | ------------------------------------------------ |
+| 1.0    | 09/02/2025 | Criação do Documento | [Alana Gabriele](https://github.com/alanagabriele) | [Genilson Silva](https://github.com/GenilsonJrs) |

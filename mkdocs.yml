@@ -56,7 +56,9 @@ nav:
       - Forward From: Rastreabilidade/forwardFrom.md
       - Matriz de Rastreabilidade: Rastreabilidade/matrizdeRastreabilidade.md
   - Entrega Final:
-    - Execução do projeto: Entrega_Final/Execucaoodoprojeto.md
+    - Aplicativo Escolhido: Entrega_Final/AppEscolhido.md
+    - Cronograma: Entrega_Final/Cronogramas.md
+    - Execução do projeto: Entrega_Final/Execucaodoprojeto.md
     - Técnicas utilizadas: Entrega_Final/Tecnicasutilizadas.md
     - Artefatos criados: Entrega_Final/ArtefatosCriados.md
     - Verificação e Validação: Entrega_Final/VerificacaoeValidacao.md
