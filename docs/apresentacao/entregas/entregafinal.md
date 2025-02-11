@@ -7,7 +7,7 @@ Neste espaço, você encontrará todas as gravações das apresentações realiz
 A apresentação da Entrega Final, disponível abaixo em Vídeo 1.
 
 <div style="text-align: center">
-<p>Vídeo 1 - Entrega da Etapa 6</p>
+<p>Vídeo 1 - Entrega Final</p>
 </div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PiAplLkf9vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
