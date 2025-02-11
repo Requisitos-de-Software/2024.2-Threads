@@ -14,7 +14,7 @@ A elicitação utilizou técnicas como levantamento de perfil de usuário, cria�
 
 A rastreabilidade foi mantida por meio da Matriz Geral e dos artefatos de pós-rastreabilidade, facilitando o controle das informações e a conexão entre os elementos documentados. A aplicação da Inspeção de Fagan possibilitou revisões detalhadas, assegurando qualidade e coesão no projeto.  
 
-### Conclusão
+## Conclusão
 
 Os resultados alcançados evidenciam a importância de um processo bem estruturado de requisitos de software. Com uma documentação precisa, rastreabilidade eficiente e uma gestão de mudanças bem conduzida, o projeto do aplicativo Threads atingiu seus objetivos de forma consistente, proporcionando um aprendizado significativo para todos os envolvidos.
 
