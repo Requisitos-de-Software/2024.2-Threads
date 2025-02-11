@@ -18,6 +18,12 @@ As principais dificuldades que enfrentei foi a frequência das entregas, que ger
 
 **Genilson Silva**
 
+Durante o desenvolvimento do projeto, encontrei diversas facilidades que contribuíram para um fluxo de trabalho produtivo. A colaboração entre os membros do grupo foi um dos principais fatores positivos, já que todos participaram ativamente das etapas e ajudaram sempre que necessário. Além disso, eu já tinha uma certa familiaridade com os conteúdos abordados na disciplina, o que facilitou a compreensão e execução das atividades.
+
+No entanto, algumas dificuldades também surgiram ao longo do processo. Como nosso grupo era composto por apenas quatro membros, em alguns momentos a divisão de tarefas foi um desafio, exigindo um esforço maior para equilibrar as responsabilidades. Outra questão foi a necessidade de trocar o aplicativo escolhido inicialmente, o BlueSky, pelo Threads, devido à escolha de outro grupo. Essa mudança exigiu um tempo extra para ajustes e adaptação dos artefatos já iniciados.
+
+Apesar desses desafios, considero que a experiência foi enriquecedora. Mesmo já conhecendo alguns conceitos, consegui aprofundar meu conhecimento e aprender novas abordagens dentro da Engenharia de Requisitos. O trabalho em equipe e a organização do projeto foram fundamentais para garantir que todas as entregas fossem realizadas dentro do prazo e com qualidade.
+
 **Carlos Eduardo**
 
 Uma das principais facilidades que tive durante o projeto foi a boa dinâmica de trabalho em equipe. Desde o início, conseguimos estabelecer uma comunicação eficiente, o que ajudou a distribuir melhor as tarefas e evitar retrabalho. Além disso, a dedicação de todos os integrantes foi essencial para garantir um fluxo de trabalho produtivo, permitindo que cada etapa do projeto fosse concluída dentro do prazo.
