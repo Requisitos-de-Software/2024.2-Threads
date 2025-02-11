@@ -16,6 +16,10 @@ Encontrei facilidade na organização e no trabalho em equipe, pois já conhecia
 
 As principais dificuldades que enfrentei foi a frequência das entregas, que gerou uma certa pressão em determinados momentos, dificultando a gestão do tempo e o foco na qualidade das tarefas. Outro desafio foi a padronização dos artefatos. No começo, tive dificuldades para alinhar os documentos aos padrões definidos pelo grupo, o que levou a algumas inconsistências. Também percebi o quanto é importante garantir a padronização das referências, incluindo detalhes como página, capítulo e autor, para assegurar a clareza e a credibilidade das informações apresentadas.
 
+**Alana Gabriele**
+
+As principais facilidades que tive no projeto foram a boa comunicação com a equipe e a distribuição das tarefas, o que ajudou a manter tudo mais organizado e produtivo. No entanto, também enfrentei algumas dificuldades, principalmente na gravação dos vídeos com os usuários, devido à dificuldade de conciliar os horários. Além disso, equilibrar o cronograma da matéria e do projeto com outras disciplinas foi um desafio. Outra questão foi entender o padrão correto do projeto, especialmente na parte de verificação e validação, o que exigiu mais atenção ao longo do processo.
+
 **Genilson Silva**
 
 Durante o desenvolvimento do projeto, encontrei diversas facilidades que contribuíram para um fluxo de trabalho produtivo. A colaboração entre os membros do grupo foi um dos principais fatores positivos, já que todos participaram ativamente das etapas e ajudaram sempre que necessário. Além disso, eu já tinha uma certa familiaridade com os conteúdos abordados na disciplina, o que facilitou a compreensão e execução das atividades.
@@ -29,10 +33,6 @@ Apesar desses desafios, considero que a experiência foi enriquecedora. Mesmo j�
 Uma das principais facilidades que tive durante o projeto foi a boa dinâmica de trabalho em equipe. Desde o início, conseguimos estabelecer uma comunicação eficiente, o que ajudou a distribuir melhor as tarefas e evitar retrabalho. Além disso, a dedicação de todos os integrantes foi essencial para garantir um fluxo de trabalho produtivo, permitindo que cada etapa do projeto fosse concluída dentro do prazo.
 
 Conciliar o projeto com a carga de disciplinas do semestre foi um dos maiores desafios. Com múltiplas matérias exigindo entregas simultâneas, manter um ritmo de trabalho consistente foi difícil. No entanto, a colaboração entre os membros e a divisão equilibrada de tarefas ajudaram a minimizar esse impacto.
-
-**Alana Gabriele**
-
-As principais facilidades que tive no projeto foram a boa comunicação com a equipe e a distribuição das tarefas, o que ajudou a manter tudo mais organizado e produtivo. No entanto, também enfrentei algumas dificuldades, principalmente na gravação dos vídeos com os usuários, devido à dificuldade de conciliar os horários. Além disso, equilibrar o cronograma da matéria e do projeto com outras disciplinas foi um desafio. Outra questão foi entender o padrão correto do projeto, especialmente na parte de verificação e validação, o que exigiu mais atenção ao longo do processo.
 
 # Histórico de Versões
 
