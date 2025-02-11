@@ -41,4 +41,5 @@ Conciliar o projeto com a carga de disciplinas do semestre foi um dos maiores de
 | **Versão** | **Data**   | **Descrição**                              | **Autor(es)**                                      | **Revisor(es)**                                    |
 | ---------- | ---------- | ------------------------------------------ | -------------------------------------------------- | -------------------------------------------------- |
 | 1.0        | 10/02/2025 | Criação do documento                       | [Samuel Ribeiro](https://github.com/SamuelRicosta) | [Genilson Silva](https://github.com/GenilsonJrs)   |
+| 1.1        | 10/02/2025 | Adição de Facilidades e Dificuldades                       | [Carlos Eduardo](https://github.com/dudupaz) | [Samuel Ribeiro](https://github.com/SamuelRicosta)   |
 
